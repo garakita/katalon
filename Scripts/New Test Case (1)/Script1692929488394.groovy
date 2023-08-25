@@ -17,3 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
+
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/a_Make Appointment'))
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Password_password'), 'DLh+kSXzp4gVseyDUgfZ0A==')
+
+WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Username_username'), 'กดเกเ')
+
