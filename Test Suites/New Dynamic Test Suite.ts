@@ -14,5 +14,5 @@
    <filteringBuiltIn>com.kms.katalon.execution.platform.DynamicBuiltInSearch</filteringBuiltIn>
    <filteringExtension></filteringExtension>
    <filteringPlugin></filteringPlugin>
-   <filteringText>name=(stp) </filteringText>
+   <filteringText>name=(stp)</filteringText>
 </FilteringTestSuiteEntity>
