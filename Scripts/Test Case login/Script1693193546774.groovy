@@ -23,9 +23,16 @@ WebUI.navigateToUrl('http://35.197.145.54/api/auth/signin?callbackUrl=http%3A%2F
 
 WebUI.setText(findTestObject('Object Repository/Page_Sign In/input_Username_username'), 'admin')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign In/input_Password_password'), 'aeHFOx8jV/A=')
+WebUI.setEncryptedText(findTestObject('Page_Sign In/input_Password_password'), 'aeHFOx8jV/A=')
 
 WebUI.click(findTestObject('Object Repository/Page_Sign In/button_Sign in with Credentials'))
 
 WebUI.closeBrowser()
+
+WebUI.mouseOver(123456, FailureHandling.STOP_ON_FAILURE)
+
+CucumberKW.comment('')
+
+for (def index : (0..0)) {
+}
 
