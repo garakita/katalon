@@ -4,4 +4,24 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'KZDP'</initValue>
+      <name>g_ZS_ProjectKey</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>g_ZS_TestCaseKey</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>g_ZS_TestCycleKey</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>g_ZS_StatusName</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

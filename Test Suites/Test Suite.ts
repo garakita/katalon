@@ -12,10 +12,10 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>1bb8c7a6-f0e8-420b-a55a-da840e3850ff</testSuiteGuid>
    <testCaseLink>
-      <guid>3d57d4a3-52cb-449e-90cc-0769fbb2ddc7</guid>
+      <guid>74e01e66-f221-4cbc-9672-3f9d24ea0a69</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/OKTESTCASE</testCaseId>
+      <testCaseId>Test Cases/STP-T120_test1</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
