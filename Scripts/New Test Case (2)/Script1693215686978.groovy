@@ -17,7 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://testops.katalon.io/team/1190419/project/1209076/test-project/1183719')
-
-WebUI.closeBrowser()
-
