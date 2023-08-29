@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>New Test Case (1)</name>
-   <tag></tag>
+   <name>SPT-T120_test1</name>
+   <tag>SPT-T120,SPT-R3</tag>
    <comment></comment>
    <testCaseGuid>6146e014-742a-4ebb-aba7-a0493b1d061d</testCaseGuid>
 </TestCaseEntity>
