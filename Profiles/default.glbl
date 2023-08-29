@@ -6,17 +6,17 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'KZDP'</initValue>
+      <initValue>'SPT'</initValue>
       <name>g_ZS_ProjectKey</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>''</initValue>
+      <initValue>'SPT-T'</initValue>
       <name>g_ZS_TestCaseKey</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>''</initValue>
+      <initValue>'SPT-R'</initValue>
       <name>g_ZS_TestCycleKey</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
