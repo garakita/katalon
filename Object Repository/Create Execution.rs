@@ -10,7 +10,7 @@
       <authorizationInfo>
          <entry>
             <key>bearerToken</key>
-            <value>eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjb250ZXh0Ijp7ImJhc2VVcmwiOiJodHRwczovL3RlY2htZXJjaC5hdGxhc3NpYW4ubmV0IiwidXNlciI6eyJhY2NvdW50SWQiOiI2MzljMGUwZWZiZjU0YmFmMjkwNDQyNDEifX0sImlzcyI6ImNvbS5rYW5vYWgudGVzdC1tYW5hZ2VyIiwic3ViIjoiMjRlNmNkYzQtNjFjMS0zNDE0LTk5ZDgtYWNiZTM1MWViOGVmIiwiZXhwIjoxNzI0NDIxNzc5LCJpYXQiOjE2OTI4ODU3Nzl9.jD4US8joBAe3KP23K8AOTFgB9TY4uaqYBo6Xx5iofrw</value>
+            <value>eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjb250ZXh0Ijp7ImJhc2VVcmwiOiJodHRwczovL3RlY2htZXJjaC5hdGxhc3NpYW4ubmV0IiwidXNlciI6eyJhY2NvdW50SWQiOiI2MzljMGUwZWZiZjU0YmFmMjkwNDQyNDEifX0sImlzcyI6ImNvbS5rYW5vYWgudGVzdC1tYW5hZ2VyIiwic3ViIjoiMjRlNmNkYzQtNjFjMS0zNDE0LTk5ZDgtYWNiZTM1MWViOGVmIiwiZXhwIjoxNzI0ODMxMDQ1LCJpYXQiOjE2OTMyOTUwNDV9.4-RX-o26xSSWqFWrZfymBmJOVHYuwT2-MHe4B5SHzN0</value>
          </entry>
       </authorizationInfo>
       <authorizationType>Bearer</authorizationType>
@@ -32,6 +32,14 @@
       <type>Main</type>
       <value>text/plain</value>
       <webElementGuid>fe37cf54-81da-4635-b047-a3376ab1097e</webElementGuid>
+   </httpHeaderProperties>
+   <httpHeaderProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Authorization</name>
+      <type>Main</type>
+      <value>Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjb250ZXh0Ijp7ImJhc2VVcmwiOiJodHRwczovL3RlY2htZXJjaC5hdGxhc3NpYW4ubmV0IiwidXNlciI6eyJhY2NvdW50SWQiOiI2MzljMGUwZWZiZjU0YmFmMjkwNDQyNDEifX0sImlzcyI6ImNvbS5rYW5vYWgudGVzdC1tYW5hZ2VyIiwic3ViIjoiMjRlNmNkYzQtNjFjMS0zNDE0LTk5ZDgtYWNiZTM1MWViOGVmIiwiZXhwIjoxNzI0ODMxMDQ1LCJpYXQiOjE2OTMyOTUwNDV9.4-RX-o26xSSWqFWrZfymBmJOVHYuwT2-MHe4B5SHzN0</value>
+      <webElementGuid>e11befcd-cd7a-4198-99e7-2977306c150f</webElementGuid>
    </httpHeaderProperties>
    <katalonVersion>8.6.6</katalonVersion>
    <maxResponseSize>-1</maxResponseSize>
