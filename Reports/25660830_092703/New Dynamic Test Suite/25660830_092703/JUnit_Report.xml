@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New Dynamic Test Suite" time="18.094" tests="1" failures="0" errors="0">
+   <testsuite name="New Dynamic Test Suite" tests="1" failures="0" errors="0" time="18.094" skipped="0" timestamp="2566-08-30 09:27:20" hostname="USER - DESKTOP-67R9BDO" id="Test Suites/New Dynamic Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\USER\\git\\katalon\\Reports\\25660830_092703\\New Dynamic Test Suite\\25660830_092703"/>
+         <property name="logFiles" value="C:\\Users\\USER\\git\\katalon\\Reports\\25660830_092703\\New Dynamic Test Suite\\25660830_092703\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="USER - DESKTOP-67R9BDO"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="8.6.6.208"/>
+         <property name="browser" value="Chrome 116.0.0.0"/>
+         <property name="hostAddress" value="172.20.10.12"/>
+         <property name="sessionId" value="2569bb7266e4d218011e75e868604b10"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/SPT-T120_test1" time="17.479" classname="Test Cases/SPT-T120_test1" status="PASSED">
+         <system-out><![CDATA[2566-08-30 09:27:21 - [TEST_CASE][PASSED] - Test Cases/SPT-T120_test1: Test Cases/SPT-T120_test1
+
+2566-08-30 09:27:21 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2566-08-30 09:27:22 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2566-08-30 09:27:22 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2566-08-30 09:27:26 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2566-08-30 09:27:26 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon-demo-cura.herokuapp.com/"): Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+2566-08-30 09:27:30 - [MESSAGE][PASSED] - Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+2566-08-30 09:27:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/a_Make Appointment")): Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2566-08-30 09:27:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2566-08-30 09:27:32 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_CURA Healthcare Service/input_Username_username"), "111"): Text '111' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Username_username'
+
+2566-08-30 09:27:33 - [MESSAGE][PASSED] - Text '111' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Username_username'
+
+2566-08-30 09:27:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/button_Login")): Object: 'Object Repository/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2566-08-30 09:27:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2566-08-30 09:27:34 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Send request successfully
+
+2566-08-30 09:27:34 - [TEST_STEP][PASSED] - testCase = findTestCase(testCaseContext.getTestCaseId()): null
+
+2566-08-30 09:27:34 - [TEST_STEP][PASSED] - g_ZS_TestCaseKey = getName().split("_")[0]: null
+
+2566-08-30 09:27:35 - [TEST_STEP][PASSED] - if (testCaseContext.getTestCaseStatus() == "PASSED"): null
+
+2566-08-30 09:27:35 - [TEST_STEP][PASSED] - sendRequest(findTestObject("Create Execution")): Send request successfully
+
+2566-08-30 09:27:38 - [MESSAGE][INFO] - HAR: C:\Users\USER\git\katalon\Reports\25660830_092703\New Dynamic Test Suite\25660830_092703\requests\main\0.har
+
+2566-08-30 09:27:38 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2566-08-30 09:27:20 - [TEST_SUITE][PASSED] - New Dynamic Test Suite: Test Cases/SPT-T120_test1]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
