@@ -15,24 +15,16 @@
 		<nature>org.eclipse.jdt.groovy.core.groovyNature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-<<<<<<< HEAD
-=======
 	<linkedResources>
 		<link>
-			<name>kat-4181231028236381509.groovy</name>
+			<name>kat-947571739101090237.groovy</name>
 			<type>1</type>
-			<location>/var/folders/lz/s8v153y93rsbwbvn73670fj00000gn/T/Katalon/Web Services/kat-4181231028236381509.groovy</location>
-		</link>
-		<link>
-			<name>kat-4445129403586943183.groovy</name>
-			<type>1</type>
-			<location>/Applications/Katalon Studio.app/Contents/MacOS/C::/Users/NUC/AppData/Local/Temp/Katalon/Web Services/kat-4445129403586943183.groovy</location>
+			<location>C:/Users/NUC/AppData/Local/Temp/Katalon/Web Services/kat-947571739101090237.groovy</location>
 		</link>
 	</linkedResources>
->>>>>>> branch 'master' of https://github.com/garakita/katalon.git
 	<filteredResources>
 		<filter>
-			<id>1693214607625</id>
+			<id>1692893595549</id>
 			<name></name>
 			<type>10</type>
 			<matcher>
@@ -41,7 +33,7 @@
 			</matcher>
 		</filter>
 		<filter>
-			<id>1693214607630</id>
+			<id>1692893595552</id>
 			<name></name>
 			<type>6</type>
 			<matcher>
@@ -50,7 +42,7 @@
 			</matcher>
 		</filter>
 		<filter>
-			<id>1693214832315</id>
+			<id>1692893888866</id>
 			<name></name>
 			<type>10</type>
 			<matcher>
@@ -59,7 +51,7 @@
 			</matcher>
 		</filter>
 		<filter>
-			<id>1693214832326</id>
+			<id>1692893888873</id>
 			<name></name>
 			<type>6</type>
 			<matcher>
@@ -68,7 +60,7 @@
 			</matcher>
 		</filter>
 		<filter>
-			<id>1693216926457</id>
+			<id>1693360649918</id>
 			<name></name>
 			<type>10</type>
 			<matcher>
@@ -77,38 +69,7 @@
 			</matcher>
 		</filter>
 		<filter>
-			<id>1693216926465</id>
-			<name></name>
-			<type>6</type>
-			<matcher>
-				<id>org.eclipse.core.resources.regexFilterMatcher</id>
-				<arguments>(.*\.svn-base$)|(.*\.png$)|(.*\.log$)|(.*\.xlsx$)|(.*\.xls$)|(.*\.csv$)|(.*\.txt$)</arguments>
-			</matcher>
-		</filter>
-		<filter>
-<<<<<<< HEAD
-			<id>1693318770969</id>
-			<name></name>
-			<type>10</type>
-			<matcher>
-				<id>org.eclipse.core.resources.regexFilterMatcher</id>
-				<arguments>.*\.svn$</arguments>
-			</matcher>
-		</filter>
-		<filter>
-			<id>1693318770986</id>
-=======
-			<id>1693294752191</id>
-			<name></name>
-			<type>10</type>
-			<matcher>
-				<id>org.eclipse.core.resources.regexFilterMatcher</id>
-				<arguments>.*\.svn$</arguments>
-			</matcher>
-		</filter>
-		<filter>
-			<id>1693294752208</id>
->>>>>>> branch 'master' of https://github.com/garakita/katalon.git
+			<id>1693360649926</id>
 			<name></name>
 			<type>6</type>
 			<matcher>

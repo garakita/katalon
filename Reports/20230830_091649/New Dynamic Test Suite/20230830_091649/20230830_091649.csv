@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Dynamic Test Suite,Chrome 116.0.0.0,,,2023-08-30 09:17:02,2023-08-30 09:17:27,24.744s,PASSED
+,,,,,,,
+Test Cases/SPT-T120_test1,Chrome 116.0.0.0,,"SPT-T120,SPT-R3",2023-08-30 09:17:02,2023-08-30 09:17:27,24.602s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-08-30 09:17:02,2023-08-30 09:17:04,1.735s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Chrome 116.0.0.0,,,2023-08-30 09:17:04,2023-08-30 09:17:21,17.350s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/a_Make Appointment""))",Chrome 116.0.0.0,,,2023-08-30 09:17:21,2023-08-30 09:17:23,1.245s,PASSED
+"setText(findTestObject(""Object Repository/Page_CURA Healthcare Service/input_Username_username""), ""111"")",Chrome 116.0.0.0,,,2023-08-30 09:17:23,2023-08-30 09:17:23,0.571s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/button_Login""))",Chrome 116.0.0.0,,,2023-08-30 09:17:23,2023-08-30 09:17:25,1.430s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 116.0.0.0,,,2023-08-30 09:17:25,2023-08-30 09:17:27,2.106s,PASSED
