@@ -1,3 +1,14 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Create Next App/button_Waters_headlessui-menu-button-r12",
+      "brokenLocator": "//button[@id\u003d\u0027headlessui-menu-button-:r12:\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027SUB CATEGORY\u0027])[1]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Create Next App/button_Waters_headlessui-menu-button-r12_neighbor.png"
+    }
+  ]
 }

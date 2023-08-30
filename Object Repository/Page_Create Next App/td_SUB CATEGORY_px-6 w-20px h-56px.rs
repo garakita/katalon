@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_SUB CATEGORY_px-6 w-20px h-56px</name>
+   <tag></tag>
+   <elementGuidId>60a4dd5d-73eb-49d4-aad8-f9a241309445</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-tabs-panel-:r2:']/div/div[2]/div/table/tbody/tr/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>dfc99231-5457-4ead-9669-fff580f0305e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-6 w-[20px] h-[56px]</value>
+      <webElementGuid>c5b59344-0c03-4c65-bfc9-03f9185c24d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-tabs-panel-:r2:&quot;)/div[@class=&quot;mt-6 overflow-x-auto lg:overflow-x-hidden bg-white text-gray-700 w-auto h-auto shadow-lg overflow-hidden dark:bg-slate-700 rounded-2xl&quot;]/div[@class=&quot;px-6&quot;]/div[@class=&quot;rounded-xl space-x-8&quot;]/table[@class=&quot;table-auto w-full text-xs text-gray-500 whitespace-nowrap dark:text-gray-400 mr-10 md:mr-0&quot;]/tbody[1]/tr[@class=&quot;bg-white dark:bg-gray-600&quot;]/td[@class=&quot;px-6 w-[20px] h-[56px]&quot;]</value>
+      <webElementGuid>db2738cc-bb26-4327-8500-9da82b167ec9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-tabs-panel-:r2:']/div/div[2]/div/table/tbody/tr/td</value>
+      <webElementGuid>57ab0fff-13fd-44c4-a967-7ab8420ccc28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SUB CATEGORY'])[1]/following::td[1]</value>
+      <webElementGuid>cacc3dab-4c21-4b98-bb75-117056b6c38f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CATEGORY'])[1]/following::td[1]</value>
+      <webElementGuid>bb6c70d9-0e7c-48ba-a995-94a3911f9a89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Waters'])[1]/preceding::td[1]</value>
+      <webElementGuid>3cab5ba4-ca13-48ed-b035-9438018fde7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SUB Category'])[1]/preceding::td[4]</value>
+      <webElementGuid>dddc2c3c-be62-4a44-aad4-6f7294be395f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td</value>
+      <webElementGuid>5cd46546-bf43-4666-83a7-d2b5ead8f06f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
