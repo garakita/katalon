@@ -21,7 +21,7 @@
    <httpBody></httpBody>
    <httpBodyContent>{
   &quot;text&quot;: &quot;{\n\t\&quot;projectKey\&quot;: \&quot;${GlobalVariable.g_ZS_ProjectKey}\&quot;,\n    \&quot;testCaseKey\&quot;: \&quot;${GlobalVariable.g_ZS_TestCaseKey}\&quot;,\n    \&quot;testCycleKey\&quot;: \&quot;${GlobalVariable.g_ZS_TestCycleKey}\&quot;,\n    \&quot;statusName\&quot;: \&quot;${GlobalVariable.g_ZS_StatusName}\&quot;\n    }&quot;,
-  &quot;contentType&quot;: &quot;text/plain&quot;,
+  &quot;contentType&quot;: &quot;application/json&quot;,
   &quot;charset&quot;: &quot;UTF-8&quot;
 }</httpBodyContent>
    <httpBodyType>text</httpBodyType>
