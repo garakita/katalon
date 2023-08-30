@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite search categoryList,Chrome 116.0.0.0,,,2566-08-30 13:59:49,2566-08-30 14:00:30,40.081s,FAILED
+,,,,,,,
+Test Cases/TEST Search Category LIST,Chrome 116.0.0.0,,,2566-08-30 14:00:22,2566-08-30 14:00:30,7.636s,FAILED
+"openBrowser("""")",Chrome 116.0.0.0,,,2566-08-30 14:00:22,2566-08-30 14:00:24,1.916s,PASSED
+"navigateToUrl(""https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"")",Chrome 116.0.0.0,,,2566-08-30 14:00:24,2566-08-30 14:00:25,0.810s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign In/input_Username_username""), ""admin"")",Chrome 116.0.0.0,,,2566-08-30 14:00:25,2566-08-30 14:00:26,0.941s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign In/input_Password_password""), ""aeHFOx8jV/A="")",Chrome 116.0.0.0,,,2566-08-30 14:00:26,2566-08-30 14:00:26,0.444s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign In/button_Sign in with Credentials""))",Chrome 116.0.0.0,,,2566-08-30 14:00:26,2566-08-30 14:00:27,0.727s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/div_Item""))",Chrome 116.0.0.0,,,2566-08-30 14:00:27,2566-08-30 14:00:28,1.081s,PASSED
+"doubleClick(findTestObject(""Object Repository/Page_Create Next App/span_Item""))",Chrome 116.0.0.0,,,2566-08-30 14:00:28,2566-08-30 14:00:29,0.839s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/span_Item""))",Chrome 116.0.0.0,,,2566-08-30 14:00:29,2566-08-30 14:00:29,0.383s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/span_Category""))",Chrome 116.0.0.0,,,2566-08-30 14:00:29,2566-08-30 14:00:30,0.478s,FAILED

@@ -27,25 +27,15 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign In/input_Pass
 
 WebUI.click(findTestObject('Object Repository/Page_Sign In/button_Sign in with Credentials'))
 
-WebUI.click(findTestObject('Object Repository/Page_Create Next App/div_Item'))
-
-WebUI.doubleClick(findTestObject('Object Repository/Page_Create Next App/span_Item'))
-
 WebUI.click(findTestObject('Object Repository/Page_Create Next App/span_Item'))
 
 WebUI.click(findTestObject('Object Repository/Page_Create Next App/span_Category'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Create Next App/input_Add Category_input-group-1'), 'Water')
+WebUI.setText(findTestObject('Object Repository/Page_Create Next App/input_Add Category_input-group-1'), 'water')
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_Create Next App/input_Add Category_input-group-1'), Keys.chord(Keys.ENTER))
 
-WebUI.setText(findTestObject('Object Repository/Page_Create Next App/input_Add Category_input-group-1'), 'sss')
-
-WebUI.sendKeys(findTestObject('Object Repository/Page_Create Next App/input_Add Category_input-group-1'), Keys.chord(Keys.ENTER))
-
-WebUI.setText(findTestObject('Object Repository/Page_Create Next App/input_Add Category_input-group-1'), 'sss')
-
-WebUI.sendKeys(findTestObject('Object Repository/Page_Create Next App/input_Add Category_input-group-1'), Keys.chord(Keys.ENTER))
+WebUI.setText(findTestObject('Object Repository/Page_Create Next App/input_Add Category_input-group-1'), '')
 
 WebUI.closeBrowser()
 

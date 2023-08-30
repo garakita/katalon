@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <FilteringTestSuiteEntity>
    <description></description>
-   <name>Dynamic Test search</name>
+   <name>Dynamic Search</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,9 +10,9 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>9daa9a40-91df-4daa-acee-cfba8c701a8c</testSuiteGuid>
+   <testSuiteGuid>8f7fcabe-7b59-409e-840e-2b6afa4850c3</testSuiteGuid>
    <filteringBuiltIn>com.kms.katalon.execution.platform.DynamicBuiltInSearch</filteringBuiltIn>
    <filteringExtension></filteringExtension>
    <filteringPlugin></filteringPlugin>
-   <filteringText>name=(sear) </filteringText>
+   <filteringText>name=(s) </filteringText>
 </FilteringTestSuiteEntity>

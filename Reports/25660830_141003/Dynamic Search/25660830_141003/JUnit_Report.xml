@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Dynamic Search" time="11.67" tests="1" failures="0" errors="0">
+   <testsuite name="Dynamic Search" tests="1" failures="0" errors="0" time="11.67" skipped="0" timestamp="2566-08-30 14:10:14" hostname="USER - DESKTOP-67R9BDO" id="Test Suites/Dynamic Search">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\USER\\git\\katalon\\Reports\\25660830_141003\\Dynamic Search\\25660830_141003"/>
+         <property name="logFiles" value="C:\\Users\\USER\\git\\katalon\\Reports\\25660830_141003\\Dynamic Search\\25660830_141003\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="USER - DESKTOP-67R9BDO"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="8.6.6.208"/>
+         <property name="browser" value="Chrome 116.0.0.0"/>
+         <property name="hostAddress" value="172.20.10.12"/>
+         <property name="sessionId" value="5df9abc4821e54a4633e254a87312ec7"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/TEST Search Category LIST" time="11.341" classname="Test Cases/TEST Search Category LIST" status="PASSED">
+         <system-out><![CDATA[2566-08-30 14:10:14 - [TEST_CASE][PASSED] - Test Cases/TEST Search Category LIST: Test Cases/TEST Search Category LIST
+
+2566-08-30 14:10:14 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2566-08-30 14:10:15 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2566-08-30 14:10:15 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2566-08-30 14:10:17 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2566-08-30 14:10:17 - [TEST_STEP][PASSED] - navigateToUrl("https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"): Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/' successfully
+
+2566-08-30 14:10:18 - [MESSAGE][PASSED] - Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/' successfully
+
+2566-08-30 14:10:18 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Sign In/input_Username_username"), "admin"): Text 'admin' is set on object 'Object Repository/Page_Sign In/input_Username_username'
+
+2566-08-30 14:10:19 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/Page_Sign In/input_Username_username'
+
+2566-08-30 14:10:19 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Sign In/input_Password_password"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/Page_Sign In/input_Password_password'
+
+2566-08-30 14:10:20 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Sign In/input_Password_password'
+
+2566-08-30 14:10:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign In/button_Sign in with Credentials")): Object: 'Object Repository/Page_Sign In/button_Sign in with Credentials' is clicked on
+
+2566-08-30 14:10:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign In/button_Sign in with Credentials' is clicked on
+
+2566-08-30 14:10:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/span_Item")): Object: 'Object Repository/Page_Create Next App/span_Item' is clicked on
+
+2566-08-30 14:10:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/span_Item' is clicked on
+
+2566-08-30 14:10:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/span_Category")): Object: 'Object Repository/Page_Create Next App/span_Category' is clicked on
+
+2566-08-30 14:10:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/span_Category' is clicked on
+
+2566-08-30 14:10:22 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "water"): Text 'water' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-30 14:10:23 - [MESSAGE][PASSED] - Text 'water' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-30 14:10:23 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-30 14:10:24 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-30 14:10:24 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), ""): Text '' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-30 14:10:25 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-30 14:10:25 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2566-08-30 14:10:25 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2566-08-30 14:10:14 - [TEST_SUITE][PASSED] - Dynamic Search: Test Cases/TEST Search Category LIST]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
