@@ -25,3 +25,7 @@ WebUI.click(findTestObject('Object Repository/Page_Create Next App/span_Category
 
 WebUI.click(findTestObject('Object Repository/Page_Create Next App/button_Category'))
 
+WebUI.check(findTestObject(null))
+
+WebUI.acceptAlert()
+
