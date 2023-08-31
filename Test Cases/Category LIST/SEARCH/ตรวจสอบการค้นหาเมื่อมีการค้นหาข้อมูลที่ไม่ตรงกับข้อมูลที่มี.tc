@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>987654321</description>
+   <name>ตรวจสอบการค้นหาเมื่อมีการค้นหาข้อมูลที่ไม่ตรงกับข้อมูลที่มี</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ebe57032-da1f-40eb-aab9-47d69f2807cf</testCaseGuid>
+</TestCaseEntity>

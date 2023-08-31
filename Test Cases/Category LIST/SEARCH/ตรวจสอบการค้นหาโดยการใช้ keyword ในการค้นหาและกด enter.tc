@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ใช้อักษรที่อยู่ตรงกลาง</description>
+   <name>ตรวจสอบการค้นหาโดยการใช้ keyword ในการค้นหาและกด enter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>20a7f83c-9f60-47ec-a576-af05a270063c</testCaseGuid>
+</TestCaseEntity>
