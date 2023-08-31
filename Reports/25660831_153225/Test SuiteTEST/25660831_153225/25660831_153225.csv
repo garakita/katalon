@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test SuiteTEST,Chrome 116.0.0.0,,,2566-08-31 15:32:34,2566-08-31 15:32:43,9.259s,FAILED
+,,,,,,,
+Test Cases/TEST LOGIN,Chrome 116.0.0.0,"username : admin
+password : 123456",,2566-08-31 15:32:34,2566-08-31 15:32:42,8.159s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2566-08-31 15:32:35,2566-08-31 15:32:38,3.140s,PASSED
+"navigateToUrl(""https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"")",Chrome 116.0.0.0,,,2566-08-31 15:32:38,2566-08-31 15:32:39,0.952s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign In/input_Username_username""), ""admin"")",Chrome 116.0.0.0,,,2566-08-31 15:32:39,2566-08-31 15:32:40,1.410s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign In/input_Password_password""), ""aeHFOx8jV/A="")",Chrome 116.0.0.0,,,2566-08-31 15:32:40,2566-08-31 15:32:41,0.541s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign In/button_Sign in with Credentials""))",Chrome 116.0.0.0,,,2566-08-31 15:32:41,2566-08-31 15:32:42,0.910s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2566-08-31 15:32:42,2566-08-31 15:32:42,0.753s,PASSED
+,,,,,,,
+Test Cases/Category LIST/SEARCH category/ตรวจสอบว่าสามารถ copy ข้อมูลมาวางได้หรือไม่,Chrome 116.0.0.0,,,2566-08-31 15:32:43,2566-08-31 15:32:43,0.072s,FAILED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), ""SSS"")",Chrome 116.0.0.0,,,2566-08-31 15:32:43,2566-08-31 15:32:43,0.061s,FAILED

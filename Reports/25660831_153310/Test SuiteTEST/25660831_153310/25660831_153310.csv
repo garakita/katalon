@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test SuiteTEST,Chrome 116.0.0.0,,,2566-08-31 15:33:19,2566-08-31 15:33:59,39.411s,PASSED
+,,,,,,,
+Test Cases/TEST LOGIN,Chrome 116.0.0.0,"username : admin
+password : 123456",,2566-08-31 15:33:20,2566-08-31 15:33:27,7.310s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2566-08-31 15:33:20,2566-08-31 15:33:23,3.129s,PASSED
+"navigateToUrl(""https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"")",Chrome 116.0.0.0,,,2566-08-31 15:33:23,2566-08-31 15:33:24,1.045s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign In/input_Username_username""), ""admin"")",Chrome 116.0.0.0,,,2566-08-31 15:33:24,2566-08-31 15:33:26,1.299s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign In/input_Password_password""), ""aeHFOx8jV/A="")",Chrome 116.0.0.0,,,2566-08-31 15:33:26,2566-08-31 15:33:26,0.500s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign In/button_Sign in with Credentials""))",Chrome 116.0.0.0,,,2566-08-31 15:33:26,2566-08-31 15:33:27,0.895s,PASSED
+,,,,,,,
+Test Cases/Category LIST/SEARCH category/ตรวจสอบว่าสามารถ copy ข้อมูลมาวางได้หรือไม่,Chrome 116.0.0.0,,,2566-08-31 15:33:27,2566-08-31 15:33:59,31.709s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), ""SSS"")",Chrome 116.0.0.0,,,2566-08-31 15:33:28,2566-08-31 15:33:54,26.013s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2566-08-31 15:33:54,2566-08-31 15:33:54,0.598s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), ""SSS"")",Chrome 116.0.0.0,,,2566-08-31 15:33:54,2566-08-31 15:33:55,0.873s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2566-08-31 15:33:55,2566-08-31 15:33:56,0.553s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), ""SSS"")",Chrome 116.0.0.0,,,2566-08-31 15:33:56,2566-08-31 15:33:56,0.886s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2566-08-31 15:33:56,2566-08-31 15:33:57,0.579s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), """")",Chrome 116.0.0.0,,,2566-08-31 15:33:57,2566-08-31 15:33:58,0.818s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2566-08-31 15:33:58,2566-08-31 15:33:59,0.829s,PASSED

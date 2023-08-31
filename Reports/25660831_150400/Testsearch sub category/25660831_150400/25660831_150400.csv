@@ -1,0 +1,143 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Testsearch sub category,Chrome 116.0.0.0,,,2566-08-31 15:04:10,2566-08-31 15:06:26,2m - 16.682s,FAILED
+,,,,,,,
+Test Cases/Category LIST/Search sub category/ตรวจสอบการค้นหาเมื่อมีการค้นหาข้อมูลที่ไม่ตรงกับข้อมูลที่มี,Chrome 116.0.0.0,987654321,,2566-08-31 15:04:10,2566-08-31 15:04:34,24.461s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2566-08-31 15:04:10,2566-08-31 15:04:13,2.485s,PASSED
+"navigateToUrl(""https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"")",Chrome 116.0.0.0,,,2566-08-31 15:04:13,2566-08-31 15:04:14,0.866s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign In/input_Username_username""), ""admin"")",Chrome 116.0.0.0,,,2566-08-31 15:04:14,2566-08-31 15:04:15,1.010s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign In/input_Password_password""), ""aeHFOx8jV/A="")",Chrome 116.0.0.0,,,2566-08-31 15:04:15,2566-08-31 15:04:15,0.508s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign In/button_Sign in with Credentials""))",Chrome 116.0.0.0,,,2566-08-31 15:04:15,2566-08-31 15:04:23,7.659s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/span_Item""))",Chrome 116.0.0.0,,,2566-08-31 15:04:23,2566-08-31 15:04:24,0.728s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/span_Category""))",Chrome 116.0.0.0,,,2566-08-31 15:04:24,2566-08-31 15:04:24,0.784s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/button_Sub Category""))",Chrome 116.0.0.0,,,2566-08-31 15:04:24,2566-08-31 15:04:25,0.962s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), ""0003333"")",Chrome 116.0.0.0,,,2566-08-31 15:04:25,2566-08-31 15:04:26,0.826s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2566-08-31 15:04:26,2566-08-31 15:04:27,0.483s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/svg_Add SubCategory_absolute top-12 transfo_2e79f2""))",Chrome 116.0.0.0,,,2566-08-31 15:04:27,2566-08-31 15:04:27,0.389s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), ""subnnnn"")",Chrome 116.0.0.0,,,2566-08-31 15:04:27,2566-08-31 15:04:28,0.814s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2566-08-31 15:04:28,2566-08-31 15:04:28,0.495s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), ""subnnnn"")",Chrome 116.0.0.0,,,2566-08-31 15:04:28,2566-08-31 15:04:29,0.697s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2566-08-31 15:04:29,2566-08-31 15:04:30,0.468s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), ""PUY"")",Chrome 116.0.0.0,,,2566-08-31 15:04:30,2566-08-31 15:04:30,0.682s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2566-08-31 15:04:30,2566-08-31 15:04:31,0.488s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), ""PUY"")",Chrome 116.0.0.0,,,2566-08-31 15:04:31,2566-08-31 15:04:31,0.680s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2566-08-31 15:04:31,2566-08-31 15:04:32,0.471s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), ""PUY"")",Chrome 116.0.0.0,,,2566-08-31 15:04:32,2566-08-31 15:04:33,0.676s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2566-08-31 15:04:33,2566-08-31 15:04:33,0.460s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), """")",Chrome 116.0.0.0,,,2566-08-31 15:04:33,2566-08-31 15:04:34,0.682s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2566-08-31 15:04:34,2566-08-31 15:04:34,0.706s,PASSED
+,,,,,,,
+Test Cases/Category LIST/Search sub category/ตรวจสอบการค้นหาโดยการใช้ keyword ในการค้นหาและกด enter,Chrome 116.0.0.0,ใช้อักษรที่อยู่ตรงกลาง,,2566-08-31 15:04:34,2566-08-31 15:04:50,15.902s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2566-08-31 15:04:35,2566-08-31 15:04:36,1.198s,PASSED
+"navigateToUrl(""https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"")",Chrome 116.0.0.0,,,2566-08-31 15:04:36,2566-08-31 15:04:37,1.091s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign In/input_Username_username""), ""admin"")",Chrome 116.0.0.0,,,2566-08-31 15:04:37,2566-08-31 15:04:38,0.968s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign In/input_Password_password""), ""aeHFOx8jV/A="")",Chrome 116.0.0.0,,,2566-08-31 15:04:38,2566-08-31 15:04:38,0.404s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign In/button_Sign in with Credentials""))",Chrome 116.0.0.0,,,2566-08-31 15:04:38,2566-08-31 15:04:39,0.965s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/div_Item""))",Chrome 116.0.0.0,,,2566-08-31 15:04:39,2566-08-31 15:04:40,0.653s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/span_Item""))",Chrome 116.0.0.0,,,2566-08-31 15:04:40,2566-08-31 15:04:40,0.375s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/span_Category""))",Chrome 116.0.0.0,,,2566-08-31 15:04:40,2566-08-31 15:04:41,0.721s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/button_Sub Category""))",Chrome 116.0.0.0,,,2566-08-31 15:04:41,2566-08-31 15:04:42,1.022s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), ""ubrice"")",Chrome 116.0.0.0,,,2566-08-31 15:04:42,2566-08-31 15:04:43,0.822s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2566-08-31 15:04:43,2566-08-31 15:04:44,0.550s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), ""001"")",Chrome 116.0.0.0,,,2566-08-31 15:04:44,2566-08-31 15:04:44,0.721s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2566-08-31 15:04:44,2566-08-31 15:04:45,0.485s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), ""Ben"")",Chrome 116.0.0.0,,,2566-08-31 15:04:45,2566-08-31 15:04:45,0.757s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2566-08-31 15:04:45,2566-08-31 15:04:46,0.596s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), ""Ben"")",Chrome 116.0.0.0,,,2566-08-31 15:04:46,2566-08-31 15:04:47,0.694s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2566-08-31 15:04:47,2566-08-31 15:04:47,0.472s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), ""HUT"")",Chrome 116.0.0.0,,,2566-08-31 15:04:47,2566-08-31 15:04:48,0.704s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2566-08-31 15:04:48,2566-08-31 15:04:48,0.479s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), ""1150"")",Chrome 116.0.0.0,,,2566-08-31 15:04:48,2566-08-31 15:04:49,0.690s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2566-08-31 15:04:49,2566-08-31 15:04:50,0.554s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2566-08-31 15:04:50,2566-08-31 15:04:50,0.692s,PASSED
+,,,,,,,
+Test Cases/Category LIST/Search sub category/ตรวจสอบการค้นหาโดยมีการป้อนข้อมูลที่ถูกต้อง,Chrome 116.0.0.0,,,2566-08-31 15:05:09,2566-08-31 15:05:15,6.140s,FAILED
+"openBrowser("""")",Chrome 116.0.0.0,,,2566-08-31 15:05:09,2566-08-31 15:05:11,1.917s,PASSED
+"navigateToUrl(""https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"")",Chrome 116.0.0.0,,,2566-08-31 15:05:11,2566-08-31 15:05:11,0.779s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign In/input_Username_username""), ""admin"")",Chrome 116.0.0.0,,,2566-08-31 15:05:11,2566-08-31 15:05:12,0.938s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign In/input_Password_password""), ""aeHFOx8jV/A="")",Chrome 116.0.0.0,,,2566-08-31 15:05:12,2566-08-31 15:05:13,0.491s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign In/button_Sign in with Credentials""))",Chrome 116.0.0.0,,,2566-08-31 15:05:13,2566-08-31 15:05:13,0.703s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/div_Item""))",Chrome 116.0.0.0,,,2566-08-31 15:05:13,2566-08-31 15:05:14,0.853s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/span_Category""))",Chrome 116.0.0.0,,,2566-08-31 15:05:14,2566-08-31 15:05:15,0.449s,FAILED
+,,,,,,,
+Test Cases/Category LIST/Search sub category/ตรวจสอบฟังก์ชันการค้นหาเมื่อมีการค้นหาค่าว่าง,Chrome 116.0.0.0,,,2566-08-31 15:05:15,2566-08-31 15:05:44,29.459s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2566-08-31 15:05:15,2566-08-31 15:05:17,1.855s,PASSED
+"navigateToUrl(""https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"")",Chrome 116.0.0.0,,,2566-08-31 15:05:17,2566-08-31 15:05:18,0.786s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign In/input_Username_username""), ""admin"")",Chrome 116.0.0.0,,,2566-08-31 15:05:18,2566-08-31 15:05:19,1.022s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign In/input_Password_password""), ""aeHFOx8jV/A="")",Chrome 116.0.0.0,,,2566-08-31 15:05:19,2566-08-31 15:05:19,0.472s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign In/button_Sign in with Credentials""))",Chrome 116.0.0.0,,,2566-08-31 15:05:19,2566-08-31 15:05:20,0.782s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/span_Item""))",Chrome 116.0.0.0,,,2566-08-31 15:05:20,2566-08-31 15:05:21,0.716s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/span_Category""))",Chrome 116.0.0.0,,,2566-08-31 15:05:21,2566-08-31 15:05:21,0.729s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/button_Sub Category""))",Chrome 116.0.0.0,,,2566-08-31 15:05:21,2566-08-31 15:05:22,0.891s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""))",Chrome 116.0.0.0,,,2566-08-31 15:05:22,2566-08-31 15:05:23,0.488s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/td_45546456""))",Chrome 116.0.0.0,,,2566-08-31 15:05:23,2566-08-31 15:05:23,0.387s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/button_Category""))",Chrome 116.0.0.0,,,2566-08-31 15:05:23,2566-08-31 15:05:42,19.231s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/button_Sub Category""))",Chrome 116.0.0.0,,,2566-08-31 15:05:42,2566-08-31 15:05:43,0.709s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""))",Chrome 116.0.0.0,,,2566-08-31 15:05:43,2566-08-31 15:05:44,0.468s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2566-08-31 15:05:44,2566-08-31 15:05:44,0.694s,PASSED
+,,,,,,,
+Test Cases/Category LIST/Search sub category/ตรวจสอบฟังก์ชันการค้นหาเมื่อมีการใช้อักขระพิเศษในการค้นหา,Chrome 116.0.0.0,,,2566-08-31 15:05:44,2566-08-31 15:06:09,24.450s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2566-08-31 15:05:45,2566-08-31 15:05:46,1.281s,PASSED
+"navigateToUrl(""https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"")",Chrome 116.0.0.0,,,2566-08-31 15:05:46,2566-08-31 15:05:47,0.822s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign In/input_Username_username""), ""admin"")",Chrome 116.0.0.0,,,2566-08-31 15:05:47,2566-08-31 15:05:48,0.971s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign In/form_UsernamePasswordSign in with Credentials""))",Chrome 116.0.0.0,,,2566-08-31 15:05:48,2566-08-31 15:05:48,0.378s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign In/input_Password_password""), ""aeHFOx8jV/A="")",Chrome 116.0.0.0,,,2566-08-31 15:05:48,2566-08-31 15:05:48,0.396s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign In/button_Sign in with Credentials""))",Chrome 116.0.0.0,,,2566-08-31 15:05:48,2566-08-31 15:05:49,0.768s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/span_Item""))",Chrome 116.0.0.0,,,2566-08-31 15:05:49,2566-08-31 15:05:50,0.762s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/div_Category""))",Chrome 116.0.0.0,,,2566-08-31 15:05:50,2566-08-31 15:05:51,0.807s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/button_Sub Category""))",Chrome 116.0.0.0,,,2566-08-31 15:05:51,2566-08-31 15:05:52,0.903s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), ""////"")",Chrome 116.0.0.0,,,2566-08-31 15:05:52,2566-08-31 15:05:52,0.788s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2566-08-31 15:05:52,2566-08-31 15:05:53,0.459s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), ""////"")",Chrome 116.0.0.0,,,2566-08-31 15:05:53,2566-08-31 15:05:54,0.706s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2566-08-31 15:05:54,2566-08-31 15:05:54,0.466s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), ""////"")",Chrome 116.0.0.0,,,2566-08-31 15:05:54,2566-08-31 15:05:55,0.690s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2566-08-31 15:05:55,2566-08-31 15:05:55,0.456s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), ""####"")",Chrome 116.0.0.0,,,2566-08-31 15:05:55,2566-08-31 15:05:56,0.695s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2566-08-31 15:05:56,2566-08-31 15:05:56,0.560s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), ""####"")",Chrome 116.0.0.0,,,2566-08-31 15:05:56,2566-08-31 15:05:57,0.677s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2566-08-31 15:05:57,2566-08-31 15:05:58,0.549s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), ""####"")",Chrome 116.0.0.0,,,2566-08-31 15:05:58,2566-08-31 15:05:58,0.672s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2566-08-31 15:05:58,2566-08-31 15:05:59,0.486s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), ""    '"")",Chrome 116.0.0.0,,,2566-08-31 15:05:59,2566-08-31 15:06:00,0.702s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2566-08-31 15:06:00,2566-08-31 15:06:00,0.508s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), ""    '"")",Chrome 116.0.0.0,,,2566-08-31 15:06:00,2566-08-31 15:06:01,0.730s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2566-08-31 15:06:01,2566-08-31 15:06:01,0.458s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), ""    '"")",Chrome 116.0.0.0,,,2566-08-31 15:06:01,2566-08-31 15:06:02,0.692s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2566-08-31 15:06:02,2566-08-31 15:06:02,0.522s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), "" "")",Chrome 116.0.0.0,,,2566-08-31 15:06:02,2566-08-31 15:06:03,0.695s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2566-08-31 15:06:03,2566-08-31 15:06:04,0.566s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), ""%"")",Chrome 116.0.0.0,,,2566-08-31 15:06:04,2566-08-31 15:06:04,0.671s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2566-08-31 15:06:04,2566-08-31 15:06:05,0.573s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), ""&&"")",Chrome 116.0.0.0,,,2566-08-31 15:06:05,2566-08-31 15:06:06,0.656s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2566-08-31 15:06:06,2566-08-31 15:06:06,0.462s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), ""&&"")",Chrome 116.0.0.0,,,2566-08-31 15:06:06,2566-08-31 15:06:07,0.670s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2566-08-31 15:06:07,2566-08-31 15:06:07,0.574s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), """")",Chrome 116.0.0.0,,,2566-08-31 15:06:07,2566-08-31 15:06:08,0.685s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2566-08-31 15:06:08,2566-08-31 15:06:09,0.685s,PASSED
+,,,,,,,
+Test Cases/Category LIST/Search sub category/ตรวจสอบว่าสามารถ copy ข้อมูลมาวางได้หรือไม่,Chrome 116.0.0.0,,,2566-08-31 15:06:09,2566-08-31 15:06:26,17.654s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2566-08-31 15:06:09,2566-08-31 15:06:10,1.216s,PASSED
+"navigateToUrl(""https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"")",Chrome 116.0.0.0,,,2566-08-31 15:06:10,2566-08-31 15:06:11,0.826s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign In/input_Username_username""), ""admin"")",Chrome 116.0.0.0,,,2566-08-31 15:06:11,2566-08-31 15:06:12,0.968s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign In/input_Password_password""), ""aeHFOx8jV/A="")",Chrome 116.0.0.0,,,2566-08-31 15:06:12,2566-08-31 15:06:12,0.400s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign In/button_Sign in with Credentials""))",Chrome 116.0.0.0,,,2566-08-31 15:06:12,2566-08-31 15:06:13,0.762s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/div_Item""))",Chrome 116.0.0.0,,,2566-08-31 15:06:13,2566-08-31 15:06:14,0.747s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/span_Item""))",Chrome 116.0.0.0,,,2566-08-31 15:06:14,2566-08-31 15:06:14,0.386s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/span_Category""))",Chrome 116.0.0.0,,,2566-08-31 15:06:14,2566-08-31 15:06:15,0.854s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/button_Sub Category""))",Chrome 116.0.0.0,,,2566-08-31 15:06:15,2566-08-31 15:06:16,0.856s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), ""WatersTT555"")",Chrome 116.0.0.0,,,2566-08-31 15:06:16,2566-08-31 15:06:17,0.900s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2566-08-31 15:06:17,2566-08-31 15:06:17,0.477s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), ""WatersTT555"")",Chrome 116.0.0.0,,,2566-08-31 15:06:17,2566-08-31 15:06:18,0.702s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2566-08-31 15:06:18,2566-08-31 15:06:19,0.588s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), ""45546456"")",Chrome 116.0.0.0,,,2566-08-31 15:06:19,2566-08-31 15:06:19,0.718s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2566-08-31 15:06:19,2566-08-31 15:06:20,0.471s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), ""test55"")",Chrome 116.0.0.0,,,2566-08-31 15:06:20,2566-08-31 15:06:21,0.687s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2566-08-31 15:06:21,2566-08-31 15:06:21,0.556s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/div_CategoryAllWatersTT555Categories2Ben285_7d2483""))",Chrome 116.0.0.0,,,2566-08-31 15:06:21,2566-08-31 15:06:21,0.370s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/svg_Add SubCategory_absolute top-12 transfo_2e79f2""))",Chrome 116.0.0.0,,,2566-08-31 15:06:21,2566-08-31 15:06:22,0.555s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), ""Ben285"")",Chrome 116.0.0.0,,,2566-08-31 15:06:22,2566-08-31 15:06:23,0.671s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2566-08-31 15:06:23,2566-08-31 15:06:23,0.571s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), ""Ben285"")",Chrome 116.0.0.0,,,2566-08-31 15:06:23,2566-08-31 15:06:24,0.703s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2566-08-31 15:06:24,2566-08-31 15:06:24,0.449s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), ""Ben285"")",Chrome 116.0.0.0,,,2566-08-31 15:06:24,2566-08-31 15:06:25,0.702s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2566-08-31 15:06:25,2566-08-31 15:06:26,0.571s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2566-08-31 15:06:26,2566-08-31 15:06:26,0.663s,PASSED

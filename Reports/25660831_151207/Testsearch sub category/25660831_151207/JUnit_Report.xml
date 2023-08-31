@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Testsearch sub category" time="110.517" tests="6" failures="1" errors="0">
+   <testsuite name="Testsearch sub category" tests="6" failures="1" errors="0" time="110.517" skipped="0" timestamp="2566-08-31 15:12:16" hostname="USER - DESKTOP-67R9BDO" id="Test Suites/Testsearch sub category">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\USER\\git\\katalon\\Reports\\25660831_151207\\Testsearch sub category\\25660831_151207"/>
+         <property name="logFiles" value="C:\\Users\\USER\\git\\katalon\\Reports\\25660831_151207\\Testsearch sub category\\25660831_151207\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\USER\\git\\katalon\\Reports\\25660831_151207\\Testsearch sub category\\25660831_151207\\1693469576861.png, C:\\Users\\USER\\git\\katalon\\Reports\\25660831_151207\\Testsearch sub category\\25660831_151207\\1693469583130.png, C:\\Users\\USER\\git\\katalon\\Reports\\25660831_151207\\Testsearch sub category\\25660831_151207\\1693469589550.png, C:\\Users\\USER\\git\\katalon\\Reports\\25660831_151207\\Testsearch sub category\\25660831_151207\\1693469595637.png"/>
+         <property name="hostName" value="USER - DESKTOP-67R9BDO"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="8.6.6.208"/>
+         <property name="browser" value="Chrome 116.0.0.0"/>
+         <property name="hostAddress" value="172.20.10.12"/>
+         <property name="sessionId" value="57247a8f2ae6c6f563b5c84dc6a7163f"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Category LIST/Search sub category/ตรวจสอบการค้นหาเมื่อมีการค้นหาข้อมูลที่ไม่ตรงกับข้อมูลที่มี" time="17.568" classname="Test Cases/Category LIST/Search sub category/ตรวจสอบการค้นหาเมื่อมีการค้นหาข้อมูลที่ไม่ตรงกับข้อมูลที่มี" status="PASSED">
+         <system-out><![CDATA[2566-08-31 15:12:16 - [TEST_CASE][PASSED] - Test Cases/Category LIST/Search sub category/ตรวจสอบการค้นหาเมื่อมีการค้นหาข้อมูลที่ไม่ตรงกับข้อมูลที่มี: Test Cases/Category LIST/Search sub category/ตรวจสอบการค้นหาเมื่อมีการค้นหาข้อมูลที่ไม่ตรงกับข้อมูลที่มี
+
+2566-08-31 15:12:17 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2566-08-31 15:12:17 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2566-08-31 15:12:17 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2566-08-31 15:12:19 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2566-08-31 15:12:19 - [TEST_STEP][PASSED] - navigateToUrl("https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"): Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/' successfully
+
+2566-08-31 15:12:20 - [MESSAGE][PASSED] - Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/' successfully
+
+2566-08-31 15:12:20 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Sign In/input_Username_username"), "admin"): Text 'admin' is set on object 'Object Repository/Page_Sign In/input_Username_username'
+
+2566-08-31 15:12:22 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/Page_Sign In/input_Username_username'
+
+2566-08-31 15:12:22 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Sign In/input_Password_password"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/Page_Sign In/input_Password_password'
+
+2566-08-31 15:12:22 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Sign In/input_Password_password'
+
+2566-08-31 15:12:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign In/button_Sign in with Credentials")): Object: 'Object Repository/Page_Sign In/button_Sign in with Credentials' is clicked on
+
+2566-08-31 15:12:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign In/button_Sign in with Credentials' is clicked on
+
+2566-08-31 15:12:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/span_Item")): Object: 'Object Repository/Page_Create Next App/span_Item' is clicked on
+
+2566-08-31 15:12:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/span_Item' is clicked on
+
+2566-08-31 15:12:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/span_Category")): Object: 'Object Repository/Page_Create Next App/span_Category' is clicked on
+
+2566-08-31 15:12:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/span_Category' is clicked on
+
+2566-08-31 15:12:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/button_Sub Category")): Object: 'Object Repository/Page_Create Next App/button_Sub Category' is clicked on
+
+2566-08-31 15:12:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/button_Sub Category' is clicked on
+
+2566-08-31 15:12:25 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "0003333"): Text '0003333' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:26 - [MESSAGE][PASSED] - Text '0003333' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:26 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:26 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/svg_Add SubCategory_absolute top-12 transfo_2e79f2")): Object: 'Object Repository/Page_Create Next App/svg_Add SubCategory_absolute top-12 transfo_2e79f2' is clicked on
+
+2566-08-31 15:12:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/svg_Add SubCategory_absolute top-12 transfo_2e79f2' is clicked on
+
+2566-08-31 15:12:27 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "subnnnn"): Text 'subnnnn' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:28 - [MESSAGE][PASSED] - Text 'subnnnn' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:28 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:28 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:28 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "subnnnn"): Text 'subnnnn' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:29 - [MESSAGE][PASSED] - Text 'subnnnn' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:29 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:29 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:29 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "PUY"): Text 'PUY' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:30 - [MESSAGE][PASSED] - Text 'PUY' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:30 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:30 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:30 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "PUY"): Text 'PUY' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:31 - [MESSAGE][PASSED] - Text 'PUY' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:31 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:31 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:32 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "PUY"): Text 'PUY' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:32 - [MESSAGE][PASSED] - Text 'PUY' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:32 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:33 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:33 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), ""): Text '' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:33 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:33 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2566-08-31 15:12:34 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Category LIST/Search sub category/ตรวจสอบการค้นหาโดยการใช้ keyword ในการค้นหาและกด enter" time="16.626" classname="Test Cases/Category LIST/Search sub category/ตรวจสอบการค้นหาโดยการใช้ keyword ในการค้นหาและกด enter" status="PASSED">
+         <system-out><![CDATA[2566-08-31 15:12:34 - [TEST_CASE][PASSED] - Test Cases/Category LIST/Search sub category/ตรวจสอบการค้นหาโดยการใช้ keyword ในการค้นหาและกด enter: Test Cases/Category LIST/Search sub category/ตรวจสอบการค้นหาโดยการใช้ keyword ในการค้นหาและกด enter
+
+2566-08-31 15:12:34 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2566-08-31 15:12:34 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2566-08-31 15:12:34 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2566-08-31 15:12:36 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2566-08-31 15:12:36 - [TEST_STEP][PASSED] - navigateToUrl("https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"): Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/' successfully
+
+2566-08-31 15:12:36 - [MESSAGE][PASSED] - Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/' successfully
+
+2566-08-31 15:12:36 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Sign In/input_Username_username"), "admin"): Text 'admin' is set on object 'Object Repository/Page_Sign In/input_Username_username'
+
+2566-08-31 15:12:37 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/Page_Sign In/input_Username_username'
+
+2566-08-31 15:12:37 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Sign In/input_Password_password"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/Page_Sign In/input_Password_password'
+
+2566-08-31 15:12:38 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Sign In/input_Password_password'
+
+2566-08-31 15:12:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign In/button_Sign in with Credentials")): Object: 'Object Repository/Page_Sign In/button_Sign in with Credentials' is clicked on
+
+2566-08-31 15:12:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign In/button_Sign in with Credentials' is clicked on
+
+2566-08-31 15:12:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/div_Item")): Object: 'Object Repository/Page_Create Next App/div_Item' is clicked on
+
+2566-08-31 15:12:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/div_Item' is clicked on
+
+2566-08-31 15:12:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/span_Item")): Object: 'Object Repository/Page_Create Next App/span_Item' is clicked on
+
+2566-08-31 15:12:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/span_Item' is clicked on
+
+2566-08-31 15:12:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/span_Category")): Object: 'Object Repository/Page_Create Next App/span_Category' is clicked on
+
+2566-08-31 15:12:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/span_Category' is clicked on
+
+2566-08-31 15:12:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/button_Sub Category")): Object: 'Object Repository/Page_Create Next App/button_Sub Category' is clicked on
+
+2566-08-31 15:12:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/button_Sub Category' is clicked on
+
+2566-08-31 15:12:42 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "ubrice"): Text 'ubrice' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:43 - [MESSAGE][PASSED] - Text 'ubrice' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:43 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:44 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:44 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "001"): Text '001' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:45 - [MESSAGE][PASSED] - Text '001' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:45 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:45 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:45 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "Ben"): Text 'Ben' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:46 - [MESSAGE][PASSED] - Text 'Ben' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:46 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:46 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:46 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "Ben"): Text 'Ben' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:47 - [MESSAGE][PASSED] - Text 'Ben' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:47 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:48 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:48 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "HUT"): Text 'HUT' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:48 - [MESSAGE][PASSED] - Text 'HUT' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:48 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:49 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:49 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "1150"): Text '1150' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:49 - [MESSAGE][PASSED] - Text '1150' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:49 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:50 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:12:50 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2566-08-31 15:12:51 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Category LIST/Search sub category/ตรวจสอบการค้นหาโดยมีการป้อนข้อมูลที่ถูกต้อง" time="6.099" classname="Test Cases/Category LIST/Search sub category/ตรวจสอบการค้นหาโดยมีการป้อนข้อมูลที่ถูกต้อง" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Category LIST/Search sub category/ตรวจสอบการค้นหาโดยมีการป้อนข้อมูลที่ถูกต้อง FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Create Next App/span_Category'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at ตรวจสอบการค้นหาโดยมีการป้อนข้อมูลที่ถูกต้อง.run(ตรวจสอบการค้นหาโดยมีการป้อนข้อมูลที่ถูกต้อง:32)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1693469527191.run(TempTestSuite1693469527191.groovy:36)
+Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=116.0.5845.111)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-67R9BDO', ip: '172.20.10.12', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.111, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60614}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: effd30449156069d64a5d0151b3e23d5
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+"/>
+         <system-out><![CDATA[2566-08-31 15:13:09 - [TEST_CASE][FAILED] - Test Cases/Category LIST/Search sub category/ตรวจสอบการค้นหาโดยมีการป้อนข้อมูลที่ถูกต้อง: Test Cases/Category LIST/Search sub category/ตรวจสอบการค้นหาโดยมีการป้อนข้อมูลที่ถูกต้อง FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Create Next App/span_Category'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at ตรวจสอบการค้นหาโดยมีการป้อนข้อมูลที่ถูกต้อง.run(ตรวจสอบการค้นหาโดยมีการป้อนข้อมูลที่ถูกต้อง:32)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1693469527191.run(TempTestSuite1693469527191.groovy:36)
+Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=116.0.5845.111)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-67R9BDO', ip: '172.20.10.12', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.111, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60614}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: effd30449156069d64a5d0151b3e23d5
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+
+
+2566-08-31 15:13:09 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2566-08-31 15:13:09 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2566-08-31 15:13:10 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2566-08-31 15:13:10 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2566-08-31 15:13:11 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2566-08-31 15:13:11 - [TEST_STEP][PASSED] - navigateToUrl("https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"): Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/' successfully
+
+2566-08-31 15:13:12 - [MESSAGE][PASSED] - Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/' successfully
+
+2566-08-31 15:13:12 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Sign In/input_Username_username"), "admin"): Text 'admin' is set on object 'Object Repository/Page_Sign In/input_Username_username'
+
+2566-08-31 15:13:13 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/Page_Sign In/input_Username_username'
+
+2566-08-31 15:13:13 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Sign In/input_Password_password"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/Page_Sign In/input_Password_password'
+
+2566-08-31 15:13:13 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Sign In/input_Password_password'
+
+2566-08-31 15:13:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign In/button_Sign in with Credentials")): Object: 'Object Repository/Page_Sign In/button_Sign in with Credentials' is clicked on
+
+2566-08-31 15:13:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign In/button_Sign in with Credentials' is clicked on
+
+2566-08-31 15:13:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/div_Item")): Object: 'Object Repository/Page_Create Next App/div_Item' is clicked on
+
+2566-08-31 15:13:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/div_Item' is clicked on
+
+2566-08-31 15:13:15 - [TEST_STEP][FAILED] - click(findTestObject("Object Repository/Page_Create Next App/span_Category")): Unable to click on object 'Object Repository/Page_Create Next App/span_Category' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Create Next App/span_Category'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at ตรวจสอบการค้นหาโดยมีการป้อนข้อมูลที่ถูกต้อง.run(ตรวจสอบการค้นหาโดยมีการป้อนข้อมูลที่ถูกต้อง:32)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1693469527191.run(TempTestSuite1693469527191.groovy:36)
+Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=116.0.5845.111)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-67R9BDO', ip: '172.20.10.12', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.111, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60614}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: effd30449156069d64a5d0151b3e23d5
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at Script1693467728885.run(Script1693467728885.groovy:32)
+	... 16 more
+)
+
+2566-08-31 15:13:15 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Page_Create Next App/span_Category' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Create Next App/span_Category'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at ตรวจสอบการค้นหาโดยมีการป้อนข้อมูลที่ถูกต้อง.run(ตรวจสอบการค้นหาโดยมีการป้อนข้อมูลที่ถูกต้อง:32)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1693469527191.run(TempTestSuite1693469527191.groovy:36)
+Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=116.0.5845.111)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-67R9BDO', ip: '172.20.10.12', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.111, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60614}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: effd30449156069d64a5d0151b3e23d5
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at Script1693467728885.run(Script1693467728885.groovy:32)
+	... 16 more
+)
+[[ATTACHMENT|C:\\Users\\USER\\git\\katalon\\Reports\\25660831_151207\\Testsearch sub category\\25660831_151207\\1693469595637.png]]]]></system-out>
+         <system-err><![CDATA[2566-08-31 15:13:09 - [TEST_CASE][FAILED] - Test Cases/Category LIST/Search sub category/ตรวจสอบการค้นหาโดยมีการป้อนข้อมูลที่ถูกต้อง: Test Cases/Category LIST/Search sub category/ตรวจสอบการค้นหาโดยมีการป้อนข้อมูลที่ถูกต้อง FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Create Next App/span_Category'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at ตรวจสอบการค้นหาโดยมีการป้อนข้อมูลที่ถูกต้อง.run(ตรวจสอบการค้นหาโดยมีการป้อนข้อมูลที่ถูกต้อง:32)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1693469527191.run(TempTestSuite1693469527191.groovy:36)
+Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=116.0.5845.111)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-67R9BDO', ip: '172.20.10.12', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.111, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60614}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: effd30449156069d64a5d0151b3e23d5
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Category LIST/Search sub category/ตรวจสอบฟังก์ชันการค้นหาเมื่อมีการค้นหาค่าว่าง" time="10.2" classname="Test Cases/Category LIST/Search sub category/ตรวจสอบฟังก์ชันการค้นหาเมื่อมีการค้นหาค่าว่าง" status="PASSED">
+         <system-out><![CDATA[2566-08-31 15:13:15 - [TEST_CASE][PASSED] - Test Cases/Category LIST/Search sub category/ตรวจสอบฟังก์ชันการค้นหาเมื่อมีการค้นหาค่าว่าง: Test Cases/Category LIST/Search sub category/ตรวจสอบฟังก์ชันการค้นหาเมื่อมีการค้นหาค่าว่าง
+
+2566-08-31 15:13:15 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2566-08-31 15:13:15 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2566-08-31 15:13:16 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2566-08-31 15:13:16 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2566-08-31 15:13:17 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2566-08-31 15:13:17 - [TEST_STEP][PASSED] - navigateToUrl("https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"): Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/' successfully
+
+2566-08-31 15:13:18 - [MESSAGE][PASSED] - Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/' successfully
+
+2566-08-31 15:13:18 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Sign In/input_Username_username"), "admin"): Text 'admin' is set on object 'Object Repository/Page_Sign In/input_Username_username'
+
+2566-08-31 15:13:19 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/Page_Sign In/input_Username_username'
+
+2566-08-31 15:13:19 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Sign In/input_Password_password"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/Page_Sign In/input_Password_password'
+
+2566-08-31 15:13:19 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Sign In/input_Password_password'
+
+2566-08-31 15:13:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign In/button_Sign in with Credentials")): Object: 'Object Repository/Page_Sign In/button_Sign in with Credentials' is clicked on
+
+2566-08-31 15:13:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign In/button_Sign in with Credentials' is clicked on
+
+2566-08-31 15:13:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/span_Item")): Object: 'Object Repository/Page_Create Next App/span_Item' is clicked on
+
+2566-08-31 15:13:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/span_Item' is clicked on
+
+2566-08-31 15:13:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/span_Category")): Object: 'Object Repository/Page_Create Next App/span_Category' is clicked on
+
+2566-08-31 15:13:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/span_Category' is clicked on
+
+2566-08-31 15:13:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/button_Sub Category")): Object: 'Object Repository/Page_Create Next App/button_Sub Category' is clicked on
+
+2566-08-31 15:13:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/button_Sub Category' is clicked on
+
+2566-08-31 15:13:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/svg_Add SubCategory_absolute top-12 transfo_2e79f2")): Object: 'Object Repository/Page_Create Next App/svg_Add SubCategory_absolute top-12 transfo_2e79f2' is clicked on
+
+2566-08-31 15:13:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/svg_Add SubCategory_absolute top-12 transfo_2e79f2' is clicked on
+
+2566-08-31 15:13:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1")): Object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1' is clicked on
+
+2566-08-31 15:13:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1' is clicked on
+
+2566-08-31 15:13:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/svg_Add SubCategory_absolute top-12 transfo_2e79f2")): Object: 'Object Repository/Page_Create Next App/svg_Add SubCategory_absolute top-12 transfo_2e79f2' is clicked on
+
+2566-08-31 15:13:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/svg_Add SubCategory_absolute top-12 transfo_2e79f2' is clicked on
+
+2566-08-31 15:13:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1")): Object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1' is clicked on
+
+2566-08-31 15:13:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1' is clicked on
+
+2566-08-31 15:13:25 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2566-08-31 15:13:25 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Category LIST/Search sub category/ตรวจสอบฟังก์ชันการค้นหาเมื่อมีการใช้อักขระพิเศษในการค้นหา" time="23.953" classname="Test Cases/Category LIST/Search sub category/ตรวจสอบฟังก์ชันการค้นหาเมื่อมีการใช้อักขระพิเศษในการค้นหา" status="PASSED">
+         <system-out><![CDATA[2566-08-31 15:13:25 - [TEST_CASE][PASSED] - Test Cases/Category LIST/Search sub category/ตรวจสอบฟังก์ชันการค้นหาเมื่อมีการใช้อักขระพิเศษในการค้นหา: Test Cases/Category LIST/Search sub category/ตรวจสอบฟังก์ชันการค้นหาเมื่อมีการใช้อักขระพิเศษในการค้นหา
+
+2566-08-31 15:13:26 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2566-08-31 15:13:26 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2566-08-31 15:13:26 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2566-08-31 15:13:27 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2566-08-31 15:13:27 - [TEST_STEP][PASSED] - navigateToUrl("https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"): Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/' successfully
+
+2566-08-31 15:13:28 - [MESSAGE][PASSED] - Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/' successfully
+
+2566-08-31 15:13:28 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Sign In/input_Username_username"), "admin"): Text 'admin' is set on object 'Object Repository/Page_Sign In/input_Username_username'
+
+2566-08-31 15:13:29 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/Page_Sign In/input_Username_username'
+
+2566-08-31 15:13:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign In/form_UsernamePasswordSign in with Credentials")): Object: 'Object Repository/Page_Sign In/form_UsernamePasswordSign in with Credentials' is clicked on
+
+2566-08-31 15:13:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign In/form_UsernamePasswordSign in with Credentials' is clicked on
+
+2566-08-31 15:13:29 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Sign In/input_Password_password"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/Page_Sign In/input_Password_password'
+
+2566-08-31 15:13:29 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Sign In/input_Password_password'
+
+2566-08-31 15:13:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign In/button_Sign in with Credentials")): Object: 'Object Repository/Page_Sign In/button_Sign in with Credentials' is clicked on
+
+2566-08-31 15:13:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign In/button_Sign in with Credentials' is clicked on
+
+2566-08-31 15:13:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/span_Item")): Object: 'Object Repository/Page_Create Next App/span_Item' is clicked on
+
+2566-08-31 15:13:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/span_Item' is clicked on
+
+2566-08-31 15:13:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/div_Category")): Object: 'Object Repository/Page_Create Next App/div_Category' is clicked on
+
+2566-08-31 15:13:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/div_Category' is clicked on
+
+2566-08-31 15:13:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/button_Sub Category")): Object: 'Object Repository/Page_Create Next App/button_Sub Category' is clicked on
+
+2566-08-31 15:13:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/button_Sub Category' is clicked on
+
+2566-08-31 15:13:33 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "////"): Text '////' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:33 - [MESSAGE][PASSED] - Text '////' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:33 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:34 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:34 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "////"): Text '////' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:35 - [MESSAGE][PASSED] - Text '////' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:35 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:35 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:35 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "////"): Text '////' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:36 - [MESSAGE][PASSED] - Text '////' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:36 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:36 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:36 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "####"): Text '####' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:37 - [MESSAGE][PASSED] - Text '####' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:37 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:38 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:38 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "####"): Text '####' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:38 - [MESSAGE][PASSED] - Text '####' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:38 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:39 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:39 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "####"): Text '####' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:39 - [MESSAGE][PASSED] - Text '####' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:39 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:40 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:40 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "    '"): Text '    '' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:41 - [MESSAGE][PASSED] - Text '    '' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:41 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:41 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:41 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "    '"): Text '    '' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:42 - [MESSAGE][PASSED] - Text '    '' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:42 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:42 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:42 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "    '"): Text '    '' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:43 - [MESSAGE][PASSED] - Text '    '' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:43 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:43 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:43 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), " "): Text ' ' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:44 - [MESSAGE][PASSED] - Text ' ' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:44 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:45 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:45 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "%"): Text '%' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:45 - [MESSAGE][PASSED] - Text '%' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:45 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:46 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:46 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "&&"): Text '&&' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:47 - [MESSAGE][PASSED] - Text '&&' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:47 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:47 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:47 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "&&"): Text '&&' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:48 - [MESSAGE][PASSED] - Text '&&' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:48 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:48 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:48 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), ""): Text '' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:49 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:49 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2566-08-31 15:13:49 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Category LIST/Search sub category/ตรวจสอบว่าสามารถ copy ข้อมูลมาวางได้หรือไม่" time="17.213" classname="Test Cases/Category LIST/Search sub category/ตรวจสอบว่าสามารถ copy ข้อมูลมาวางได้หรือไม่" status="PASSED">
+         <system-out><![CDATA[2566-08-31 15:13:49 - [TEST_CASE][PASSED] - Test Cases/Category LIST/Search sub category/ตรวจสอบว่าสามารถ copy ข้อมูลมาวางได้หรือไม่: Test Cases/Category LIST/Search sub category/ตรวจสอบว่าสามารถ copy ข้อมูลมาวางได้หรือไม่
+
+2566-08-31 15:13:50 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2566-08-31 15:13:50 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2566-08-31 15:13:50 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2566-08-31 15:13:51 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2566-08-31 15:13:51 - [TEST_STEP][PASSED] - navigateToUrl("https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"): Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/' successfully
+
+2566-08-31 15:13:52 - [MESSAGE][PASSED] - Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/' successfully
+
+2566-08-31 15:13:52 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Sign In/input_Username_username"), "admin"): Text 'admin' is set on object 'Object Repository/Page_Sign In/input_Username_username'
+
+2566-08-31 15:13:53 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/Page_Sign In/input_Username_username'
+
+2566-08-31 15:13:53 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Sign In/input_Password_password"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/Page_Sign In/input_Password_password'
+
+2566-08-31 15:13:53 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Sign In/input_Password_password'
+
+2566-08-31 15:13:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign In/button_Sign in with Credentials")): Object: 'Object Repository/Page_Sign In/button_Sign in with Credentials' is clicked on
+
+2566-08-31 15:13:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign In/button_Sign in with Credentials' is clicked on
+
+2566-08-31 15:13:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/div_Item")): Object: 'Object Repository/Page_Create Next App/div_Item' is clicked on
+
+2566-08-31 15:13:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/div_Item' is clicked on
+
+2566-08-31 15:13:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/span_Item")): Object: 'Object Repository/Page_Create Next App/span_Item' is clicked on
+
+2566-08-31 15:13:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/span_Item' is clicked on
+
+2566-08-31 15:13:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/span_Category")): Object: 'Object Repository/Page_Create Next App/span_Category' is clicked on
+
+2566-08-31 15:13:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/span_Category' is clicked on
+
+2566-08-31 15:13:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/button_Sub Category")): Object: 'Object Repository/Page_Create Next App/button_Sub Category' is clicked on
+
+2566-08-31 15:13:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/button_Sub Category' is clicked on
+
+2566-08-31 15:13:57 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "WatersTT555"): Text 'WatersTT555' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:57 - [MESSAGE][PASSED] - Text 'WatersTT555' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:57 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:58 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:58 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "WatersTT555"): Text 'WatersTT555' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:59 - [MESSAGE][PASSED] - Text 'WatersTT555' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:59 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:59 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:13:59 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "45546456"): Text '45546456' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:14:00 - [MESSAGE][PASSED] - Text '45546456' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:14:00 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:14:00 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:14:00 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "test55"): Text 'test55' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:14:01 - [MESSAGE][PASSED] - Text 'test55' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:14:01 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:14:01 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:14:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/div_CategoryAllWatersTT555Categories2Ben285_7d2483")): Object: 'Object Repository/Page_Create Next App/div_CategoryAllWatersTT555Categories2Ben285_7d2483' is clicked on
+
+2566-08-31 15:14:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/div_CategoryAllWatersTT555Categories2Ben285_7d2483' is clicked on
+
+2566-08-31 15:14:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/svg_Add SubCategory_absolute top-12 transfo_2e79f2")): Object: 'Object Repository/Page_Create Next App/svg_Add SubCategory_absolute top-12 transfo_2e79f2' is clicked on
+
+2566-08-31 15:14:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/svg_Add SubCategory_absolute top-12 transfo_2e79f2' is clicked on
+
+2566-08-31 15:14:02 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "Ben285"): Text 'Ben285' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:14:03 - [MESSAGE][PASSED] - Text 'Ben285' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:14:03 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:14:04 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:14:04 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "Ben285"): Text 'Ben285' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:14:04 - [MESSAGE][PASSED] - Text 'Ben285' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:14:04 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:14:05 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:14:05 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "Ben285"): Text 'Ben285' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:14:05 - [MESSAGE][PASSED] - Text 'Ben285' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:14:05 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:14:06 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-08-31 15:14:06 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2566-08-31 15:14:07 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2566-08-31 15:12:16 - [TEST_SUITE][FAILED] - Testsearch sub category: Test Cases/Category LIST/Search sub category/ตรวจสอบการค้นหาโดยมีการป้อนข้อมูลที่ถูกต้อง FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Create Next App/span_Category'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at ตรวจสอบการค้นหาโดยมีการป้อนข้อมูลที่ถูกต้อง.run(ตรวจสอบการค้นหาโดยมีการป้อนข้อมูลที่ถูกต้อง:32)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1693469527191.run(TempTestSuite1693469527191.groovy:36)
+Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=116.0.5845.111)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-67R9BDO', ip: '172.20.10.12', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.111, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60541}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 89633244b0d4c910d50612384519ac12
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-out>
+      <system-err><![CDATA[2566-08-31 15:12:16 - [TEST_SUITE][FAILED] - Testsearch sub category: Test Cases/Category LIST/Search sub category/ตรวจสอบการค้นหาโดยมีการป้อนข้อมูลที่ถูกต้อง FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Create Next App/span_Category'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at ตรวจสอบการค้นหาโดยมีการป้อนข้อมูลที่ถูกต้อง.run(ตรวจสอบการค้นหาโดยมีการป้อนข้อมูลที่ถูกต้อง:32)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1693469527191.run(TempTestSuite1693469527191.groovy:36)
+Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=116.0.5845.111)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-67R9BDO', ip: '172.20.10.12', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.111, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\USER\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60541}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 89633244b0d4c910d50612384519ac12
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+   </testsuite>
+</testsuites>

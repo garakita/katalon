@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d66b55db-d6dd-4826-a432-d1bf7bed49a1</webElementGuid>
+      <webElementGuid>43d2f9ed-04dd-45cc-9388-5699e6fb4041</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,15 +30,15 @@
       <name>id</name>
       <type>Main</type>
       <value>input-group-1</value>
-      <webElementGuid>8acb1dcb-6de6-435e-a7e9-8ae482dc15a6</webElementGuid>
+      <webElementGuid>09dd5020-c767-48b6-bdcd-5ed7eae4569f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>w-full bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-cream-1000 focus:border-cream-1000 block pl-10 py-2  dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500</value>
-      <webElementGuid>4a3e1303-cbce-49af-9188-72f07cb6b3f2</webElementGuid>
+      <value>w-full bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-cream-1000  focus:border-cream-1000 block pl-10 py-2  dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400  dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500</value>
+      <webElementGuid>e7fcf9ef-81f2-48c9-80d9-74ee5f01d8e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Search...</value>
-      <webElementGuid>a4aa71c2-5303-4adf-86d7-adadf3a3d150</webElementGuid>
+      <webElementGuid>3a8a012f-a9bb-4bfc-82bc-3b86c0422876</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>eb92a95f-e42a-412d-b822-660a3bc7fff2</webElementGuid>
+      <webElementGuid>5914d933-a436-4599-84b6-84549e939ded</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;input-group-1&quot;)</value>
-      <webElementGuid>3ae2bbfa-93bb-4028-a3da-00d00e744b00</webElementGuid>
+      <webElementGuid>93c333aa-4801-4489-b78f-014ff1271445</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,31 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='input-group-1']</value>
-      <webElementGuid>02f14b06-004b-4493-80c9-a9493e7aeeca</webElementGuid>
+      <webElementGuid>9d30c587-b046-4624-91c2-c8157e6f60eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-tabs-panel-:r3:']/div/div/div/input</value>
+      <webElementGuid>6e0c1573-b343-4a08-9b87-96eafaad27b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>e3627d59-e16c-44b9-9d97-b8e9c1343efe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'input-group-1' and @placeholder = 'Search...' and @type = 'text']</value>
+      <webElementGuid>638b20d3-846a-4246-96c3-33e8235049b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,21 +103,5 @@
       <type>Main</type>
       <value>//div[@id='headlessui-tabs-panel-:R3qllllaqla:']/div/div/div/input</value>
       <webElementGuid>d452eef1-5bb6-4a86-9e4d-425e03f38f79</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>e425e5e8-00c1-4a41-8460-c50661c7a4ea</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@id = 'input-group-1' and @placeholder = 'Search...' and @type = 'text']</value>
-      <webElementGuid>143cacb0-d2a6-4e83-bd75-6d412dc2353c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

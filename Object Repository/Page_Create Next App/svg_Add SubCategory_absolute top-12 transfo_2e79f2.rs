@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Add SubCategory_absolute top-12 transfo_2e79f2</name>
+   <tag></tag>
+   <elementGuidId>3e9e9fa8-6c67-4aca-8b48-22cc4ba60e35</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.h-5.w-5.text-cream-1000.bg-cream-500.border.border-cream-500.rounded.cursor-pointer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='MENU'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>218407d1-b390-4c50-92a2-9d3342d908f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>25</value>
+      <webElementGuid>8ac7feb0-2f4b-45cd-a99c-61bc64839cba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>25</value>
+      <webElementGuid>91b2a51d-7785-45fa-b1c4-44ecbafc0665</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>80fc8983-5477-413d-bb5b-f18e8ba3b8c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>66981fc7-4590-4547-85f5-e9dcb8dd31e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-5 w-5 text-cream-1000 bg-cream-500 border border-cream-500 rounded cursor-pointer</value>
+      <webElementGuid>32268e64-8fed-4f7e-8e32-c47a2ad5f10f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-tabs-panel-:r3:&quot;)/div[@class=&quot;mt-6 overflow-x-auto lg:overflow-x-hidden bg-white text-gray-700 w-auto h-auto shadow-lg overflow-hidden dark:bg-slate-700 rounded-2xl&quot;]/div[@class=&quot;px-6&quot;]/div[@class=&quot;rounded-xl space-x-8&quot;]/table[@class=&quot;table-auto w-full text-xs text-gray-500 whitespace-nowrap dark:text-gray-400 mr-10 md:mr-0&quot;]/tbody[1]/tr[@class=&quot;bg-white dark:bg-gray-600&quot;]/td[@class=&quot;px-6 w-[20px] h-[56px]&quot;]/svg[@class=&quot;h-5 w-5 text-cream-1000 bg-cream-500 border border-cream-500 rounded cursor-pointer&quot;]</value>
+      <webElementGuid>7927d27a-1957-4579-bae7-695c49cca836</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>d8be2f98-238f-4907-ba6f-0766218e8788</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>44300c7f-e1a4-4393-ba59-9cd31402ea86</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MENU'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>58476c0d-dd17-4173-b6a0-ee3da47cb809</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CATEGORY'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>8f19ec9f-c89b-4ce5-b7ee-8dba57635d2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SubRiceCool'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>304baea2-916f-447d-acf6-c66526bc84d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WatersTT555'])[2]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>ed6be21b-35ce-424c-9d7b-b7d168af1664</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add SubCategory'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>9857bbdd-0e82-4d26-b62f-7f383fdf5957</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sub Category'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>f0b98b42-76d2-410c-80c8-99eda5a541e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Category:'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>8f00f4f7-0972-424d-801e-445afb5609c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SUB CATEGORY'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>aed06d0d-a3fd-4114-8857-d4001160d31e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
