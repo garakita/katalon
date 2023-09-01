@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Create Next App/button_Sub Category",
+      "brokenLocator": "//button[@id\u003d\u0027headlessui-tabs-tab-:r1:\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Category\u0027])[2]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/25660901_144417/Testsearch sub category/25660901_144418/Object Repository/Page_Create Next App/button_Sub Category_neighbor.png"
+    }
+  ]
+}

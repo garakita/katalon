@@ -1,0 +1,19 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Testsearch sub category,Chrome 116.0.0.0,,,2566-09-01 15:48:41,2566-09-01 15:49:08,26.390s,FAILED
+,,,,,,,
+Test Cases/TEST LOGIN,Chrome 116.0.0.0,"username : admin
+password : 123456",,2566-09-01 15:48:42,2566-09-01 15:48:50,7.971s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2566-09-01 15:48:42,2566-09-01 15:48:46,3.438s,PASSED
+"navigateToUrl(""https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"")",Chrome 116.0.0.0,,,2566-09-01 15:48:46,2566-09-01 15:48:47,0.913s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign In/input_Username_username""), ""admin"")",Chrome 116.0.0.0,,,2566-09-01 15:48:47,2566-09-01 15:48:48,1.433s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign In/input_Password_password""), ""aeHFOx8jV/A="")",Chrome 116.0.0.0,,,2566-09-01 15:48:48,2566-09-01 15:48:48,0.520s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign In/button_Sign in with Credentials""))",Chrome 116.0.0.0,,,2566-09-01 15:48:48,2566-09-01 15:48:50,1.019s,PASSED
+,,,,,,,
+Test Cases/Category LIST/Search sub category/กดเปลี่ยนหน้าไปที่ sub category,Chrome 116.0.0.0,,,2566-09-01 15:48:50,2566-09-01 15:48:53,3.109s,PASSED
+"navigateToUrl(""https://pos-frontend-ton-gumbjqoyzq-as.a.run.app"")",Chrome 116.0.0.0,,,2566-09-01 15:48:50,2566-09-01 15:48:50,0.186s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/span_Item""))",Chrome 116.0.0.0,,,2566-09-01 15:48:50,2566-09-01 15:48:51,0.668s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/span_Category""))",Chrome 116.0.0.0,,,2566-09-01 15:48:51,2566-09-01 15:48:52,0.761s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/button_Sub Category""))",Chrome 116.0.0.0,,,2566-09-01 15:48:52,2566-09-01 15:48:53,0.937s,PASSED
+,,,,,,,
+Test Cases/Category LIST/Search sub category/ตรวจสอบการค้นหาเมื่อมีการค้นหาข้อมูลที่ไม่ตรงกับข้อมูลที่มี,Chrome 116.0.0.0,987654321,,2566-09-01 15:49:07,2566-09-01 15:49:08,0.056s,FAILED
+"navigateToUrl(""https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/items/categories"")",Chrome 116.0.0.0,,,2566-09-01 15:49:07,2566-09-01 15:49:08,0.040s,FAILED

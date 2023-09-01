@@ -17,33 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.navigateToUrl('https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/items/categories')
 
-WebUI.navigateToUrl('https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/')
-
-WebUI.setText(findTestObject('Object Repository/Page_Sign In/input_Username_username'), 'admin')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign In/input_Password_password'), 'aeHFOx8jV/A=')
-
-WebUI.click(findTestObject('Object Repository/Page_Sign In/button_Sign in with Credentials'))
-
-WebUI.click(findTestObject('Object Repository/Page_Create Next App/span_Item'))
-
-WebUI.click(findTestObject('Object Repository/Page_Create Next App/span_Category'))
-
-WebUI.click(findTestObject('Object Repository/Page_Create Next App/button_Sub Category'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Create Next App/input_Add Category_input-group-1'), 'sub001')
+WebUI.setText(findTestObject('Object Repository/Page_Create Next App/input_Add Category_input-group-1'), 'Ben285')
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_Create Next App/input_Add Category_input-group-1'), Keys.chord(Keys.ENTER))
 
-WebUI.setText(findTestObject('Object Repository/Page_Create Next App/input_Add Category_input-group-1'), 'PIZZA')
+WebUI.setText(findTestObject('Object Repository/Page_Create Next App/input_Add Category_input-group-1'), 'Noodle')
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_Create Next App/input_Add Category_input-group-1'), Keys.chord(Keys.ENTER))
 
-WebUI.setText(findTestObject('Object Repository/Page_Create Next App/input_Add Category_input-group-1'), 'PiZZA 1150')
+WebUI.setText(findTestObject('Object Repository/Page_Create Next App/input_Add Category_input-group-1'), 'KFC')
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_Create Next App/input_Add Category_input-group-1'), Keys.chord(Keys.ENTER))
-
-WebUI.closeBrowser()
 

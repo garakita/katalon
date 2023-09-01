@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Testsearch sub category,Chrome 116.0.0.0,,,2566-09-01 14:44:28,2566-09-01 14:45:16,47.873s,PASSED
+,,,,,,,
+Test Cases/TEST LOGIN,Chrome 116.0.0.0,"username : admin
+password : 123456",,2566-09-01 14:44:28,2566-09-01 14:44:38,9.743s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2566-09-01 14:44:29,2566-09-01 14:44:33,3.812s,PASSED
+"navigateToUrl(""https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"")",Chrome 116.0.0.0,,,2566-09-01 14:44:33,2566-09-01 14:44:33,0.853s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign In/input_Username_username""), ""admin"")",Chrome 116.0.0.0,,,2566-09-01 14:44:33,2566-09-01 14:44:36,2.686s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign In/input_Password_password""), ""aeHFOx8jV/A="")",Chrome 116.0.0.0,,,2566-09-01 14:44:36,2566-09-01 14:44:37,0.895s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign In/button_Sign in with Credentials""))",Chrome 116.0.0.0,,,2566-09-01 14:44:37,2566-09-01 14:44:38,0.930s,PASSED
+,,,,,,,
+Test Cases/Category LIST/Search sub category/กดเปลี่ยนหน้าไปที่ sub category,Chrome 116.0.0.0,,,2566-09-01 14:44:38,2566-09-01 14:45:16,37.798s,PASSED
+"navigateToUrl(""https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/items"")",Chrome 116.0.0.0,,,2566-09-01 14:44:38,2566-09-01 14:44:39,0.346s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/span_Item""))",Chrome 116.0.0.0,,,2566-09-01 14:44:39,2566-09-01 14:44:42,3.139s,PASSED
+delay(1),Chrome 116.0.0.0,,,2566-09-01 14:44:42,2566-09-01 14:44:43,1.023s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/span_Category""))",Chrome 116.0.0.0,,,2566-09-01 14:44:43,2566-09-01 14:44:43,0.388s,PASSED
+delay(1),Chrome 116.0.0.0,,,2566-09-01 14:44:43,2566-09-01 14:44:44,1.012s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/button_Sub Category""))",Chrome 116.0.0.0,,,2566-09-01 14:44:44,2566-09-01 14:45:16,31.450s,PASSED

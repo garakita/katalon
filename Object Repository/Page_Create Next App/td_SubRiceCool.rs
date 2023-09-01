@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_SubRiceCool</name>
+   <tag></tag>
+   <elementGuidId>c2058dfd-ee84-4ec5-9e4b-7f56fc0f9a21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-tabs-panel-:r3:']/div/div[2]/div/table/tbody/tr/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>b368166d-cd7c-4463-9346-8603dfc1b01d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SubRiceCool</value>
+      <webElementGuid>1942785b-5524-4c20-8357-670facae2051</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-tabs-panel-:r3:&quot;)/div[@class=&quot;mt-6 overflow-x-auto lg:overflow-x-hidden bg-white text-gray-700 w-auto h-auto shadow-lg overflow-hidden dark:bg-slate-700 rounded-2xl&quot;]/div[@class=&quot;px-6&quot;]/div[@class=&quot;rounded-xl space-x-8&quot;]/table[@class=&quot;table-auto w-full text-xs text-gray-500 whitespace-nowrap dark:text-gray-400 mr-10 md:mr-0&quot;]/tbody[1]/tr[@class=&quot;bg-white dark:bg-gray-600&quot;]/td[2]</value>
+      <webElementGuid>1ffd04fb-c7c7-4ccc-8251-7cfcd2e7b8ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-tabs-panel-:r3:']/div/div[2]/div/table/tbody/tr/td[2]</value>
+      <webElementGuid>a45b4141-1db7-4cdf-b57a-db605e031775</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MENU'])[1]/following::td[2]</value>
+      <webElementGuid>c343a007-635c-4c6c-a6fc-bea7f2dc486f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CATEGORY'])[1]/following::td[2]</value>
+      <webElementGuid>14a2c2a9-7486-423b-93c7-94e171199296</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WatersTT555'])[2]/preceding::td[1]</value>
+      <webElementGuid>27c16174-111b-42c2-bb07-d3a1bd71c2ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SubCategories2'])[1]/preceding::td[5]</value>
+      <webElementGuid>21940fd0-0180-4908-9bd7-6c6e1901691f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SubRiceCool']/parent::*</value>
+      <webElementGuid>e3e50d61-07df-439f-864a-110006e4db39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]</value>
+      <webElementGuid>4fb28b95-eb12-4f02-ba0b-38348b78932c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'SubRiceCool' or . = 'SubRiceCool')]</value>
+      <webElementGuid>56d11d73-a417-42ad-80b5-faa00832ae28</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

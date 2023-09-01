@@ -6,12 +6,12 @@
    <elementGuidId>5357e08d-4275-432b-a2b6-160bd78b00b6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>form</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//form[@action='https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/api/auth/callback/credentials']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>form</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>form</value>
-      <webElementGuid>d984f813-3a39-43a4-95e0-9d1def875d34</webElementGuid>
+      <webElementGuid>66063f7f-c5a8-421b-9b36-683343d9d6f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>action</name>
       <type>Main</type>
       <value>https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/api/auth/callback/credentials</value>
-      <webElementGuid>495c68a0-3f56-40ff-a035-1d1ffb22d915</webElementGuid>
+      <webElementGuid>22960ebd-ee62-4750-9d5d-8eee32a6184f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>method</name>
       <type>Main</type>
       <value>POST</value>
-      <webElementGuid>8ea082ac-eec3-4ced-afa6-9b0d9e96f280</webElementGuid>
+      <webElementGuid>72f245e9-5448-4b32-92df-96528bbc43bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>UsernamePasswordSign in with Credentials</value>
-      <webElementGuid>2919ae16-8a7c-4dd4-b508-ae8161837ad2</webElementGuid>
+      <webElementGuid>6a38de2d-b040-4dfa-b5c8-fe0992fa5d37</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;__next-auth-theme-auto&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;signin&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;provider&quot;]/form[1]</value>
-      <webElementGuid>e5719eec-6bd0-4760-a2a5-46f46c48fdb5</webElementGuid>
+      <webElementGuid>2a97dcd1-e19b-4a84-b38a-2dac6f81f07f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//form[@action='https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/api/auth/callback/credentials']</value>
-      <webElementGuid>3f0c4d6d-1aae-4883-bdd8-a3a09a76e7f6</webElementGuid>
+      <webElementGuid>6fb4ba79-7fb8-42b6-a596-44ac49217d36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form</value>
-      <webElementGuid>dc92bcf9-04fa-46a4-af52-76bdc8350da0</webElementGuid>
+      <webElementGuid>af685880-c647-433e-8454-254717ced7f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +78,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//form[(text() = 'UsernamePasswordSign in with Credentials' or . = 'UsernamePasswordSign in with Credentials')]</value>
-      <webElementGuid>17b421cb-5b80-451d-981a-6d9fb8cbe244</webElementGuid>
+      <webElementGuid>cac7ac0b-3285-4386-ad55-88f228424623</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Testsearch sub category,Chrome 116.0.0.0,,,2566-09-01 14:42:46,2566-09-01 14:43:31,45.614s,PASSED
+,,,,,,,
+Test Cases/TEST LOGIN,Chrome 116.0.0.0,"username : admin
+password : 123456",,2566-09-01 14:42:46,2566-09-01 14:42:55,9.376s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2566-09-01 14:42:47,2566-09-01 14:42:51,4.116s,PASSED
+"navigateToUrl(""https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"")",Chrome 116.0.0.0,,,2566-09-01 14:42:51,2566-09-01 14:42:52,1.209s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign In/input_Username_username""), ""admin"")",Chrome 116.0.0.0,,,2566-09-01 14:42:52,2566-09-01 14:42:54,2.072s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign In/input_Password_password""), ""aeHFOx8jV/A="")",Chrome 116.0.0.0,,,2566-09-01 14:42:54,2566-09-01 14:42:55,0.531s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign In/button_Sign in with Credentials""))",Chrome 116.0.0.0,,,2566-09-01 14:42:55,2566-09-01 14:42:55,0.893s,PASSED
+,,,,,,,
+Test Cases/Category LIST/Search sub category/กดเปลี่ยนหน้าไปที่ sub category,Chrome 116.0.0.0,,,2566-09-01 14:42:55,2566-09-01 14:43:31,35.884s,PASSED
+"navigateToUrl(""https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/items/categories"")",Chrome 116.0.0.0,,,2566-09-01 14:42:56,2566-09-01 14:42:56,0.350s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/span_Item""))",Chrome 116.0.0.0,,,2566-09-01 14:42:56,2566-09-01 14:42:57,1.048s,PASSED
+delay(1),Chrome 116.0.0.0,,,2566-09-01 14:42:57,2566-09-01 14:42:58,1.033s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/span_Category""))",Chrome 116.0.0.0,,,2566-09-01 14:42:59,2566-09-01 14:42:59,0.407s,PASSED
+delay(1),Chrome 116.0.0.0,,,2566-09-01 14:42:59,2566-09-01 14:43:00,1.012s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/button_Sub Category""))",Chrome 116.0.0.0,,,2566-09-01 14:43:00,2566-09-01 14:43:31,31.445s,PASSED

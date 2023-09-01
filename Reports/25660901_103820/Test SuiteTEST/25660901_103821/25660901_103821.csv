@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test SuiteTEST,Chrome 116.0.0.0,,,2566-09-01 10:38:32,2566-09-01 10:39:35,1m - 3.716s,ERROR
+,,,,,,,
+Test Cases/TEST LOGIN,Chrome 116.0.0.0,"username : admin
+password : 123456",,2566-09-01 10:38:32,2566-09-01 10:38:42,10.553s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2566-09-01 10:38:32,2566-09-01 10:38:35,2.719s,PASSED
+"navigateToUrl(""https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"")",Chrome 116.0.0.0,,,2566-09-01 10:38:35,2566-09-01 10:38:36,0.824s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign In/input_Username_username""), ""admin"")",Chrome 116.0.0.0,,,2566-09-01 10:38:36,2566-09-01 10:38:37,1.257s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign In/input_Password_password""), ""aeHFOx8jV/A="")",Chrome 116.0.0.0,,,2566-09-01 10:38:37,2566-09-01 10:38:37,0.451s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign In/button_Sign in with Credentials""))",Chrome 116.0.0.0,,,2566-09-01 10:38:37,2566-09-01 10:38:42,4.937s,PASSED
+,,,,,,,
+Test Cases/Category LIST/SEARCH category/กดเปลี่ยนหน้าไปที่ category,Chrome 116.0.0.0,,,2566-09-01 10:39:34,2566-09-01 10:39:34,0.036s,ERROR
+"getAllLinksOnCurrentPage(false, [], STOP_ON_FAILURE)",Chrome 116.0.0.0,,,2566-09-01 10:39:34,2566-09-01 10:39:34,0.018s,ERROR
+,,,,,,,
+Test Cases/Category LIST/SEARCH category/ตรวจสอบว่าสามารถ copy ข้อมูลมาวางได้หรือไม่,Chrome 116.0.0.0,,,2566-09-01 10:39:35,2566-09-01 10:39:35,0.172s,FAILED
+"setText(findTestObject(""Object Repository/Page_Create Next App/input_Add Category_input-group-1""), ""SSS"")",Chrome 116.0.0.0,,,2566-09-01 10:39:35,2566-09-01 10:39:35,0.164s,FAILED

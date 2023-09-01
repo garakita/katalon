@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Testsearch sub category,Chrome 116.0.0.0,,,2566-09-01 14:39:53,2566-09-01 14:40:37,44.304s,PASSED
+,,,,,,,
+Test Cases/TEST LOGIN,Chrome 116.0.0.0,"username : admin
+password : 123456",,2566-09-01 14:39:53,2566-09-01 14:40:01,7.473s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2566-09-01 14:39:53,2566-09-01 14:39:56,2.686s,PASSED
+"navigateToUrl(""https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"")",Chrome 116.0.0.0,,,2566-09-01 14:39:56,2566-09-01 14:39:57,0.827s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign In/input_Username_username""), ""admin"")",Chrome 116.0.0.0,,,2566-09-01 14:39:57,2566-09-01 14:39:58,1.278s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign In/input_Password_password""), ""aeHFOx8jV/A="")",Chrome 116.0.0.0,,,2566-09-01 14:39:58,2566-09-01 14:39:59,0.514s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign In/button_Sign in with Credentials""))",Chrome 116.0.0.0,,,2566-09-01 14:39:59,2566-09-01 14:39:59,0.722s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 116.0.0.0,,,2566-09-01 14:39:59,2566-09-01 14:40:01,1.097s,PASSED
+,,,,,,,
+Test Cases/Category LIST/Search sub category/กดเปลี่ยนหน้าไปที่ sub category,Chrome 116.0.0.0,,,2566-09-01 14:40:01,2566-09-01 14:40:37,36.509s,PASSED
+"navigateToUrl(""https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/items/categories"")",Chrome 116.0.0.0,,,2566-09-01 14:40:01,2566-09-01 14:40:01,0.432s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/span_Item""))",Chrome 116.0.0.0,,,2566-09-01 14:40:01,2566-09-01 14:40:02,0.868s,PASSED
+delay(1),Chrome 116.0.0.0,,,2566-09-01 14:40:02,2566-09-01 14:40:03,1.018s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/span_Category""))",Chrome 116.0.0.0,,,2566-09-01 14:40:03,2566-09-01 14:40:04,0.372s,PASSED
+delay(1),Chrome 116.0.0.0,,,2566-09-01 14:40:04,2566-09-01 14:40:05,1.013s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/button_Sub Category""))",Chrome 116.0.0.0,,,2566-09-01 14:40:05,2566-09-01 14:40:36,31.489s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 116.0.0.0,,,2566-09-01 14:40:36,2566-09-01 14:40:37,1.017s,PASSED

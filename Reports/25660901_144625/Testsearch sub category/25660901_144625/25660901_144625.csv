@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Testsearch sub category,Chrome 116.0.0.0,,,2566-09-01 14:46:33,2566-09-01 14:47:17,43.951s,PASSED
+,,,,,,,
+Test Cases/TEST LOGIN,Chrome 116.0.0.0,"username : admin
+password : 123456",,2566-09-01 14:46:34,2566-09-01 14:46:40,6.284s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2566-09-01 14:46:34,2566-09-01 14:46:37,2.646s,PASSED
+"navigateToUrl(""https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"")",Chrome 116.0.0.0,,,2566-09-01 14:46:37,2566-09-01 14:46:37,0.789s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign In/input_Username_username""), ""admin"")",Chrome 116.0.0.0,,,2566-09-01 14:46:37,2566-09-01 14:46:39,1.172s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign In/input_Password_password""), ""aeHFOx8jV/A="")",Chrome 116.0.0.0,,,2566-09-01 14:46:39,2566-09-01 14:46:39,0.454s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign In/button_Sign in with Credentials""))",Chrome 116.0.0.0,,,2566-09-01 14:46:39,2566-09-01 14:46:40,0.861s,PASSED
+,,,,,,,
+Test Cases/Category LIST/Search sub category/กดเปลี่ยนหน้าไปที่ sub category,Chrome 116.0.0.0,,,2566-09-01 14:46:40,2566-09-01 14:47:17,37.319s,PASSED
+"navigateToUrl(""https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/items"")",Chrome 116.0.0.0,,,2566-09-01 14:46:40,2566-09-01 14:46:41,0.355s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/span_Item""))",Chrome 116.0.0.0,,,2566-09-01 14:46:41,2566-09-01 14:46:45,4.207s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/span_Category""))",Chrome 116.0.0.0,,,2566-09-01 14:46:45,2566-09-01 14:46:46,0.795s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/button_Sub Category""))",Chrome 116.0.0.0,,,2566-09-01 14:46:46,2566-09-01 14:47:17,31.651s,PASSED

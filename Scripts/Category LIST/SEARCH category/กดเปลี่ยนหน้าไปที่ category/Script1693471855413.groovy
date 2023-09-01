@@ -17,15 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/Page_Sign In/button_Sign in with Credentials'))
+WebUI.navigateToUrl('https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/')
 
-WebUI.click(findTestObject('Object Repository/Page_Create Next App/span_Item'))
+WebUI.click(findTestObject('Object Repository/Page_Create Next App/div_Item'))
 
 WebUI.click(findTestObject('Object Repository/Page_Create Next App/span_Category'))
-
-WebUI.click(findTestObject('Object Repository/Page_Create Next App/button_Category'))
-
-WebUI.check(findTestObject(null))
-
-WebUI.acceptAlert()
 

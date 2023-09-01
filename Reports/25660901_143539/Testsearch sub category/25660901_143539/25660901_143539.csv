@@ -1,0 +1,19 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Testsearch sub category,Chrome 116.0.0.0,,,2566-09-01 14:35:48,2566-09-01 14:36:39,50.352s,FAILED
+,,,,,,,
+Test Cases/TEST LOGIN,Chrome 116.0.0.0,"username : admin
+password : 123456",,2566-09-01 14:35:48,2566-09-01 14:35:56,7.596s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2566-09-01 14:35:49,2566-09-01 14:35:52,2.692s,PASSED
+"navigateToUrl(""https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"")",Chrome 116.0.0.0,,,2566-09-01 14:35:52,2566-09-01 14:35:52,0.841s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign In/input_Username_username""), ""admin"")",Chrome 116.0.0.0,,,2566-09-01 14:35:52,2566-09-01 14:35:54,1.254s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign In/input_Password_password""), ""aeHFOx8jV/A="")",Chrome 116.0.0.0,,,2566-09-01 14:35:54,2566-09-01 14:35:54,0.466s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign In/button_Sign in with Credentials""))",Chrome 116.0.0.0,,,2566-09-01 14:35:54,2566-09-01 14:35:55,0.914s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 116.0.0.0,,,2566-09-01 14:35:55,2566-09-01 14:35:56,1.060s,PASSED
+,,,,,,,
+Test Cases/Category LIST/Search sub category/กดเปลี่ยนหน้าไปที่ sub category,Chrome 116.0.0.0,,,2566-09-01 14:36:33,2566-09-01 14:36:34,1.022s,FAILED
+"navigateToUrl(""https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/items/categories"")",Chrome 116.0.0.0,,,2566-09-01 14:36:33,2566-09-01 14:36:33,0.012s,FAILED
+Start listener action : sampleAfterTestCase,Chrome 116.0.0.0,,,2566-09-01 14:36:33,2566-09-01 14:36:34,1.004s,PASSED
+,,,,,,,
+Test Cases/Category LIST/Search sub category/ตรวจสอบการค้นหาเมื่อมีการค้นหาข้อมูลที่ไม่ตรงกับข้อมูลที่มี,Chrome 116.0.0.0,987654321,,2566-09-01 14:36:37,2566-09-01 14:36:39,1.032s,FAILED
+"navigateToUrl(""https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/items/categories"")",Chrome 116.0.0.0,,,2566-09-01 14:36:37,2566-09-01 14:36:37,0.011s,FAILED
+Start listener action : sampleAfterTestCase,Chrome 116.0.0.0,,,2566-09-01 14:36:37,2566-09-01 14:36:39,1.015s,PASSED

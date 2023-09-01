@@ -17,43 +17,25 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
 WebUI.navigateToUrl('https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/items/categories')
 
-WebUI.setText(findTestObject('Object Repository/Page_Sign In/input_Username_username'), 'admin')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign In/input_Password_password'), '4nvbrPglk7k=')
-
-WebUI.click(findTestObject('Object Repository/Page_Sign In/button_Sign in with Credentials'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Sign In/input_Username_username'), 'admin')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign In/input_Password_password'), 'aeHFOx8jV/A=')
-
-WebUI.sendKeys(findTestObject('Object Repository/Page_Sign In/input_Password_password'), Keys.chord(Keys.ENTER))
-
 WebUI.setText(findTestObject('Object Repository/Page_Create Next App/input_Add Category_input-group-1'), 'TT')
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_Create Next App/input_Add Category_input-group-1'), Keys.chord(Keys.ENTER))
 
-WebUI.setText(findTestObject('Object Repository/Page_Create Next App/input_Add Category_input-group-1'), 'TT')
+WebUI.setText(findTestObject('Object Repository/Page_Create Next App/input_Add Category_input-group-1'), 'F')
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_Create Next App/input_Add Category_input-group-1'), Keys.chord(Keys.ENTER))
 
-WebUI.setText(findTestObject('Object Repository/Page_Create Next App/input_Add Category_input-group-1'), '285')
+WebUI.setText(findTestObject('Object Repository/Page_Create Next App/input_Add Category_input-group-1'), 'no')
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_Create Next App/input_Add Category_input-group-1'), Keys.chord(Keys.ENTER))
 
-WebUI.setText(findTestObject('Object Repository/Page_Create Next App/input_Add Category_input-group-1'), '285')
+WebUI.setText(findTestObject('Object Repository/Page_Create Next App/input_Add Category_input-group-1'), 'SEA')
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_Create Next App/input_Add Category_input-group-1'), Keys.chord(Keys.ENTER))
 
-WebUI.setText(findTestObject('Object Repository/Page_Create Next App/input_Add Category_input-group-1'), '285')
+WebUI.setText(findTestObject('Object Repository/Page_Create Next App/input_Add Category_input-group-1'), 'dle')
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_Create Next App/input_Add Category_input-group-1'), Keys.chord(Keys.ENTER))
-
-WebUI.click(findTestObject('Object Repository/Page_Create Next App/h1_Category List'))
-
-WebUI.closeBrowser()
 

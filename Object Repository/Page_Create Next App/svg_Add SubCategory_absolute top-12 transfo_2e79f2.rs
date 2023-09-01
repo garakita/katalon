@@ -6,12 +6,12 @@
    <elementGuidId>3e9e9fa8-6c67-4aca-8b48-22cc4ba60e35</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>svg.h-5.w-5.text-cream-1000.bg-cream-500.border.border-cream-500.rounded.cursor-pointer</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Add SubCategory'])[1]/following::*[name()='svg'][1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='MENU'])[1]/following::*[name()='svg'][1]</value>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>218407d1-b390-4c50-92a2-9d3342d908f9</webElementGuid>
+      <webElementGuid>f694c0fe-dbb8-46a8-b1e0-bdcd9e440c12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>width</name>
       <type>Main</type>
       <value>25</value>
-      <webElementGuid>8ac7feb0-2f4b-45cd-a99c-61bc64839cba</webElementGuid>
+      <webElementGuid>44d63c0c-ebeb-4d56-9e95-719ce27a53bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,15 +38,15 @@
       <name>height</name>
       <type>Main</type>
       <value>25</value>
-      <webElementGuid>91b2a51d-7785-45fa-b1c4-44ecbafc0665</webElementGuid>
+      <webElementGuid>7c69d757-67ba-4469-8d9a-3722a0080525</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>fill</name>
       <type>Main</type>
-      <value>currentColor</value>
-      <webElementGuid>80fc8983-5477-413d-bb5b-f18e8ba3b8c2</webElementGuid>
+      <value>none</value>
+      <webElementGuid>31f08a6a-1fa0-4d9b-b8bb-cc8fdac7f710</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,23 +54,23 @@
       <name>xmlns</name>
       <type>Main</type>
       <value>http://www.w3.org/2000/svg</value>
-      <webElementGuid>66981fc7-4590-4547-85f5-e9dcb8dd31e6</webElementGuid>
+      <webElementGuid>3570eeba-4d2d-4d57-b106-26448ac31860</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>h-5 w-5 text-cream-1000 bg-cream-500 border border-cream-500 rounded cursor-pointer</value>
-      <webElementGuid>32268e64-8fed-4f7e-8e32-c47a2ad5f10f</webElementGuid>
+      <value>absolute top-1/2 transform -translate-y-1/2 left-2 stroke-[#92929D] dark:stroke-white</value>
+      <webElementGuid>7ce4bb3e-e817-4e17-94bf-8a9c9978a1db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;headlessui-tabs-panel-:r3:&quot;)/div[@class=&quot;mt-6 overflow-x-auto lg:overflow-x-hidden bg-white text-gray-700 w-auto h-auto shadow-lg overflow-hidden dark:bg-slate-700 rounded-2xl&quot;]/div[@class=&quot;px-6&quot;]/div[@class=&quot;rounded-xl space-x-8&quot;]/table[@class=&quot;table-auto w-full text-xs text-gray-500 whitespace-nowrap dark:text-gray-400 mr-10 md:mr-0&quot;]/tbody[1]/tr[@class=&quot;bg-white dark:bg-gray-600&quot;]/td[@class=&quot;px-6 w-[20px] h-[56px]&quot;]/svg[@class=&quot;h-5 w-5 text-cream-1000 bg-cream-500 border border-cream-500 rounded cursor-pointer&quot;]</value>
-      <webElementGuid>7927d27a-1957-4579-bae7-695c49cca836</webElementGuid>
+      <value>id(&quot;headlessui-tabs-panel-:r3:&quot;)/div[@class=&quot;mt-6 overflow-x-auto lg:overflow-x-hidden bg-white text-gray-700 w-auto h-auto shadow-lg overflow-hidden dark:bg-slate-700 rounded-2xl&quot;]/div[@class=&quot;grid p-4 items-center sm:grid-cols-auto md:grid-cols-2&quot;]/div[@class=&quot;m-2 relative&quot;]/svg[@class=&quot;absolute top-1/2 transform -translate-y-1/2 left-2 stroke-[#92929D] dark:stroke-white&quot;]</value>
+      <webElementGuid>ba470e82-5f22-4da4-b2a1-6c909397ac70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -90,6 +90,38 @@
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add SubCategory'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>9e8fabf2-1d8c-4b58-966a-af71da10d2bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sub Category'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>1354528d-aa28-4ea7-99a4-63e93694be56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Category:'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>4ad5e01a-d815-4398-9c5e-00a94bfbdc17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SUB CATEGORY'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>90de4a00-f252-4784-b1b3-373456c72ef0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
@@ -119,37 +151,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='WatersTT555'])[2]/preceding::*[name()='svg'][1]</value>
       <webElementGuid>ed6be21b-35ce-424c-9d7b-b7d168af1664</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add SubCategory'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>9857bbdd-0e82-4d26-b62f-7f383fdf5957</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sub Category'])[1]/following::*[name()='svg'][2]</value>
-      <webElementGuid>f0b98b42-76d2-410c-80c8-99eda5a541e2</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Category:'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>8f00f4f7-0972-424d-801e-445afb5609c5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='SUB CATEGORY'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>aed06d0d-a3fd-4114-8857-d4001160d31e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

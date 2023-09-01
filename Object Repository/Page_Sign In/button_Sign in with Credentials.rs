@@ -6,12 +6,12 @@
    <elementGuidId>35c0c07b-4f3f-4e05-8ce7-168a165e9544</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button[type=&quot;submit&quot;]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button[type=&quot;submit&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>52fbea60-ba9d-4141-959d-72f417c25760</webElementGuid>
+      <webElementGuid>d6f8dcd9-1c68-4e94-974a-46118548aa97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>b5ead877-d2e9-48fe-90de-6bb7d6eaede0</webElementGuid>
+      <webElementGuid>1d91d20e-e9dd-4b36-90b5-83b5c01aee4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sign in with Credentials</value>
-      <webElementGuid>27215c6a-337f-479a-a2f2-635c7161a315</webElementGuid>
+      <webElementGuid>225fb25f-82a1-47b5-9f10-47a7d8775f1b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;__next-auth-theme-auto&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;signin&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;provider&quot;]/form[1]/button[1]</value>
-      <webElementGuid>d4864642-35cb-4f07-a93f-7d5cab19fb19</webElementGuid>
+      <webElementGuid>933cf53e-3a88-498d-85a6-0ba294beabd0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>d6d2b7f5-441b-49a9-95ac-ed0d7438d537</webElementGuid>
+      <webElementGuid>aa756963-107f-4f74-b39e-7ab5cc9bcb1e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
-      <webElementGuid>1f71802e-f86c-435b-a68b-67f20ceeb35d</webElementGuid>
+      <webElementGuid>bfda4901-bc09-4c48-9800-bb14f2c739e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/following::button[1]</value>
-      <webElementGuid>8ea8290f-081c-479f-a1e5-b9f170abe3c5</webElementGuid>
+      <webElementGuid>82d22a42-89e5-4224-995a-184ce61d6e3a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sign in with Credentials']/parent::*</value>
-      <webElementGuid>fefe3eae-9d30-4cdc-98e7-9cc3d478301c</webElementGuid>
+      <webElementGuid>cb63bc8a-4b5d-4e96-95b5-945cd23287ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>05a96a5e-7dc3-42ae-b625-4fcced0367eb</webElementGuid>
+      <webElementGuid>b54ad1b9-b2aa-4576-9564-34959dd3b940</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Sign in with Credentials' or . = 'Sign in with Credentials')]</value>
-      <webElementGuid>f6ab03a8-d36c-4256-8b56-dbe4f7fd2504</webElementGuid>
+      <webElementGuid>91172c45-03ef-4ef6-80a5-0c5e6575d2de</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
