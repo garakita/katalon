@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>ตรวจสอบการคลิ๊กปิด filter ต้องไม่มีการ dropdown ลงมา</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>0152cbed-7c74-4f0c-892e-44a49553b187</testCaseGuid>
-</TestCaseEntity>
