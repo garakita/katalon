@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_AllWatersTT555Categories2Ben285PizzaKFCSSS</name>
+   <tag></tag>
+   <elementGuidId>33b5d948-5123-487d-9f16-64330b76cc54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-tabs-panel-:r3:']/div/div/div[2]/div/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>6581e8ed-f871-43eb-97a2-655734c93046</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-gray-50 border w-4/5 mr-4 border-gray-300  text-[#92929D] text-sm py-2 pl-2 pr-8  rounded-lg focus:ring-cream-1000  focus:border-cream-1000 dark:bg-gray-700 dark:border-gray-600  dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500  dark:focus:border-blue-500 </value>
+      <webElementGuid>caade844-7695-40a4-a44d-1f669d969720</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AllWatersTT555Categories2Ben285PizzaKFCSSS</value>
+      <webElementGuid>e7ae8f53-5924-47d8-b63b-394492ee227d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-tabs-panel-:r3:&quot;)/div[@class=&quot;mt-6 overflow-x-auto lg:overflow-x-hidden bg-white text-gray-700 w-auto h-auto shadow-lg overflow-hidden dark:bg-slate-700 rounded-2xl&quot;]/div[@class=&quot;grid p-4 items-center sm:grid-cols-auto md:grid-cols-2&quot;]/div[@class=&quot;md:grid md:grid-cols-1 md:justify-items-end text-[#92929D] w-full m-2 relative items-center&quot;]/div[@class=&quot;flex items-center&quot;]/select[@class=&quot;bg-gray-50 border w-4/5 mr-4 border-gray-300  text-[#92929D] text-sm py-2 pl-2 pr-8  rounded-lg focus:ring-cream-1000  focus:border-cream-1000 dark:bg-gray-700 dark:border-gray-600  dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500  dark:focus:border-blue-500&quot;]</value>
+      <webElementGuid>64ff5f2c-76ae-48c5-86ec-d860df2aa6fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-tabs-panel-:r3:']/div/div/div[2]/div/select</value>
+      <webElementGuid>d1b6c84c-c647-4a2d-bcc8-f35daca78d04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Category:'])[1]/following::select[1]</value>
+      <webElementGuid>227e693a-25f5-4a7c-8109-fdf17c58df70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add SubCategory'])[1]/following::select[1]</value>
+      <webElementGuid>fdff2692-666f-4a80-bf22-3fa67f59a366</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SUB CATEGORY'])[1]/preceding::select[1]</value>
+      <webElementGuid>e0ea141e-1bb8-43e1-a68e-923ee2edfae7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CATEGORY'])[1]/preceding::select[1]</value>
+      <webElementGuid>46e78101-948a-435a-8af0-e950503e2b33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>7408d62b-5fc1-49e2-816d-fa987379c26c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'AllWatersTT555Categories2Ben285PizzaKFCSSS' or . = 'AllWatersTT555Categories2Ben285PizzaKFCSSS')]</value>
+      <webElementGuid>b13ea16f-01bb-4b0e-8b60-adfd6b41befc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

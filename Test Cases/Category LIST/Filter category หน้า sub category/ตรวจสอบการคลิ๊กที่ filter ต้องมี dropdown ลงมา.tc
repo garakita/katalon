@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ตรวจสอบการคลิ๊กที่ filter ต้องมี dropdown ลงมา</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc29f823-740c-4d39-9ad3-52f86991d6c3</testCaseGuid>
+</TestCaseEntity>

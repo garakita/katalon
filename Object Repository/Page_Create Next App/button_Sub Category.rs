@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>65908097-f06f-478f-b1d8-639f9f4cd6ef</webElementGuid>
+      <webElementGuid>0dc49b20-dd69-445e-96fa-bd45b8b7deb1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-24 focus:outline-none border-b-4 text-black border-gray-50 hover:text-[#EC9476] text-sm</value>
-      <webElementGuid>a3cd548f-4c5e-4194-bcde-a11260d699dd</webElementGuid>
+      <webElementGuid>31274f6a-0cc8-47a8-a1f9-0ccb5a38adb8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>headlessui-tabs-tab-:r1:</value>
-      <webElementGuid>e4165593-06f6-41a7-b4da-82ec2d8093b0</webElementGuid>
+      <webElementGuid>0f850a23-59a4-44da-a79c-fdd138deab2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>tab</value>
-      <webElementGuid>5042c3d4-e67b-4325-aba6-f0ad30092fd7</webElementGuid>
+      <webElementGuid>e65d5b6a-ba72-4499-a3c7-c2c43a4f9df0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>08f4122c-4b2b-4f56-af57-e8350b6d76f0</webElementGuid>
+      <webElementGuid>1993a1ab-c4e0-46b7-975f-57f6250f092a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>819de936-2d21-4b87-94d1-06006da081db</webElementGuid>
+      <webElementGuid>151f538b-415f-484e-b447-e8aea740a432</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>067e088b-7d97-42a3-8689-70d4b976ffd8</webElementGuid>
+      <webElementGuid>e4fa4303-8e89-49b5-b3e1-0fb312831b84</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>headlessui-tabs-panel-:r3:</value>
-      <webElementGuid>d36635ac-0639-48ad-8706-bf8ad93d1bd4</webElementGuid>
+      <webElementGuid>621cf5ab-67a3-4f53-b151-59352615d6ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sub Category</value>
-      <webElementGuid>a3199492-aacc-4b1d-aa76-91d63199abd8</webElementGuid>
+      <webElementGuid>9f39714a-31e7-446b-944b-983774d2a4f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;headlessui-tabs-tab-:r1:&quot;)</value>
-      <webElementGuid>ca70cf47-1faf-4b78-ba10-d74ccaa74b47</webElementGuid>
+      <webElementGuid>d47a85a9-739d-4be1-ba4a-2468e1452e33</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='headlessui-tabs-tab-:r1:']</value>
-      <webElementGuid>ec01f521-99ac-42bb-b8dd-b681e39ed2e4</webElementGuid>
+      <webElementGuid>3f820651-ee55-4de2-a59f-cb0f1228d2bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Category'])[2]/following::button[1]</value>
-      <webElementGuid>0341cc62-6bdc-4805-adaa-b3bfdb34c4c3</webElementGuid>
+      <webElementGuid>554886f8-3392-445d-b5b9-928988db96d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Category List'])[1]/following::button[2]</value>
-      <webElementGuid>68a262cb-9f5e-4202-80de-f3e790270680</webElementGuid>
+      <webElementGuid>5279891c-7263-49cc-8964-cf25515a7795</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,15 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Category'])[1]/preceding::button[1]</value>
-      <webElementGuid>c0a01aca-8117-414e-8c55-69b6d1ba79e4</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='CATEGORY'])[1]/preceding::button[2]</value>
-      <webElementGuid>783b7f66-d565-43b1-8a1d-ea0698a60778</webElementGuid>
+      <webElementGuid>166e29f2-74d4-4705-b545-6e86449c2f75</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sub Category']/parent::*</value>
-      <webElementGuid>ef7639ba-2b8e-46bc-bffb-01c823c9e176</webElementGuid>
+      <webElementGuid>e09cadda-7a7a-4563-9927-7a88ccb20698</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +142,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]</value>
-      <webElementGuid>358e6444-8e18-4403-8751-a738931ab1cf</webElementGuid>
+      <webElementGuid>d13fc788-d80e-4736-8fc9-868b6d2f19af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,6 +150,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'headlessui-tabs-tab-:r1:' and @type = 'button' and (text() = 'Sub Category' or . = 'Sub Category')]</value>
-      <webElementGuid>e0d0c3c0-e378-477a-963f-29f3ade05155</webElementGuid>
+      <webElementGuid>779fcba7-1b9a-4cc3-b0f1-f77868692df5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CATEGORY'])[1]/preceding::button[2]</value>
+      <webElementGuid>2159934a-f172-4051-a6c5-c4a80059d6fb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

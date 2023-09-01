@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d6f8dcd9-1c68-4e94-974a-46118548aa97</webElementGuid>
+      <webElementGuid>369f7d22-8522-464d-8a45-f9690dc19ccc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>1d91d20e-e9dd-4b36-90b5-83b5c01aee4e</webElementGuid>
+      <webElementGuid>6c099714-f01b-43aa-a3ac-bc12141b7d20</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sign in with Credentials</value>
-      <webElementGuid>225fb25f-82a1-47b5-9f10-47a7d8775f1b</webElementGuid>
+      <webElementGuid>da699802-b285-4550-96ed-d2b4418a3df8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;__next-auth-theme-auto&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;signin&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;provider&quot;]/form[1]/button[1]</value>
-      <webElementGuid>933cf53e-3a88-498d-85a6-0ba294beabd0</webElementGuid>
+      <webElementGuid>4edd457c-6896-47ff-9fa4-74612648c676</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>aa756963-107f-4f74-b39e-7ab5cc9bcb1e</webElementGuid>
+      <webElementGuid>82ea8855-b58f-4cb8-a9d7-f12afb7d88cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
-      <webElementGuid>bfda4901-bc09-4c48-9800-bb14f2c739e8</webElementGuid>
+      <webElementGuid>5c593612-03ff-463a-8c9f-67ce9df1501f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/following::button[1]</value>
-      <webElementGuid>82d22a42-89e5-4224-995a-184ce61d6e3a</webElementGuid>
+      <webElementGuid>1af17476-6fd5-4593-85ef-deae4cb913a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sign in with Credentials']/parent::*</value>
-      <webElementGuid>cb63bc8a-4b5d-4e96-95b5-945cd23287ae</webElementGuid>
+      <webElementGuid>8787956f-cec3-4749-920b-fd659c74b55e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>b54ad1b9-b2aa-4576-9564-34959dd3b940</webElementGuid>
+      <webElementGuid>255cc5c5-d82b-40da-b80f-5466e9769585</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Sign in with Credentials' or . = 'Sign in with Credentials')]</value>
-      <webElementGuid>91172c45-03ef-4ef6-80a5-0c5e6575d2de</webElementGuid>
+      <webElementGuid>1d6ae859-705b-4301-b861-6115d54d8269</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,27 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Testsuites filter category,Chrome 116.0.0.0,,,2566-09-01 16:45:54,2566-09-01 16:46:19,24.991s,PASSED
+,,,,,,,
+Test Cases/TEST LOGIN,Chrome 116.0.0.0,"username : admin
+password : 123456",,2566-09-01 16:45:54,2566-09-01 16:46:02,7.616s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2566-09-01 16:45:54,2566-09-01 16:45:57,2.965s,PASSED
+"navigateToUrl(""https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"")",Chrome 116.0.0.0,,,2566-09-01 16:45:57,2566-09-01 16:45:58,0.877s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign In/input_Username_username""), ""admin"")",Chrome 116.0.0.0,,,2566-09-01 16:45:58,2566-09-01 16:46:00,1.945s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign In/input_Password_password""), ""aeHFOx8jV/A="")",Chrome 116.0.0.0,,,2566-09-01 16:46:00,2566-09-01 16:46:01,0.489s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign In/button_Sign in with Credentials""))",Chrome 116.0.0.0,,,2566-09-01 16:46:01,2566-09-01 16:46:02,0.946s,PASSED
+,,,,,,,
+Test Cases/Category LIST/Filter category หน้า sub category/ทดสอบการ filter สลับไปมา,Chrome 116.0.0.0,,,2566-09-01 16:46:02,2566-09-01 16:46:19,16.994s,PASSED
+"navigateToUrl(""https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"")",Chrome 116.0.0.0,,,2566-09-01 16:46:02,2566-09-01 16:46:02,0.195s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/span_Item""))",Chrome 116.0.0.0,,,2566-09-01 16:46:02,2566-09-01 16:46:03,0.759s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/span_Category""))",Chrome 116.0.0.0,,,2566-09-01 16:46:03,2566-09-01 16:46:04,0.701s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/button_Sub Category""))",Chrome 116.0.0.0,,,2566-09-01 16:46:04,2566-09-01 16:46:05,0.931s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS""), ""1"", true)",Chrome 116.0.0.0,,,2566-09-01 16:46:05,2566-09-01 16:46:06,1.361s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS""), ""3"", true)",Chrome 116.0.0.0,,,2566-09-01 16:46:06,2566-09-01 16:46:07,1.157s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS""), ""1"", true)",Chrome 116.0.0.0,,,2566-09-01 16:46:07,2566-09-01 16:46:09,1.405s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS""), ""14"", true)",Chrome 116.0.0.0,,,2566-09-01 16:46:09,2566-09-01 16:46:10,1.221s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS""), ""4"", true)",Chrome 116.0.0.0,,,2566-09-01 16:46:10,2566-09-01 16:46:11,1.276s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS""), ""6"", true)",Chrome 116.0.0.0,,,2566-09-01 16:46:11,2566-09-01 16:46:12,1.305s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS""), ""14"", true)",Chrome 116.0.0.0,,,2566-09-01 16:46:12,2566-09-01 16:46:14,1.314s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS""), ""4"", true)",Chrome 116.0.0.0,,,2566-09-01 16:46:14,2566-09-01 16:46:15,1.290s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS""), ""3"", true)",Chrome 116.0.0.0,,,2566-09-01 16:46:15,2566-09-01 16:46:16,1.256s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS""), ""1"", true)",Chrome 116.0.0.0,,,2566-09-01 16:46:16,2566-09-01 16:46:17,1.119s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS""), """", true)",Chrome 116.0.0.0,,,2566-09-01 16:46:17,2566-09-01 16:46:19,1.223s,PASSED

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>59156105-3698-4fba-850f-9012ce60411e</webElementGuid>
+      <webElementGuid>88218a0c-1262-4e97-a2b2-f388a0702491</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>flex py-3 px-2 items-center h-full </value>
-      <webElementGuid>850f08d8-a7e5-4c9f-8cb7-bbc2dedb2dc8</webElementGuid>
+      <webElementGuid>3d317c69-65bb-40cd-ace7-faecdd0ca874</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Item</value>
-      <webElementGuid>965ab641-5558-408d-b883-ac6777091bdb</webElementGuid>
+      <webElementGuid>eb73805f-18aa-4f7d-a7d0-73414b84b1d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;light&quot;]/body[@class=&quot;__className_8c1529&quot;]/div[@class=&quot;w-full text-black dark:text-light&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;w-[260px] fixed md:sticky top-0 left-0 h-[100dvh] text-[#171725] bg-white dark:bg-slate-800 transition-all duration-1000 ease-in-out z-10&quot;]/aside[@class=&quot;top-0 left-0  pl-4 pr-2 pt-4 pb-4&quot;]/div[@class=&quot;flex flex-col dark:text-white&quot;]/div[@class=&quot;flex flex-col items-start mt-16&quot;]/div[@class=&quot;flex w-full items-center cursor-pointer hover:text-cream-1000 rounded overflow-hidden whitespace-nowrap&quot;]/div[1]/div[@class=&quot;flex py-3 px-2 items-center h-full&quot;]</value>
-      <webElementGuid>c76a3fa3-76a9-494f-8294-44ed86777b02</webElementGuid>
+      <webElementGuid>94c1a780-efe8-4663-87d1-cd4005ff05c0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[1]/following::div[3]</value>
-      <webElementGuid>2f0923d2-ac54-44bd-a42b-3e77a43cf6c7</webElementGuid>
+      <webElementGuid>c5ec8340-f26b-43eb-a2f9-009ad37a1529</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='POS'])[1]/following::div[8]</value>
-      <webElementGuid>cc719920-443d-4c85-811b-66ef5cdce955</webElementGuid>
+      <webElementGuid>5654713f-2550-4419-8c56-f2ce64b8b7cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Item List'])[1]/preceding::div[3]</value>
-      <webElementGuid>d77ce982-aa19-4455-85ef-9fd9446b1a21</webElementGuid>
+      <webElementGuid>3a7dbbb7-5ac2-48c3-8a22-1cf58b99f517</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/div</value>
-      <webElementGuid>009c05c2-b82f-4bf3-825b-4ba5966d3fb6</webElementGuid>
+      <webElementGuid>f49a88d6-6130-404b-910b-8cd0e5aa307a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Item' or . = 'Item')]</value>
-      <webElementGuid>e80a965f-b06a-4a4a-80e0-dfbb6184f92e</webElementGuid>
+      <webElementGuid>2b3fd9bd-8e1e-4b95-9c9c-4f05a17b0c4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Testsuites filter category" time="82.084" tests="6" failures="1" errors="0">
+   <testsuite name="Testsuites filter category" tests="6" failures="1" errors="0" time="82.084" skipped="0" timestamp="2566-09-01 16:33:48" hostname="USER - DESKTOP-67R9BDO" id="Test Suites/Testsuites filter category">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\USER\\git\\katalon\\Reports\\25660901_163338\\Testsuites filter category\\25660901_163338"/>
+         <property name="logFiles" value="C:\\Users\\USER\\git\\katalon\\Reports\\25660901_163338\\Testsuites filter category\\25660901_163338\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\USER\\git\\katalon\\Reports\\25660901_163338\\Testsuites filter category\\25660901_163338\\1693560862280.png, C:\\Users\\USER\\git\\katalon\\Reports\\25660901_163338\\Testsuites filter category\\25660901_163338\\1693560877824.png, C:\\Users\\USER\\git\\katalon\\Reports\\25660901_163338\\Testsuites filter category\\25660901_163338\\1693560893943.png, C:\\Users\\USER\\git\\katalon\\Reports\\25660901_163338\\Testsuites filter category\\25660901_163338\\1693560910095.png"/>
+         <property name="hostName" value="USER - DESKTOP-67R9BDO"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="8.6.6.208"/>
+         <property name="browser" value="Chrome 116.0.0.0"/>
+         <property name="hostAddress" value="172.20.10.12"/>
+         <property name="sessionId" value="13448a514210070b5292e73f2f782ec8"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/TEST LOGIN" time="6.909" classname="Test Cases/TEST LOGIN" status="PASSED">
+         <system-out><![CDATA[2566-09-01 16:33:48 - [TEST_CASE][PASSED] - Test Cases/TEST LOGIN: Test Cases/TEST LOGIN
+
+2566-09-01 16:33:48 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2566-09-01 16:33:49 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2566-09-01 16:33:49 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2566-09-01 16:33:51 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2566-09-01 16:33:51 - [TEST_STEP][PASSED] - navigateToUrl("https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"): Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/' successfully
+
+2566-09-01 16:33:52 - [MESSAGE][PASSED] - Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/' successfully
+
+2566-09-01 16:33:52 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Sign In/input_Username_username"), "admin"): Text 'admin' is set on object 'Object Repository/Page_Sign In/input_Username_username'
+
+2566-09-01 16:33:54 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/Page_Sign In/input_Username_username'
+
+2566-09-01 16:33:54 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Sign In/input_Password_password"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/Page_Sign In/input_Password_password'
+
+2566-09-01 16:33:54 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Sign In/input_Password_password'
+
+2566-09-01 16:33:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign In/button_Sign in with Credentials")): Object: 'Object Repository/Page_Sign In/button_Sign in with Credentials' is clicked on
+
+2566-09-01 16:33:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign In/button_Sign in with Credentials' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Category LIST/Filter category หน้า sub category/ตรวจสอบการคลิ๊กที่ filter ต้องมี dropdown ลงมา" time="3.398" classname="Test Cases/Category LIST/Filter category หน้า sub category/ตรวจสอบการคลิ๊กที่ filter ต้องมี dropdown ลงมา" status="PASSED">
+         <system-out><![CDATA[2566-09-01 16:33:55 - [TEST_CASE][PASSED] - Test Cases/Category LIST/Filter category หน้า sub category/ตรวจสอบการคลิ๊กที่ filter ต้องมี dropdown ลงมา: Test Cases/Category LIST/Filter category หน้า sub category/ตรวจสอบการคลิ๊กที่ filter ต้องมี dropdown ลงมา
+
+2566-09-01 16:33:55 - [TEST_STEP][PASSED] - navigateToUrl("https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"): Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/' successfully
+
+2566-09-01 16:33:55 - [MESSAGE][PASSED] - Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/' successfully
+
+2566-09-01 16:33:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/span_Item")): Object: 'Object Repository/Page_Create Next App/span_Item' is clicked on
+
+2566-09-01 16:33:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/span_Item' is clicked on
+
+2566-09-01 16:33:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/div_Category")): Object: 'Object Repository/Page_Create Next App/div_Category' is clicked on
+
+2566-09-01 16:33:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/div_Category' is clicked on
+
+2566-09-01 16:33:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/button_Sub Category")): Object: 'Object Repository/Page_Create Next App/button_Sub Category' is clicked on
+
+2566-09-01 16:33:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/button_Sub Category' is clicked on
+
+2566-09-01 16:33:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/div_CategoryAllWatersTT555Categories2Ben285_7d2483")): Object: 'Object Repository/Page_Create Next App/div_CategoryAllWatersTT555Categories2Ben285_7d2483' is clicked on
+
+2566-09-01 16:33:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/div_CategoryAllWatersTT555Categories2Ben285_7d2483' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Category LIST/Filter category หน้า sub category/ตรวจสอบการคลิ๊กปิด filter ต้องไม่มีการ dropdown ลงมา" time="3.48" classname="Test Cases/Category LIST/Filter category หน้า sub category/ตรวจสอบการคลิ๊กปิด filter ต้องไม่มีการ dropdown ลงมา" status="PASSED">
+         <system-out><![CDATA[2566-09-01 16:33:58 - [TEST_CASE][PASSED] - Test Cases/Category LIST/Filter category หน้า sub category/ตรวจสอบการคลิ๊กปิด filter ต้องไม่มีการ dropdown ลงมา: Test Cases/Category LIST/Filter category หน้า sub category/ตรวจสอบการคลิ๊กปิด filter ต้องไม่มีการ dropdown ลงมา
+
+2566-09-01 16:33:59 - [TEST_STEP][PASSED] - navigateToUrl("https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"): Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/' successfully
+
+2566-09-01 16:33:59 - [MESSAGE][PASSED] - Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/' successfully
+
+2566-09-01 16:33:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/span_Item")): Object: 'Object Repository/Page_Create Next App/span_Item' is clicked on
+
+2566-09-01 16:33:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/span_Item' is clicked on
+
+2566-09-01 16:34:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/span_Category")): Object: 'Object Repository/Page_Create Next App/span_Category' is clicked on
+
+2566-09-01 16:34:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/span_Category' is clicked on
+
+2566-09-01 16:34:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/button_Sub Category")): Object: 'Object Repository/Page_Create Next App/button_Sub Category' is clicked on
+
+2566-09-01 16:34:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/button_Sub Category' is clicked on
+
+2566-09-01 16:34:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/div_CategoryAllWatersTT555Categories2Ben285_7d2483")): Object: 'Object Repository/Page_Create Next App/div_CategoryAllWatersTT555Categories2Ben285_7d2483' is clicked on
+
+2566-09-01 16:34:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/div_CategoryAllWatersTT555Categories2Ben285_7d2483' is clicked on
+
+2566-09-01 16:34:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/div_CategorySub Category")): Object: 'Object Repository/Page_Create Next App/div_CategorySub Category' is clicked on
+
+2566-09-01 16:34:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/div_CategorySub Category' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Category LIST/Filter category หน้า sub category/ตรวจสอบการใช้ filter ควบคู่กับช่อง search" time="0.229" classname="Test Cases/Category LIST/Filter category หน้า sub category/ตรวจสอบการใช้ filter ควบคู่กับช่อง search" status="PASSED">
+         <system-out><![CDATA[2566-09-01 16:34:02 - [TEST_CASE][PASSED] - Test Cases/Category LIST/Filter category หน้า sub category/ตรวจสอบการใช้ filter ควบคู่กับช่อง search: Test Cases/Category LIST/Filter category หน้า sub category/ตรวจสอบการใช้ filter ควบคู่กับช่อง search
+
+2566-09-01 16:34:02 - [TEST_STEP][PASSED] - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Category LIST/Filter category หน้า sub category/ทดสอบกรองข้อมูล 1 รายการ" time="3.748" classname="Test Cases/Category LIST/Filter category หน้า sub category/ทดสอบกรองข้อมูล 1 รายการ" status="PASSED">
+         <system-out><![CDATA[2566-09-01 16:34:02 - [TEST_CASE][PASSED] - Test Cases/Category LIST/Filter category หน้า sub category/ทดสอบกรองข้อมูล 1 รายการ: Test Cases/Category LIST/Filter category หน้า sub category/ทดสอบกรองข้อมูล 1 รายการ
+
+2566-09-01 16:34:02 - [TEST_STEP][PASSED] - navigateToUrl("https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"): Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/' successfully
+
+2566-09-01 16:34:02 - [MESSAGE][PASSED] - Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/' successfully
+
+2566-09-01 16:34:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/div_Item")): Object: 'Object Repository/Page_Create Next App/div_Item' is clicked on
+
+2566-09-01 16:34:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/div_Item' is clicked on
+
+2566-09-01 16:34:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/span_Category")): Object: 'Object Repository/Page_Create Next App/span_Category' is clicked on
+
+2566-09-01 16:34:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/span_Category' is clicked on
+
+2566-09-01 16:34:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/button_Sub Category")): Object: 'Object Repository/Page_Create Next App/button_Sub Category' is clicked on
+
+2566-09-01 16:34:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/button_Sub Category' is clicked on
+
+2566-09-01 16:34:04 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS"), "1", true): All options with value '1' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-01 16:34:06 - [MESSAGE][PASSED] - All options with value '1' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Category LIST/Filter category หน้า sub category/ทดสอบการ filter สลับไปมา" time="16.142" classname="Test Cases/Category LIST/Filter category หน้า sub category/ทดสอบการ filter สลับไปมา" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Category LIST/Filter category หน้า sub category/ทดสอบการ filter สลับไปมา FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to select option by value 'All' of object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword.selectOptionByValue(SelectOptionByValueKeyword.groovy:99)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword.execute(SelectOptionByValueKeyword.groovy:71)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByValue(WebUiBuiltInKeywords.groovy:1168)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$selectOptionByValue$4.call(Unknown Source)
+	at ทดสอบการ filter สลับไปมา.run(ทดสอบการ filter สลับไปมา:58)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1693560818207.run(TempTestSuite1693560818207.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: No option matched.
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:51)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:23)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword$_selectOptionByValue_closure1.doCall(SelectOptionByValueKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword$_selectOptionByValue_closure1.call(SelectOptionByValueKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+"/>
+         <system-out><![CDATA[2566-09-01 16:34:54 - [TEST_CASE][FAILED] - Test Cases/Category LIST/Filter category หน้า sub category/ทดสอบการ filter สลับไปมา: Test Cases/Category LIST/Filter category หน้า sub category/ทดสอบการ filter สลับไปมา FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to select option by value 'All' of object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword.selectOptionByValue(SelectOptionByValueKeyword.groovy:99)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword.execute(SelectOptionByValueKeyword.groovy:71)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByValue(WebUiBuiltInKeywords.groovy:1168)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$selectOptionByValue$4.call(Unknown Source)
+	at ทดสอบการ filter สลับไปมา.run(ทดสอบการ filter สลับไปมา:58)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1693560818207.run(TempTestSuite1693560818207.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: No option matched.
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:51)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:23)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword$_selectOptionByValue_closure1.doCall(SelectOptionByValueKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword$_selectOptionByValue_closure1.call(SelectOptionByValueKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+
+
+2566-09-01 16:34:54 - [TEST_STEP][PASSED] - navigateToUrl("https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"): Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/' successfully
+
+2566-09-01 16:34:54 - [MESSAGE][PASSED] - Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/' successfully
+
+2566-09-01 16:34:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/span_Item")): Object: 'Object Repository/Page_Create Next App/span_Item' is clicked on
+
+2566-09-01 16:34:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/span_Item' is clicked on
+
+2566-09-01 16:34:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/span_Category")): Object: 'Object Repository/Page_Create Next App/span_Category' is clicked on
+
+2566-09-01 16:34:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/span_Category' is clicked on
+
+2566-09-01 16:34:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/button_Sub Category")): Object: 'Object Repository/Page_Create Next App/button_Sub Category' is clicked on
+
+2566-09-01 16:34:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/button_Sub Category' is clicked on
+
+2566-09-01 16:34:56 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS"), "1", true): All options with value '1' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-01 16:34:57 - [MESSAGE][PASSED] - All options with value '1' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-01 16:34:57 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS"), "3", true): All options with value '3' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-01 16:34:59 - [MESSAGE][PASSED] - All options with value '3' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-01 16:34:59 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS"), "1", true): All options with value '1' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-01 16:35:00 - [MESSAGE][PASSED] - All options with value '1' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-01 16:35:00 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS"), "14", true): All options with value '14' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-01 16:35:01 - [MESSAGE][PASSED] - All options with value '14' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-01 16:35:01 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS"), "4", true): All options with value '4' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-01 16:35:02 - [MESSAGE][PASSED] - All options with value '4' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-01 16:35:02 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS"), "6", true): All options with value '6' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-01 16:35:04 - [MESSAGE][PASSED] - All options with value '6' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-01 16:35:04 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS"), "14", true): All options with value '14' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-01 16:35:05 - [MESSAGE][PASSED] - All options with value '14' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-01 16:35:05 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS"), "4", true): All options with value '4' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-01 16:35:06 - [MESSAGE][PASSED] - All options with value '4' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-01 16:35:06 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS"), "3", true): All options with value '3' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-01 16:35:08 - [MESSAGE][PASSED] - All options with value '3' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-01 16:35:08 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS"), "1", true): All options with value '1' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-01 16:35:09 - [MESSAGE][PASSED] - All options with value '1' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-01 16:35:09 - [TEST_STEP][FAILED] - selectOptionByValue(findTestObject("Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS"), "All", true): Unable to select option by value 'All' of object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to select option by value 'All' of object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword.selectOptionByValue(SelectOptionByValueKeyword.groovy:99)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword.execute(SelectOptionByValueKeyword.groovy:71)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByValue(WebUiBuiltInKeywords.groovy:1168)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$selectOptionByValue$4.call(Unknown Source)
+	at ทดสอบการ filter สลับไปมา.run(ทดสอบการ filter สลับไปมา:58)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1693560818207.run(TempTestSuite1693560818207.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: No option matched.
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:51)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:23)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword$_selectOptionByValue_closure1.doCall(SelectOptionByValueKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword$_selectOptionByValue_closure1.call(SelectOptionByValueKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword.selectOptionByValue(SelectOptionByValueKeyword.groovy:99)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword.execute(SelectOptionByValueKeyword.groovy:71)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByValue(WebUiBuiltInKeywords.groovy:1168)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$selectOptionByValue$4.call(Unknown Source)
+	at Script1693560313179.run(Script1693560313179.groovy:58)
+	... 16 more
+)
+
+2566-09-01 16:35:10 - [MESSAGE][FAILED] - No option matched.
+
+2566-09-01 16:35:10 - [MESSAGE][FAILED] - Unable to select option by value 'All' of object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to select option by value 'All' of object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword.selectOptionByValue(SelectOptionByValueKeyword.groovy:99)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword.execute(SelectOptionByValueKeyword.groovy:71)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByValue(WebUiBuiltInKeywords.groovy:1168)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$selectOptionByValue$4.call(Unknown Source)
+	at ทดสอบการ filter สลับไปมา.run(ทดสอบการ filter สลับไปมา:58)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1693560818207.run(TempTestSuite1693560818207.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: No option matched.
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:51)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:23)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword$_selectOptionByValue_closure1.doCall(SelectOptionByValueKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword$_selectOptionByValue_closure1.call(SelectOptionByValueKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword.selectOptionByValue(SelectOptionByValueKeyword.groovy:99)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword.execute(SelectOptionByValueKeyword.groovy:71)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByValue(WebUiBuiltInKeywords.groovy:1168)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$selectOptionByValue$4.call(Unknown Source)
+	at Script1693560313179.run(Script1693560313179.groovy:58)
+	... 16 more
+)
+[[ATTACHMENT|C:\\Users\\USER\\git\\katalon\\Reports\\25660901_163338\\Testsuites filter category\\25660901_163338\\1693560910095.png]]]]></system-out>
+         <system-err><![CDATA[2566-09-01 16:34:54 - [TEST_CASE][FAILED] - Test Cases/Category LIST/Filter category หน้า sub category/ทดสอบการ filter สลับไปมา: Test Cases/Category LIST/Filter category หน้า sub category/ทดสอบการ filter สลับไปมา FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to select option by value 'All' of object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword.selectOptionByValue(SelectOptionByValueKeyword.groovy:99)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword.execute(SelectOptionByValueKeyword.groovy:71)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByValue(WebUiBuiltInKeywords.groovy:1168)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$selectOptionByValue$4.call(Unknown Source)
+	at ทดสอบการ filter สลับไปมา.run(ทดสอบการ filter สลับไปมา:58)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1693560818207.run(TempTestSuite1693560818207.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: No option matched.
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:51)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:23)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword$_selectOptionByValue_closure1.doCall(SelectOptionByValueKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword$_selectOptionByValue_closure1.call(SelectOptionByValueKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2566-09-01 16:33:48 - [TEST_SUITE][FAILED] - Testsuites filter category: Test Cases/Category LIST/Filter category หน้า sub category/ทดสอบการ filter สลับไปมา FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to select option by value 'All' of object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword.selectOptionByValue(SelectOptionByValueKeyword.groovy:99)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword.execute(SelectOptionByValueKeyword.groovy:71)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByValue(WebUiBuiltInKeywords.groovy:1168)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$selectOptionByValue$4.call(Unknown Source)
+	at ทดสอบการ filter สลับไปมา.run(ทดสอบการ filter สลับไปมา:58)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1693560818207.run(TempTestSuite1693560818207.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: No option matched.
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:51)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:23)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword$_selectOptionByValue_closure1.doCall(SelectOptionByValueKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword$_selectOptionByValue_closure1.call(SelectOptionByValueKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-out>
+      <system-err><![CDATA[2566-09-01 16:33:48 - [TEST_SUITE][FAILED] - Testsuites filter category: Test Cases/Category LIST/Filter category หน้า sub category/ทดสอบการ filter สลับไปมา FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to select option by value 'All' of object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword.selectOptionByValue(SelectOptionByValueKeyword.groovy:99)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword.execute(SelectOptionByValueKeyword.groovy:71)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByValue(WebUiBuiltInKeywords.groovy:1168)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$selectOptionByValue$4.call(Unknown Source)
+	at ทดสอบการ filter สลับไปมา.run(ทดสอบการ filter สลับไปมา:58)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1693560818207.run(TempTestSuite1693560818207.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: No option matched.
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:51)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:23)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword$_selectOptionByValue_closure1.doCall(SelectOptionByValueKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByValueKeyword$_selectOptionByValue_closure1.call(SelectOptionByValueKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+   </testsuite>
+</testsuites>

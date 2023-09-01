@@ -1,0 +1,52 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Testsuites filter category,Chrome 116.0.0.0,,,2566-09-01 16:33:48,2566-09-01 16:35:10,1m - 22.084s,FAILED
+,,,,,,,
+Test Cases/TEST LOGIN,Chrome 116.0.0.0,"username : admin
+password : 123456",,2566-09-01 16:33:48,2566-09-01 16:33:55,6.909s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2566-09-01 16:33:48,2566-09-01 16:33:51,2.970s,PASSED
+"navigateToUrl(""https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"")",Chrome 116.0.0.0,,,2566-09-01 16:33:51,2566-09-01 16:33:52,0.851s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign In/input_Username_username""), ""admin"")",Chrome 116.0.0.0,,,2566-09-01 16:33:52,2566-09-01 16:33:54,1.418s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign In/input_Password_password""), ""aeHFOx8jV/A="")",Chrome 116.0.0.0,,,2566-09-01 16:33:54,2566-09-01 16:33:54,0.463s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign In/button_Sign in with Credentials""))",Chrome 116.0.0.0,,,2566-09-01 16:33:54,2566-09-01 16:33:55,0.804s,PASSED
+,,,,,,,
+Test Cases/Category LIST/Filter category หน้า sub category/ตรวจสอบการคลิ๊กที่ filter ต้องมี dropdown ลงมา,Chrome 116.0.0.0,,,2566-09-01 16:33:55,2566-09-01 16:33:58,3.398s,PASSED
+"navigateToUrl(""https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"")",Chrome 116.0.0.0,,,2566-09-01 16:33:55,2566-09-01 16:33:55,0.207s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/span_Item""))",Chrome 116.0.0.0,,,2566-09-01 16:33:55,2566-09-01 16:33:56,0.727s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/div_Category""))",Chrome 116.0.0.0,,,2566-09-01 16:33:56,2566-09-01 16:33:57,0.688s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/button_Sub Category""))",Chrome 116.0.0.0,,,2566-09-01 16:33:57,2566-09-01 16:33:58,0.888s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/div_CategoryAllWatersTT555Categories2Ben285_7d2483""))",Chrome 116.0.0.0,,,2566-09-01 16:33:58,2566-09-01 16:33:58,0.479s,PASSED
+,,,,,,,
+Test Cases/Category LIST/Filter category หน้า sub category/ตรวจสอบการคลิ๊กปิด filter ต้องไม่มีการ dropdown ลงมา,Chrome 116.0.0.0,,,2566-09-01 16:33:58,2566-09-01 16:34:02,3.480s,PASSED
+"navigateToUrl(""https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"")",Chrome 116.0.0.0,,,2566-09-01 16:33:59,2566-09-01 16:33:59,0.232s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/span_Item""))",Chrome 116.0.0.0,,,2566-09-01 16:33:59,2566-09-01 16:34:00,0.764s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/span_Category""))",Chrome 116.0.0.0,,,2566-09-01 16:34:00,2566-09-01 16:34:00,0.674s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/button_Sub Category""))",Chrome 116.0.0.0,,,2566-09-01 16:34:00,2566-09-01 16:34:01,0.718s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/div_CategoryAllWatersTT555Categories2Ben285_7d2483""))",Chrome 116.0.0.0,,,2566-09-01 16:34:01,2566-09-01 16:34:01,0.482s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/div_CategorySub Category""))",Chrome 116.0.0.0,,,2566-09-01 16:34:01,2566-09-01 16:34:02,0.373s,PASSED
+,,,,,,,
+Test Cases/Category LIST/Filter category หน้า sub category/ตรวจสอบการใช้ filter ควบคู่กับช่อง search,Chrome 116.0.0.0,,,2566-09-01 16:34:02,2566-09-01 16:34:02,0.229s,PASSED
+return null,Chrome 116.0.0.0,,,2566-09-01 16:34:02,2566-09-01 16:34:02,0.001s,PASSED
+,,,,,,,
+Test Cases/Category LIST/Filter category หน้า sub category/ทดสอบกรองข้อมูล 1 รายการ,Chrome 116.0.0.0,,,2566-09-01 16:34:02,2566-09-01 16:34:06,3.748s,PASSED
+"navigateToUrl(""https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"")",Chrome 116.0.0.0,,,2566-09-01 16:34:02,2566-09-01 16:34:02,0.184s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/div_Item""))",Chrome 116.0.0.0,,,2566-09-01 16:34:02,2566-09-01 16:34:03,0.675s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/span_Category""))",Chrome 116.0.0.0,,,2566-09-01 16:34:03,2566-09-01 16:34:04,0.596s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/button_Sub Category""))",Chrome 116.0.0.0,,,2566-09-01 16:34:04,2566-09-01 16:34:04,0.763s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS""), ""1"", true)",Chrome 116.0.0.0,,,2566-09-01 16:34:04,2566-09-01 16:34:06,1.297s,PASSED
+,,,,,,,
+Test Cases/Category LIST/Filter category หน้า sub category/ทดสอบการ filter สลับไปมา,Chrome 116.0.0.0,,,2566-09-01 16:34:54,2566-09-01 16:35:10,16.142s,FAILED
+"navigateToUrl(""https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"")",Chrome 116.0.0.0,,,2566-09-01 16:34:54,2566-09-01 16:34:54,0.247s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/span_Item""))",Chrome 116.0.0.0,,,2566-09-01 16:34:54,2566-09-01 16:34:55,0.749s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/span_Category""))",Chrome 116.0.0.0,,,2566-09-01 16:34:55,2566-09-01 16:34:55,0.732s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/button_Sub Category""))",Chrome 116.0.0.0,,,2566-09-01 16:34:55,2566-09-01 16:34:56,0.818s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS""), ""1"", true)",Chrome 116.0.0.0,,,2566-09-01 16:34:56,2566-09-01 16:34:57,1.276s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS""), ""3"", true)",Chrome 116.0.0.0,,,2566-09-01 16:34:57,2566-09-01 16:34:59,1.181s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS""), ""1"", true)",Chrome 116.0.0.0,,,2566-09-01 16:34:59,2566-09-01 16:35:00,1.162s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS""), ""14"", true)",Chrome 116.0.0.0,,,2566-09-01 16:35:00,2566-09-01 16:35:01,1.332s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS""), ""4"", true)",Chrome 116.0.0.0,,,2566-09-01 16:35:01,2566-09-01 16:35:02,1.276s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS""), ""6"", true)",Chrome 116.0.0.0,,,2566-09-01 16:35:02,2566-09-01 16:35:04,1.287s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS""), ""14"", true)",Chrome 116.0.0.0,,,2566-09-01 16:35:04,2566-09-01 16:35:05,1.409s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS""), ""4"", true)",Chrome 116.0.0.0,,,2566-09-01 16:35:05,2566-09-01 16:35:06,1.243s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS""), ""3"", true)",Chrome 116.0.0.0,,,2566-09-01 16:35:06,2566-09-01 16:35:08,1.270s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS""), ""1"", true)",Chrome 116.0.0.0,,,2566-09-01 16:35:08,2566-09-01 16:35:09,1.187s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS""), ""All"", true)",Chrome 116.0.0.0,,,2566-09-01 16:35:09,2566-09-01 16:35:10,0.958s,FAILED

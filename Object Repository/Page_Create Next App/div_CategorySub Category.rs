@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_CategorySub Category</name>
+   <tag></tag>
+   <elementGuidId>0cbb812f-654c-415a-9f00-83a73d391a7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Category List'])[1]/following::div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.flex-auto.space-x-1.rounded-xl</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>46c3a7c8-0786-4d36-b284-df2c7eb926df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-auto space-x-1 rounded-xl</value>
+      <webElementGuid>8bf9835c-25f1-40d7-b5f4-96ea4c77ace7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tablist</value>
+      <webElementGuid>aa6afef9-67bf-4fdb-9c35-575c682868c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-orientation</name>
+      <type>Main</type>
+      <value>horizontal</value>
+      <webElementGuid>d1c79b59-0503-4f6c-8d75-b87ed8a97ec8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CategorySub Category</value>
+      <webElementGuid>f3c6ad08-da84-4f8b-afd0-709892d0d544</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;light&quot;]/body[@class=&quot;__className_8c1529&quot;]/div[@class=&quot;w-full text-black dark:text-light&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;w-full&quot;]/main[@class=&quot;flex-grow bg-gray-50 dark:bg-slate-400 min-h-[89.5dvh] p-10&quot;]/div[1]/div[@class=&quot;pt-6&quot;]/div[@class=&quot;flex justify-between&quot;]/div[@class=&quot;flex flex-auto space-x-1 rounded-xl&quot;]</value>
+      <webElementGuid>f83ae46e-1d08-4f48-b2f9-c31640245064</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Category List'])[1]/following::div[3]</value>
+      <webElementGuid>0780df96-bb66-48f6-897f-423c3f70723b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='admin'])[1]/following::div[4]</value>
+      <webElementGuid>cb2da844-07a6-49b4-bf5c-f5af96ddfe17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/div/div</value>
+      <webElementGuid>dd8e5e5d-e577-4aed-800a-1e89138dbca4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'CategorySub Category' or . = 'CategorySub Category')]</value>
+      <webElementGuid>22302255-6f6a-4e56-bef0-0cf5ef576fc2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
