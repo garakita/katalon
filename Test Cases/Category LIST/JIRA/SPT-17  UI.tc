@@ -3,7 +3,7 @@
    <description>Summary: เช็ค UI
 Description: </description>
    <name>SPT-17  UI</name>
-   <tag>jira-integration</tag>
+   <tag>SPT-17</tag>
    <integratedEntity>
       <productName>JIRA</productName>
       <properties>
