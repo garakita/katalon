@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_CategoryName_border-gray-300 placehol_3ea089</name>
+   <tag></tag>
+   <elementGuidId>9dcc15ec-9d78-454b-b4bc-b17fe80675ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>6b159863-56fb-4797-ad40-53d3352ad585</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-gray-300 placeholder-gray-500 text-sm rounded-xl  text-gray-700  focus:ring-cream-1000 focus:border-cream-1000</value>
+      <webElementGuid>50a18592-fb47-4623-baf5-c97a9b31d515</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Input Category Name</value>
+      <webElementGuid>4164526a-8bb3-4bfd-933a-76da51ebc4e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>315abb3e-7003-48af-9b48-0a0a0f9dd755</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-panel-:r5:&quot;)/div[@class=&quot;w-full p-4 grid grid-cols-1&quot;]/input[@class=&quot;border-gray-300 placeholder-gray-500 text-sm rounded-xl  text-gray-700  focus:ring-cream-1000 focus:border-cream-1000&quot;]</value>
+      <webElementGuid>98a23429-2db9-40c7-9cdf-facc1b49b727</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>a911ed30-3692-4ee3-91d9-cf839bf3e048</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-panel-:r5:']/div[3]/input</value>
+      <webElementGuid>1494da1e-bb70-4f57-96eb-38b8be1f74ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/input</value>
+      <webElementGuid>a4d22aaf-e4d3-441e-bf71-12138791c0ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Input Category Name' and @type = 'text']</value>
+      <webElementGuid>e882ecee-b04c-4c84-8dc5-088022a0f059</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

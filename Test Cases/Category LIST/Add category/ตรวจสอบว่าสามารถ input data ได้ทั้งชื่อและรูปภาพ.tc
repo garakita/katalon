@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ตรวจสอบว่าสามารถ input data ได้ทั้งชื่อและรูปภาพ</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8e38f429-8179-403b-ad4d-2fc7a4227fc1</testCaseGuid>
+</TestCaseEntity>
