@@ -6,12 +6,12 @@
    <elementGuidId>d05a9094-f905-421c-8e8c-82afebae2b67</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[1]/following::span[1]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[1]/following::span[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>1007bcd3-264d-408c-8f04-0bf34f60365d</webElementGuid>
+      <webElementGuid>7a643b93-8d58-4ac1-aba4-e49f3ce67825</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-sm</value>
-      <webElementGuid>21208e3d-6405-4f84-aa62-4c98cf027348</webElementGuid>
+      <webElementGuid>ecc776c3-2c41-40ce-a449-f0665cf8f115</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Item</value>
-      <webElementGuid>2326a823-580b-4ee8-9ab0-966ca928af83</webElementGuid>
+      <webElementGuid>f497ca15-66b4-49e6-b8d6-42e14f3fbe50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;light&quot;]/body[@class=&quot;__className_8c1529&quot;]/div[@class=&quot;w-full text-black dark:text-light&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;w-[260px] fixed md:sticky top-0 left-0 h-[100dvh] text-[#171725] bg-white dark:bg-slate-800 transition-all duration-1000 ease-in-out z-10&quot;]/aside[@class=&quot;top-0 left-0  pl-4 pr-2 pt-4 pb-4&quot;]/div[@class=&quot;flex flex-col dark:text-white&quot;]/div[@class=&quot;flex flex-col items-start mt-16&quot;]/div[@class=&quot;flex w-full items-center cursor-pointer hover:text-cream-1000 rounded overflow-hidden whitespace-nowrap&quot;]/div[1]/div[@class=&quot;flex py-3 px-2 items-center h-full&quot;]/span[@class=&quot;text-sm&quot;]</value>
-      <webElementGuid>4dd653a2-aa1f-4d29-8178-68c559c4a7a7</webElementGuid>
+      <webElementGuid>635c62c2-83f3-42b9-bae1-bcf9d54328be</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[1]/following::span[1]</value>
-      <webElementGuid>f33ef60d-8c51-4bb2-ad9b-c7c046354bc1</webElementGuid>
+      <webElementGuid>417568c5-865c-4c6a-9496-f9e6298fafdd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='POS'])[1]/following::span[2]</value>
-      <webElementGuid>c87cb84e-1535-4926-afee-c8fecad44bc3</webElementGuid>
+      <webElementGuid>c723f448-708b-49fb-80a1-60a64b149b94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Item List'])[1]/preceding::span[1]</value>
-      <webElementGuid>d7e075c2-3f48-424c-ba23-d4ed8d2729f5</webElementGuid>
+      <webElementGuid>b83edc53-93b7-4528-8ec1-1efade8555a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Category'])[1]/preceding::span[2]</value>
-      <webElementGuid>7cf271ae-8755-4685-b1c1-7559593cfd77</webElementGuid>
+      <webElementGuid>0d05b0a9-c608-4be9-aa59-88eb5fcfac83</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Item']/parent::*</value>
-      <webElementGuid>5ac263de-013c-438b-a321-a485d876259c</webElementGuid>
+      <webElementGuid>d2eec2f8-58d1-43b0-9a4d-36c0af5cbab1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/span</value>
-      <webElementGuid>a8d5a8c8-d787-4fbd-9f71-3e66950e6061</webElementGuid>
+      <webElementGuid>3fa6dc1f-c649-428b-a0bf-3a0e33294e0d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Item' or . = 'Item')]</value>
-      <webElementGuid>b8ec93ca-03aa-47a1-b023-8a797a99ce7f</webElementGuid>
+      <webElementGuid>5f7492a8-f6c5-43d9-94b4-e0a179071d5b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

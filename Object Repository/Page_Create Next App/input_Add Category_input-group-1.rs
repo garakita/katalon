@@ -6,12 +6,12 @@
    <elementGuidId>a9e0baaa-18ae-49ed-82e8-ee9bae7a1686</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='input-group-1']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#input-group-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='input-group-1']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5e5b8c77-1eb0-4a02-9c76-5a9b76712f9a</webElementGuid>
+      <webElementGuid>abb61b0e-1225-428c-af48-6641fbe19c51</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,15 +30,15 @@
       <name>id</name>
       <type>Main</type>
       <value>input-group-1</value>
-      <webElementGuid>559e48d0-6beb-4ce8-96e7-8d0b7f7a9f7a</webElementGuid>
+      <webElementGuid>5673e0a7-d114-4ee3-a663-6831b7c01f6f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>w-full bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-cream-1000  focus:border-cream-1000 block pl-10 py-2  dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400  dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500</value>
-      <webElementGuid>66e0c6fc-5ede-4bed-8af6-202bcb00ca56</webElementGuid>
+      <value>w-[200px] bg-gray-50 border border-gray-300 text-gray-900 text-[14px] rounded-[10px] focus:outline-orange-200 block pl-10 py-2 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white</value>
+      <webElementGuid>b50eae5a-9a2c-4f56-be51-6e9f6ea9ab96</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Search...</value>
-      <webElementGuid>5586afcc-c553-4f99-bd6f-c0b10cbfcfa9</webElementGuid>
+      <webElementGuid>b5bedff2-f2f1-483e-9975-430ce7a7a259</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>a2056b66-61d7-4328-8900-20cffcbadb49</webElementGuid>
+      <webElementGuid>dbf8b8d0-2a89-4bf1-a6d4-c9d2ad6196ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;input-group-1&quot;)</value>
-      <webElementGuid>6237830f-9465-4a03-8f0f-8d24107c81af</webElementGuid>
+      <webElementGuid>b8b7ad50-7cd9-42f1-9baa-b6fffda66329</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='input-group-1']</value>
-      <webElementGuid>d31554b3-117d-4269-a2c5-d0cb4a6701bd</webElementGuid>
+      <webElementGuid>bba4d7a3-08a4-43e8-abfb-bb7b3a531581</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='headlessui-tabs-panel-:r3:']/div/div/div/input</value>
-      <webElementGuid>23f1a80e-5b2b-4c5b-a3ac-94ff97f8dfb0</webElementGuid>
+      <webElementGuid>cef7ff8b-a69a-421d-a4f4-49de3ae70391</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>4ba1ac91-034a-48e4-8f9c-546421f2094f</webElementGuid>
+      <webElementGuid>134b86ca-34ef-42d9-81c5-2869fd0e4ddf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'input-group-1' and @placeholder = 'Search...' and @type = 'text']</value>
-      <webElementGuid>ac4e1180-caae-47e3-83ad-dfbdec3e0c8d</webElementGuid>
+      <webElementGuid>d96a42ef-6605-4f7a-bd75-a7035059ee89</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

@@ -19,10 +19,24 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>b53b5013-2966-4efb-8dc6-1990068fbc06</guid>
+      <guid>dc016f9a-5ae6-4ee7-91fe-67d8f66815da</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Category LIST/Filter category หน้า sub category/ทดสอบกรองข้อมูล 1 รายการ</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>14fbbc4d-1e66-4362-840b-0b687f74e6a1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Category LIST/Filter category หน้า sub category/ทดสอบการ filter สลับไปมา</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2a95289e-3f03-40da-b657-fc98874dceb8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Category LIST/Filter category หน้า sub category/ตรวจสอบการใช้ filter ควบคู่กับช่อง search</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

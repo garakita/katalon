@@ -6,12 +6,12 @@
    <elementGuidId>e7eb3023-cdd2-4d0e-a5f7-0fa0e7418e9c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='headlessui-tabs-panel-:r3:']/div/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-tabs-panel-:r3:']/div/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>34f64fd9-cecf-4e32-b55d-8e92a31acf77</webElementGuid>
+      <webElementGuid>11066d12-918d-49b5-bd6f-968b2dcbe5cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>grid p-4 items-center sm:grid-cols-auto md:grid-cols-2 </value>
-      <webElementGuid>5d0577bd-9fe7-4623-b31b-53598f4879c8</webElementGuid>
+      <webElementGuid>48100782-ea47-4946-9e83-83f262e110fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Category:AllWatersTT555Categories2Ben285PizzaKFCSSS</value>
-      <webElementGuid>9b91fa72-aff3-43fb-9e79-453fe8eb672c</webElementGuid>
+      <webElementGuid>a8d2baa9-4203-43e6-aa91-acbeabac3808</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;headlessui-tabs-panel-:r3:&quot;)/div[@class=&quot;mt-6 overflow-x-auto lg:overflow-x-hidden bg-white text-gray-700 w-auto h-auto shadow-lg overflow-hidden dark:bg-slate-700 rounded-2xl&quot;]/div[@class=&quot;grid p-4 items-center sm:grid-cols-auto md:grid-cols-2&quot;]</value>
-      <webElementGuid>5b98143c-78b6-47e6-b5f6-68f5906b039b</webElementGuid>
+      <webElementGuid>95dc6880-9a9d-4411-9db9-638e30464643</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='headlessui-tabs-panel-:r3:']/div/div</value>
-      <webElementGuid>d79ff9d2-d0a1-4579-96f8-95d3edcf404e</webElementGuid>
+      <webElementGuid>0faa4d55-b7c6-4adf-91ac-1173d18308d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add SubCategory'])[1]/following::div[4]</value>
-      <webElementGuid>49878997-07f2-4968-a8da-a6c92c40f6fa</webElementGuid>
+      <webElementGuid>df356f95-fd18-42bf-a3b4-1853083ab73f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sub Category'])[1]/following::div[6]</value>
-      <webElementGuid>93a63e33-002a-4870-856c-0ad938edf45e</webElementGuid>
+      <webElementGuid>2e5a3a80-b34f-42bb-9a9e-2b29e4e0163c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SUB CATEGORY'])[1]/preceding::div[4]</value>
-      <webElementGuid>5ca56866-bd49-419e-a569-c3cf508351a9</webElementGuid>
+      <webElementGuid>11e56c6f-fab3-4bb1-9640-3abd8b32b1da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//main/div/div/div[2]/div/div/div</value>
-      <webElementGuid>f36cb164-3bff-46fd-8cf1-30b4ad79ced9</webElementGuid>
+      <webElementGuid>be6251b0-939c-4d49-b7d8-cedc2a3eb039</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Category:AllWatersTT555Categories2Ben285PizzaKFCSSS' or . = 'Category:AllWatersTT555Categories2Ben285PizzaKFCSSS')]</value>
-      <webElementGuid>aad1c7d8-fde7-4885-a9bd-92e64610244a</webElementGuid>
+      <webElementGuid>9ce74a7b-7b13-46f3-9dde-70b6d9383732</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Testsuites filter category" time="64.407" tests="4" failures="0" errors="0">
+   <testsuite name="Testsuites filter category" tests="4" failures="0" errors="0" time="64.407" skipped="0" timestamp="2566-09-04 08:49:50" hostname="USER - DESKTOP-67R9BDO" id="Test Suites/Testsuites filter category">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\USER\\git\\katalon\\Reports\\25660904_084935\\Testsuites filter category\\25660904_084935"/>
+         <property name="logFiles" value="C:\\Users\\USER\\git\\katalon\\Reports\\25660904_084935\\Testsuites filter category\\25660904_084935\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="USER - DESKTOP-67R9BDO"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="8.6.6.208"/>
+         <property name="browser" value="Chrome 116.0.0.0"/>
+         <property name="hostAddress" value="172.20.10.12"/>
+         <property name="sessionId" value="c157b650f1ea34d8976dc38ec11f80f4"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/TEST LOGIN" time="9.35" classname="Test Cases/TEST LOGIN" status="PASSED">
+         <system-out><![CDATA[2566-09-04 08:49:50 - [TEST_CASE][PASSED] - Test Cases/TEST LOGIN: Test Cases/TEST LOGIN
+
+2566-09-04 08:49:51 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2566-09-04 08:49:51 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2566-09-04 08:49:51 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2566-09-04 08:49:54 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2566-09-04 08:49:54 - [TEST_STEP][PASSED] - navigateToUrl("https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"): Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/' successfully
+
+2566-09-04 08:49:55 - [MESSAGE][PASSED] - Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/' successfully
+
+2566-09-04 08:49:55 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Sign In/input_Username_username"), "admin"): Text 'admin' is set on object 'Object Repository/Page_Sign In/input_Username_username'
+
+2566-09-04 08:49:57 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/Page_Sign In/input_Username_username'
+
+2566-09-04 08:49:57 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Sign In/input_Password_password"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/Page_Sign In/input_Password_password'
+
+2566-09-04 08:49:58 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Sign In/input_Password_password'
+
+2566-09-04 08:49:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign In/button_Sign in with Credentials")): Object: 'Object Repository/Page_Sign In/button_Sign in with Credentials' is clicked on
+
+2566-09-04 08:49:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign In/button_Sign in with Credentials' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Category LIST/Filter category หน้า sub category/ทดสอบกรองข้อมูล 1 รายการ" time="6.484" classname="Test Cases/Category LIST/Filter category หน้า sub category/ทดสอบกรองข้อมูล 1 รายการ" status="PASSED">
+         <system-out><![CDATA[2566-09-04 08:49:59 - [TEST_CASE][PASSED] - Test Cases/Category LIST/Filter category หน้า sub category/ทดสอบกรองข้อมูล 1 รายการ: Test Cases/Category LIST/Filter category หน้า sub category/ทดสอบกรองข้อมูล 1 รายการ
+
+2566-09-04 08:50:00 - [TEST_STEP][PASSED] - navigateToUrl("https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"): Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/' successfully
+
+2566-09-04 08:50:01 - [MESSAGE][PASSED] - Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/' successfully
+
+2566-09-04 08:50:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/div_Item")): Object: 'Object Repository/Page_Create Next App/div_Item' is clicked on
+
+2566-09-04 08:50:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/div_Item' is clicked on
+
+2566-09-04 08:50:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/span_Category")): Object: 'Object Repository/Page_Create Next App/span_Category' is clicked on
+
+2566-09-04 08:50:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/span_Category' is clicked on
+
+2566-09-04 08:50:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/button_Sub Category")): Object: 'Object Repository/Page_Create Next App/button_Sub Category' is clicked on
+
+2566-09-04 08:50:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/button_Sub Category' is clicked on
+
+2566-09-04 08:50:04 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS"), "1", true): All options with value '1' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:06 - [MESSAGE][PASSED] - All options with value '1' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Category LIST/Filter category หน้า sub category/ทดสอบการ filter สลับไปมา" time="21.535" classname="Test Cases/Category LIST/Filter category หน้า sub category/ทดสอบการ filter สลับไปมา" status="PASSED">
+         <system-out><![CDATA[2566-09-04 08:50:06 - [TEST_CASE][PASSED] - Test Cases/Category LIST/Filter category หน้า sub category/ทดสอบการ filter สลับไปมา: Test Cases/Category LIST/Filter category หน้า sub category/ทดสอบการ filter สลับไปมา
+
+2566-09-04 08:50:07 - [TEST_STEP][PASSED] - navigateToUrl("https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"): Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/' successfully
+
+2566-09-04 08:50:07 - [MESSAGE][PASSED] - Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/' successfully
+
+2566-09-04 08:50:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/span_Item")): Object: 'Object Repository/Page_Create Next App/span_Item' is clicked on
+
+2566-09-04 08:50:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/span_Item' is clicked on
+
+2566-09-04 08:50:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/span_Category")): Object: 'Object Repository/Page_Create Next App/span_Category' is clicked on
+
+2566-09-04 08:50:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/span_Category' is clicked on
+
+2566-09-04 08:50:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/button_Sub Category")): Object: 'Object Repository/Page_Create Next App/button_Sub Category' is clicked on
+
+2566-09-04 08:50:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/button_Sub Category' is clicked on
+
+2566-09-04 08:50:10 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS"), "1", true): All options with value '1' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:12 - [MESSAGE][PASSED] - All options with value '1' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:12 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS"), "3", true): All options with value '3' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:13 - [MESSAGE][PASSED] - All options with value '3' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:13 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS"), "1", true): All options with value '1' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:15 - [MESSAGE][PASSED] - All options with value '1' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:15 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS"), "14", true): All options with value '14' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:16 - [MESSAGE][PASSED] - All options with value '14' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:16 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS"), "4", true): All options with value '4' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:18 - [MESSAGE][PASSED] - All options with value '4' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:18 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS"), "6", true): All options with value '6' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:19 - [MESSAGE][PASSED] - All options with value '6' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:19 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS"), "14", true): All options with value '14' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:21 - [MESSAGE][PASSED] - All options with value '14' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:21 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS"), "4", true): All options with value '4' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:23 - [MESSAGE][PASSED] - All options with value '4' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:23 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS"), "3", true): All options with value '3' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:24 - [MESSAGE][PASSED] - All options with value '3' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:24 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS"), "1", true): All options with value '1' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:26 - [MESSAGE][PASSED] - All options with value '1' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:26 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS"), "", true): All options with value '' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:27 - [MESSAGE][PASSED] - All options with value '' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Category LIST/Filter category หน้า sub category/ตรวจสอบการใช้ filter ควบคู่กับช่อง search" time="26.549" classname="Test Cases/Category LIST/Filter category หน้า sub category/ตรวจสอบการใช้ filter ควบคู่กับช่อง search" status="PASSED">
+         <system-out><![CDATA[2566-09-04 08:50:27 - [TEST_CASE][PASSED] - Test Cases/Category LIST/Filter category หน้า sub category/ตรวจสอบการใช้ filter ควบคู่กับช่อง search: Test Cases/Category LIST/Filter category หน้า sub category/ตรวจสอบการใช้ filter ควบคู่กับช่อง search
+
+2566-09-04 08:50:28 - [TEST_STEP][PASSED] - navigateToUrl("https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"): Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/' successfully
+
+2566-09-04 08:50:29 - [MESSAGE][PASSED] - Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/' successfully
+
+2566-09-04 08:50:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/span_Item")): Object: 'Object Repository/Page_Create Next App/span_Item' is clicked on
+
+2566-09-04 08:50:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/span_Item' is clicked on
+
+2566-09-04 08:50:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/span_Category")): Object: 'Object Repository/Page_Create Next App/span_Category' is clicked on
+
+2566-09-04 08:50:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/span_Category' is clicked on
+
+2566-09-04 08:50:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/button_Sub Category")): Object: 'Object Repository/Page_Create Next App/button_Sub Category' is clicked on
+
+2566-09-04 08:50:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/button_Sub Category' is clicked on
+
+2566-09-04 08:50:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/div_CategoryAllWatersTT555Categories2Ben285_7d2483")): Object: 'Object Repository/Page_Create Next App/div_CategoryAllWatersTT555Categories2Ben285_7d2483' is clicked on
+
+2566-09-04 08:50:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/div_CategoryAllWatersTT555Categories2Ben285_7d2483' is clicked on
+
+2566-09-04 08:50:32 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "sub"): Text 'sub' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-04 08:50:33 - [MESSAGE][PASSED] - Text 'sub' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-04 08:50:33 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-04 08:50:34 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-04 08:50:34 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS"), "1", true): All options with value '1' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:35 - [MESSAGE][PASSED] - All options with value '1' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:35 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS"), "1", true): All options with value '1' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:37 - [MESSAGE][PASSED] - All options with value '1' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:37 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS"), "3", true): All options with value '3' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:38 - [MESSAGE][PASSED] - All options with value '3' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:38 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS"), "3", true): All options with value '3' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:39 - [MESSAGE][PASSED] - All options with value '3' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:39 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS"), "4", true): All options with value '4' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:41 - [MESSAGE][PASSED] - All options with value '4' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:41 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS"), "4", true): All options with value '4' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:42 - [MESSAGE][PASSED] - All options with value '4' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:42 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS"), "15", true): All options with value '15' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:44 - [MESSAGE][PASSED] - All options with value '15' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:44 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS"), "15", true): All options with value '15' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:45 - [MESSAGE][PASSED] - All options with value '15' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:45 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS"), "14", true): All options with value '14' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:47 - [MESSAGE][PASSED] - All options with value '14' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:47 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS"), "14", true): All options with value '14' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:48 - [MESSAGE][PASSED] - All options with value '14' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:48 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS"), "6", true): All options with value '6' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:50 - [MESSAGE][PASSED] - All options with value '6' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:50 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS"), "6", true): All options with value '6' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:52 - [MESSAGE][PASSED] - All options with value '6' are selected in object 'Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'  using regular expression
+
+2566-09-04 08:50:52 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1")): Object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1' is double clicked on
+
+2566-09-04 08:50:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1' is double clicked on
+
+2566-09-04 08:50:52 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "1212"): Text '1212' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-04 08:50:53 - [MESSAGE][PASSED] - Text '1212' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-04 08:50:53 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-04 08:50:54 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2566-09-04 08:49:50 - [TEST_SUITE][PASSED] - Testsuites filter category: Test Cases/Category LIST/Filter category หน้า sub category/ตรวจสอบการใช้ filter ควบคู่กับช่อง search]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

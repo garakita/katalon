@@ -17,3 +17,59 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.navigateToUrl('https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/')
+
+WebUI.click(findTestObject('Object Repository/Page_Create Next App/span_Item'))
+
+WebUI.click(findTestObject('Object Repository/Page_Create Next App/span_Category'))
+
+WebUI.click(findTestObject('Object Repository/Page_Create Next App/button_Sub Category'))
+
+WebUI.click(findTestObject('Object Repository/Page_Create Next App/div_CategoryAllWatersTT555Categories2Ben285_7d2483'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Create Next App/input_Add Category_input-group-1'), 'sub')
+
+WebUI.sendKeys(findTestObject('Object Repository/Page_Create Next App/input_Add Category_input-group-1'), Keys.chord(Keys.ENTER))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'), 
+    '1', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'), 
+    '1', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'), 
+    '3', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'), 
+    '3', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'), 
+    '4', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'), 
+    '4', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'), 
+    '15', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'), 
+    '15', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'), 
+    '14', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'), 
+    '14', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'), 
+    '6', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Create Next App/select_AllWatersTT555Categories2Ben285PizzaKFCSSS'), 
+    '6', true)
+
+WebUI.doubleClick(findTestObject('Object Repository/Page_Create Next App/input_Add Category_input-group-1'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Create Next App/input_Add Category_input-group-1'), '1212')
+
+WebUI.sendKeys(findTestObject('Object Repository/Page_Create Next App/input_Add Category_input-group-1'), Keys.chord(Keys.ENTER))
+
