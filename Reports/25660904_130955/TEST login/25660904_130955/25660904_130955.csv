@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TEST login,Chrome 116.0.0.0,,,2566-09-04 13:10:07,2566-09-04 13:10:15,8.754s,PASSED
+,,,,,,,
+Test Cases/TEST LOGIN,Chrome 116.0.0.0,"username : admin
+password : 123456",,2566-09-04 13:10:07,2566-09-04 13:10:15,8.357s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2566-09-04 13:10:08,2566-09-04 13:10:11,3.730s,PASSED
+"navigateToUrl(""https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"")",Chrome 116.0.0.0,,,2566-09-04 13:10:11,2566-09-04 13:10:12,0.942s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign In/input_Username_username""), ""admin"")",Chrome 116.0.0.0,,,2566-09-04 13:10:12,2566-09-04 13:10:14,1.379s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign In/input_Password_password""), ""aeHFOx8jV/A="")",Chrome 116.0.0.0,,,2566-09-04 13:10:14,2566-09-04 13:10:14,0.551s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign In/button_Sign in with Credentials""))",Chrome 116.0.0.0,,,2566-09-04 13:10:14,2566-09-04 13:10:15,1.264s,PASSED
