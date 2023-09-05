@@ -1,0 +1,31 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+test search,Chrome 116.0.0.0,,,2566-09-05 16:09:07,2566-09-05 16:10:41,1m - 33.601s,FAILED
+,,,,,,,
+Test Cases/TEST LOGIN,Chrome 116.0.0.0,"username : admin
+password : 123456",,2566-09-05 16:09:08,2566-09-05 16:09:21,13.521s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2566-09-05 16:09:08,2566-09-05 16:09:11,2.495s,PASSED
+"navigateToUrl(""https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"")",Chrome 116.0.0.0,,,2566-09-05 16:09:11,2566-09-05 16:09:17,6.459s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign In/input_Username_username""), ""admin"")",Chrome 116.0.0.0,,,2566-09-05 16:09:17,2566-09-05 16:09:20,2.652s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign In/input_Password_password""), ""aeHFOx8jV/A="")",Chrome 116.0.0.0,,,2566-09-05 16:09:20,2566-09-05 16:09:20,0.446s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign In/button_Sign in with Credentials""))",Chrome 116.0.0.0,,,2566-09-05 16:09:20,2566-09-05 16:09:21,1.142s,PASSED
+,,,,,,,
+Test Cases/Supplier/search supplier/ตรวจสอบฟังก์ชันการค้นหาเมื่อมีการค้นหาค่าว่าง,Chrome 116.0.0.0,,,2566-09-05 16:10:39,2566-09-05 16:10:39,0.047s,FAILED
+"navigateToUrl(""https://pos-frontend-toey-gumbjqoyzq-as.a.run.app/supplier"")",Chrome 116.0.0.0,,,2566-09-05 16:10:39,2566-09-05 16:10:39,0.026s,FAILED
+,,,,,,,
+Test Cases/Supplier/search supplier/ตรวจสอบการค้นหาโดยมีการป้อนข้อมูลที่ถูกต้อง,Chrome 116.0.0.0,,,2566-09-05 16:10:39,2566-09-05 16:10:39,0.030s,FAILED
+"navigateToUrl(""https://pos-frontend-toey-gumbjqoyzq-as.a.run.app/supplier"")",Chrome 116.0.0.0,,,2566-09-05 16:10:39,2566-09-05 16:10:39,0.019s,FAILED
+,,,,,,,
+Test Cases/Supplier/search supplier/กดเปลี่ยนหน้าไปที่ supplier,Chrome 116.0.0.0,,,2566-09-05 16:10:40,2566-09-05 16:10:40,0.028s,FAILED
+"navigateToUrl(""https://pos-frontend-toey-gumbjqoyzq-as.a.run.app/"")",Chrome 116.0.0.0,,,2566-09-05 16:10:40,2566-09-05 16:10:40,0.021s,FAILED
+,,,,,,,
+Test Cases/Supplier/search supplier/ตรวจสอบฟังก์ชันการค้นหาเมื่อมีการใช้อักขระพิเศษในการค้นหา,Chrome 116.0.0.0,,,2566-09-05 16:10:40,2566-09-05 16:10:40,0.029s,FAILED
+"navigateToUrl(""https://pos-frontend-toey-gumbjqoyzq-as.a.run.app/supplier"")",Chrome 116.0.0.0,,,2566-09-05 16:10:40,2566-09-05 16:10:40,0.022s,FAILED
+,,,,,,,
+Test Cases/Supplier/search supplier/ตรวจสอบว่าสามารถ copy ข้อมูลมาวางได้หรือไม่,Chrome 116.0.0.0,,,2566-09-05 16:10:40,2566-09-05 16:10:40,0.029s,FAILED
+"navigateToUrl(""https://pos-frontend-toey-gumbjqoyzq-as.a.run.app/supplier"")",Chrome 116.0.0.0,,,2566-09-05 16:10:40,2566-09-05 16:10:40,0.023s,FAILED
+,,,,,,,
+Test Cases/Supplier/search supplier/ตรวจสอบการค้นหาโดยการใช้ keyword ในการค้นหาและกด enter,Chrome 116.0.0.0,ใช้อักษรที่อยู่ตรงกลาง,,2566-09-05 16:10:41,2566-09-05 16:10:41,0.031s,FAILED
+"navigateToUrl(""https://pos-frontend-toey-gumbjqoyzq-as.a.run.app/supplier"")",Chrome 116.0.0.0,,,2566-09-05 16:10:41,2566-09-05 16:10:41,0.022s,FAILED
+,,,,,,,
+Test Cases/Supplier/search supplier/ตรวจสอบการค้นหาเมื่อมีการค้นหาข้อมูลที่ไม่ตรงกับข้อมูลที่มี,Chrome 116.0.0.0,987654321,,2566-09-05 16:10:41,2566-09-05 16:10:41,0.013s,FAILED
+"navigateToUrl(""https://pos-frontend-toey-gumbjqoyzq-as.a.run.app/supplier"")",Chrome 116.0.0.0,,,2566-09-05 16:10:41,2566-09-05 16:10:41,0.009s,FAILED

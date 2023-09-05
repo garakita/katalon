@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TESTsearch Category" time="38.511" tests="8" failures="0" errors="0">
+   <testsuite name="TESTsearch Category" tests="8" failures="0" errors="0" time="38.511" skipped="0" timestamp="2566-09-05 16:13:25" hostname="USER - DESKTOP-67R9BDO" id="Test Suites/TESTsearch Category">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\USER\\git\\katalon\\Reports\\25660905_161315\\TESTsearch Category\\25660905_161315"/>
+         <property name="logFiles" value="C:\\Users\\USER\\git\\katalon\\Reports\\25660905_161315\\TESTsearch Category\\25660905_161315\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="USER - DESKTOP-67R9BDO"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="8.6.6.208"/>
+         <property name="browser" value="Chrome 116.0.0.0"/>
+         <property name="hostAddress" value="172.20.10.12"/>
+         <property name="sessionId" value="162f5282030b2b24be2d5f1f7fe96517"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/TEST LOGIN" time="6.355" classname="Test Cases/TEST LOGIN" status="PASSED">
+         <system-out><![CDATA[2566-09-05 16:13:25 - [TEST_CASE][PASSED] - Test Cases/TEST LOGIN: Test Cases/TEST LOGIN
+
+2566-09-05 16:13:25 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2566-09-05 16:13:26 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2566-09-05 16:13:26 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2566-09-05 16:13:28 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2566-09-05 16:13:28 - [TEST_STEP][PASSED] - navigateToUrl("https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"): Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/' successfully
+
+2566-09-05 16:13:29 - [MESSAGE][PASSED] - Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/' successfully
+
+2566-09-05 16:13:29 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Sign In/input_Username_username"), "admin"): Text 'admin' is set on object 'Object Repository/Page_Sign In/input_Username_username'
+
+2566-09-05 16:13:30 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/Page_Sign In/input_Username_username'
+
+2566-09-05 16:13:30 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Sign In/input_Password_password"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/Page_Sign In/input_Password_password'
+
+2566-09-05 16:13:30 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Sign In/input_Password_password'
+
+2566-09-05 16:13:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign In/button_Sign in with Credentials")): Object: 'Object Repository/Page_Sign In/button_Sign in with Credentials' is clicked on
+
+2566-09-05 16:13:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign In/button_Sign in with Credentials' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Category LIST/SEARCH category/กดเปลี่ยนหน้าไปที่ category" time="2.376" classname="Test Cases/Category LIST/SEARCH category/กดเปลี่ยนหน้าไปที่ category" status="PASSED">
+         <system-out><![CDATA[2566-09-05 16:13:31 - [TEST_CASE][PASSED] - Test Cases/Category LIST/SEARCH category/กดเปลี่ยนหน้าไปที่ category: Test Cases/Category LIST/SEARCH category/กดเปลี่ยนหน้าไปที่ category
+
+2566-09-05 16:13:32 - [TEST_STEP][PASSED] - navigateToUrl("https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/"): Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/' successfully
+
+2566-09-05 16:13:32 - [MESSAGE][PASSED] - Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/' successfully
+
+2566-09-05 16:13:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/div_Item")): Object: 'Object Repository/Page_Create Next App/div_Item' is clicked on
+
+2566-09-05 16:13:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/div_Item' is clicked on
+
+2566-09-05 16:13:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/span_Category")): Object: 'Object Repository/Page_Create Next App/span_Category' is clicked on
+
+2566-09-05 16:13:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/span_Category' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Category LIST/SEARCH category/ตรวจสอบฟังก์ชันการค้นหาเมื่อมีการค้นหาค่าว่าง" time="4.037" classname="Test Cases/Category LIST/SEARCH category/ตรวจสอบฟังก์ชันการค้นหาเมื่อมีการค้นหาค่าว่าง" status="PASSED">
+         <system-out><![CDATA[2566-09-05 16:13:34 - [TEST_CASE][PASSED] - Test Cases/Category LIST/SEARCH category/ตรวจสอบฟังก์ชันการค้นหาเมื่อมีการค้นหาค่าว่าง: Test Cases/Category LIST/SEARCH category/ตรวจสอบฟังก์ชันการค้นหาเมื่อมีการค้นหาค่าว่าง
+
+2566-09-05 16:13:34 - [TEST_STEP][PASSED] - navigateToUrl("https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/items/categories"): Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/items/categories' successfully
+
+2566-09-05 16:13:34 - [MESSAGE][PASSED] - Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/items/categories' successfully
+
+2566-09-05 16:13:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/span_Item")): Object: 'Object Repository/Page_Create Next App/span_Item' is clicked on
+
+2566-09-05 16:13:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/span_Item' is clicked on
+
+2566-09-05 16:13:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/span_Category")): Object: 'Object Repository/Page_Create Next App/span_Category' is clicked on
+
+2566-09-05 16:13:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/span_Category' is clicked on
+
+2566-09-05 16:13:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1")): Object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1' is clicked on
+
+2566-09-05 16:13:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1' is clicked on
+
+2566-09-05 16:13:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/span_Item")): Object: 'Object Repository/Page_Create Next App/span_Item' is clicked on
+
+2566-09-05 16:13:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/span_Item' is clicked on
+
+2566-09-05 16:13:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/span_Item")): Object: 'Object Repository/Page_Create Next App/span_Item' is clicked on
+
+2566-09-05 16:13:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/span_Item' is clicked on
+
+2566-09-05 16:13:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/span_Category")): Object: 'Object Repository/Page_Create Next App/span_Category' is clicked on
+
+2566-09-05 16:13:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/span_Category' is clicked on
+
+2566-09-05 16:13:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1")): Object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1' is clicked on
+
+2566-09-05 16:13:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Category LIST/SEARCH category/ตรวจสอบการค้นหาโดยมีการป้อนข้อมูลที่ถูกต้อง" time="4.581" classname="Test Cases/Category LIST/SEARCH category/ตรวจสอบการค้นหาโดยมีการป้อนข้อมูลที่ถูกต้อง" status="PASSED">
+         <system-out><![CDATA[2566-09-05 16:13:38 - [TEST_CASE][PASSED] - Test Cases/Category LIST/SEARCH category/ตรวจสอบการค้นหาโดยมีการป้อนข้อมูลที่ถูกต้อง: Test Cases/Category LIST/SEARCH category/ตรวจสอบการค้นหาโดยมีการป้อนข้อมูลที่ถูกต้อง
+
+2566-09-05 16:13:38 - [TEST_STEP][PASSED] - navigateToUrl("https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/items/categories"): Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/items/categories' successfully
+
+2566-09-05 16:13:38 - [MESSAGE][PASSED] - Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/items/categories' successfully
+
+2566-09-05 16:13:38 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "Ben285"): Text 'Ben285' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:39 - [MESSAGE][PASSED] - Text 'Ben285' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:39 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:40 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:40 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "Noodle"): Text 'Noodle' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:41 - [MESSAGE][PASSED] - Text 'Noodle' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:41 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:41 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:41 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "KFC"): Text 'KFC' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:42 - [MESSAGE][PASSED] - Text 'KFC' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:42 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:42 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Category LIST/SEARCH category/ตรวจสอบการค้นหาโดยการใช้ keyword ในการค้นหาและกด enter" time="6.994" classname="Test Cases/Category LIST/SEARCH category/ตรวจสอบการค้นหาโดยการใช้ keyword ในการค้นหาและกด enter" status="PASSED">
+         <system-out><![CDATA[2566-09-05 16:13:42 - [TEST_CASE][PASSED] - Test Cases/Category LIST/SEARCH category/ตรวจสอบการค้นหาโดยการใช้ keyword ในการค้นหาและกด enter: Test Cases/Category LIST/SEARCH category/ตรวจสอบการค้นหาโดยการใช้ keyword ในการค้นหาและกด enter
+
+2566-09-05 16:13:43 - [TEST_STEP][PASSED] - navigateToUrl("https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/items/categories"): Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/items/categories' successfully
+
+2566-09-05 16:13:43 - [MESSAGE][PASSED] - Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/items/categories' successfully
+
+2566-09-05 16:13:43 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "TT"): Text 'TT' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:44 - [MESSAGE][PASSED] - Text 'TT' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:44 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:45 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:45 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "F"): Text 'F' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:45 - [MESSAGE][PASSED] - Text 'F' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:45 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:46 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:46 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "no"): Text 'no' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:47 - [MESSAGE][PASSED] - Text 'no' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:47 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:47 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:47 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "SEA"): Text 'SEA' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:48 - [MESSAGE][PASSED] - Text 'SEA' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:48 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:48 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:48 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "dle"): Text 'dle' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:49 - [MESSAGE][PASSED] - Text 'dle' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:49 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:49 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Category LIST/SEARCH category/ตรวจสอบว่าสามารถ copy ข้อมูลมาวางได้หรือไม่" time="5.192" classname="Test Cases/Category LIST/SEARCH category/ตรวจสอบว่าสามารถ copy ข้อมูลมาวางได้หรือไม่" status="PASSED">
+         <system-out><![CDATA[2566-09-05 16:13:49 - [TEST_CASE][PASSED] - Test Cases/Category LIST/SEARCH category/ตรวจสอบว่าสามารถ copy ข้อมูลมาวางได้หรือไม่: Test Cases/Category LIST/SEARCH category/ตรวจสอบว่าสามารถ copy ข้อมูลมาวางได้หรือไม่
+
+2566-09-05 16:13:50 - [TEST_STEP][PASSED] - navigateToUrl("https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/items/categories"): Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/items/categories' successfully
+
+2566-09-05 16:13:50 - [MESSAGE][PASSED] - Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/items/categories' successfully
+
+2566-09-05 16:13:50 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "Know"): Text 'Know' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:51 - [MESSAGE][PASSED] - Text 'Know' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:51 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:51 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:51 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "Categories1"): Text 'Categories1' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:52 - [MESSAGE][PASSED] - Text 'Categories1' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:52 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:53 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:53 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "Categories2"): Text 'Categories2' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:53 - [MESSAGE][PASSED] - Text 'Categories2' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:53 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:54 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:54 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), ""): Text '' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:55 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Category LIST/SEARCH category/ตรวจสอบฟังก์ชันการค้นหาเมื่อมีการใช้อักขระพิเศษในการค้นหา" time="5.248" classname="Test Cases/Category LIST/SEARCH category/ตรวจสอบฟังก์ชันการค้นหาเมื่อมีการใช้อักขระพิเศษในการค้นหา" status="PASSED">
+         <system-out><![CDATA[2566-09-05 16:13:55 - [TEST_CASE][PASSED] - Test Cases/Category LIST/SEARCH category/ตรวจสอบฟังก์ชันการค้นหาเมื่อมีการใช้อักขระพิเศษในการค้นหา: Test Cases/Category LIST/SEARCH category/ตรวจสอบฟังก์ชันการค้นหาเมื่อมีการใช้อักขระพิเศษในการค้นหา
+
+2566-09-05 16:13:55 - [TEST_STEP][PASSED] - navigateToUrl("https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/items/categories"): Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/items/categories' successfully
+
+2566-09-05 16:13:55 - [MESSAGE][PASSED] - Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/items/categories' successfully
+
+2566-09-05 16:13:55 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "////"): Text '////' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:56 - [MESSAGE][PASSED] - Text '////' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:56 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:57 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:57 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "%%%"): Text '%%%' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:57 - [MESSAGE][PASSED] - Text '%%%' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:57 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:58 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:58 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "###"): Text '###' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:59 - [MESSAGE][PASSED] - Text '###' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:59 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:59 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:13:59 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), ""): Text '' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:14:00 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Category LIST/SEARCH category/ตรวจสอบการค้นหาเมื่อมีการค้นหาข้อมูลที่ไม่ตรงกับข้อมูลที่มี" time="3.398" classname="Test Cases/Category LIST/SEARCH category/ตรวจสอบการค้นหาเมื่อมีการค้นหาข้อมูลที่ไม่ตรงกับข้อมูลที่มี" status="PASSED">
+         <system-out><![CDATA[2566-09-05 16:14:00 - [TEST_CASE][PASSED] - Test Cases/Category LIST/SEARCH category/ตรวจสอบการค้นหาเมื่อมีการค้นหาข้อมูลที่ไม่ตรงกับข้อมูลที่มี: Test Cases/Category LIST/SEARCH category/ตรวจสอบการค้นหาเมื่อมีการค้นหาข้อมูลที่ไม่ตรงกับข้อมูลที่มี
+
+2566-09-05 16:14:00 - [TEST_STEP][PASSED] - navigateToUrl("https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/items/categories"): Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/items/categories' successfully
+
+2566-09-05 16:14:00 - [MESSAGE][PASSED] - Navigate to 'https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/items/categories' successfully
+
+2566-09-05 16:14:00 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "987654321"): Text '987654321' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:14:01 - [MESSAGE][PASSED] - Text '987654321' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:14:01 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:14:02 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:14:02 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), "NOTVALUE"): Text 'NOTVALUE' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:14:03 - [MESSAGE][PASSED] - Text 'NOTVALUE' is set on object 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:14:03 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Create Next App/input_Add Category_input-group-1"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1'
+
+2566-09-05 16:14:03 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Create Next App/input_Add Category_input-group-1']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2566-09-05 16:13:25 - [TEST_SUITE][PASSED] - TESTsearch Category: Test Cases/Category LIST/SEARCH category/ตรวจสอบการค้นหาเมื่อมีการค้นหาข้อมูลที่ไม่ตรงกับข้อมูลที่มี]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

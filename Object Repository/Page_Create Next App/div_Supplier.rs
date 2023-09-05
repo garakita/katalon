@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Supplier</name>
+   <tag></tag>
+   <elementGuidId>b439ecdf-f08e-4fb3-8ffa-e43929188cdb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Branch'])[1]/following::div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>435bd681-ca35-4b31-b6b4-6bf5c5bb4604</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex py-3 px-2 items-center h-full </value>
+      <webElementGuid>23a7495e-02db-407b-bafe-ff817445b921</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Supplier</value>
+      <webElementGuid>599e921d-8b0b-4190-9f4b-3246d6507198</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;light&quot;]/body[@class=&quot;__className_8c1529&quot;]/div[@class=&quot;w-full text-black dark:text-light&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;w-[260px] fixed md:sticky top-0 left-0 h-[100dvh] text-[#171725] bg-white dark:bg-slate-800 transition-all duration-1000 ease-in-out z-10&quot;]/aside[@class=&quot;top-0 left-0  pl-4 pr-2 pt-4 pb-4&quot;]/div[@class=&quot;flex flex-col dark:text-white&quot;]/div[@class=&quot;flex flex-col items-start mt-16&quot;]/div[@class=&quot;flex w-full items-center cursor-pointer hover:text-cream-1000 rounded overflow-hidden whitespace-nowrap&quot;]/div[1]/a[1]/div[@class=&quot;flex py-3 px-2 items-center h-full&quot;]</value>
+      <webElementGuid>fcb55ff1-df57-408a-9aca-c64f11893609</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Branch'])[1]/following::div[3]</value>
+      <webElementGuid>3d3d838e-aa03-40c0-8c0c-0594355995b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modify'])[1]/following::div[7]</value>
+      <webElementGuid>6c7a7e73-1ee7-4f35-9ce3-235712150e00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sales Channel'])[1]/preceding::div[3]</value>
+      <webElementGuid>f56936ed-afb0-4ff9-a8a6-bb9fb805c78a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/a/div</value>
+      <webElementGuid>02ee339f-aa22-4d65-908b-6b4c3b08252e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Supplier' or . = 'Supplier')]</value>
+      <webElementGuid>244c48c9-a40b-486a-a217-31aa7f553833</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>abb61b0e-1225-428c-af48-6641fbe19c51</webElementGuid>
+      <webElementGuid>42a76956-919e-42fa-aedd-50fef89593d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,15 +30,15 @@
       <name>id</name>
       <type>Main</type>
       <value>input-group-1</value>
-      <webElementGuid>5673e0a7-d114-4ee3-a663-6831b7c01f6f</webElementGuid>
+      <webElementGuid>fbe2e51d-dd2d-4104-8dbc-572125649ee5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>w-[200px] bg-gray-50 border border-gray-300 text-gray-900 text-[14px] rounded-[10px] focus:outline-orange-200 block pl-10 py-2 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white</value>
-      <webElementGuid>b50eae5a-9a2c-4f56-be51-6e9f6ea9ab96</webElementGuid>
+      <value>w-full bg-gray-50 border border-gray-300 text-gray-900 text-[14px] rounded-[10px] focus:outline-orange-200 block pl-10 py-2 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white</value>
+      <webElementGuid>31276f66-b451-4356-921a-790927f48144</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Search...</value>
-      <webElementGuid>b5bedff2-f2f1-483e-9975-430ce7a7a259</webElementGuid>
+      <webElementGuid>a8dd24cc-5aa6-4597-8539-2eb2153a1745</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>dbf8b8d0-2a89-4bf1-a6d4-c9d2ad6196ba</webElementGuid>
+      <webElementGuid>d06b6169-595b-4ca7-9f9f-240856c18f08</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;input-group-1&quot;)</value>
-      <webElementGuid>b8b7ad50-7cd9-42f1-9baa-b6fffda66329</webElementGuid>
+      <webElementGuid>78e54f6a-472c-4987-936c-52a1a12a0c0c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='input-group-1']</value>
-      <webElementGuid>bba4d7a3-08a4-43e8-abfb-bb7b3a531581</webElementGuid>
+      <webElementGuid>8d94b70a-51df-48de-ac87-4a10e57042af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='headlessui-tabs-panel-:r3:']/div/div/div/input</value>
-      <webElementGuid>cef7ff8b-a69a-421d-a4f4-49de3ae70391</webElementGuid>
+      <webElementGuid>adc98b62-592e-4fd9-b017-66791a89abbe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>134b86ca-34ef-42d9-81c5-2869fd0e4ddf</webElementGuid>
+      <webElementGuid>c8ef55c0-a0fa-4e2d-9c97-ff8f599afcba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'input-group-1' and @placeholder = 'Search...' and @type = 'text']</value>
-      <webElementGuid>d96a42ef-6605-4f7a-bd75-a7035059ee89</webElementGuid>
+      <webElementGuid>a22e6e04-fe95-4716-b92b-ca8a86ce13ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

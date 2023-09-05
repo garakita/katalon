@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.flex.flex-initial.justify-between.p-6.relative.w-full</value>
+         <value>div.flex.items-center.justify-between.bg-white.p-4</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='headlessui-tabs-panel-:R3qllllaqla:']/div/div/div</value>
+         <value>//div[@id='headlessui-tabs-panel-:r3:']/div/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,26 +22,74 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>24176e6b-ed57-4a87-bf0d-b1e649b2aaf4</webElementGuid>
+      <webElementGuid>d28403a9-acec-4b54-b194-ea34db9274a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>flex flex-initial justify-between p-6 relative w-full</value>
-      <webElementGuid>79e61148-0c89-4ec3-bfa6-6aa72c66c1b3</webElementGuid>
+      <value>flex items-center justify-between bg-white p-4</value>
+      <webElementGuid>947f2b44-208f-4c9b-a4f8-d1e58c219d3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;headlessui-tabs-panel-:R3qllllaqla:&quot;)/div[@class=&quot;mt-6 overflow-x-auto lg:overflow-x-hidden bg-white text-gray-700 w-auto h-auto shadow-lg overflow-hidden dark:bg-slate-700 rounded-2xl&quot;]/div[@class=&quot;grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 items-center justify-between bg-white&quot;]/div[@class=&quot;flex flex-initial justify-between p-6 relative w-full&quot;]</value>
-      <webElementGuid>10e3cc7f-eff7-4941-b5ce-d4efbef6961c</webElementGuid>
+      <value>id(&quot;headlessui-tabs-panel-:r3:&quot;)/div[@class=&quot;mx-6 bg-white text-gray-700 w-auto h-auto mt-4 shadow-lg overflow-x-auto dark:bg-slate-700 rounded-xl&quot;]/div[@class=&quot;flex items-center justify-between bg-white p-4&quot;]</value>
+      <webElementGuid>650e665c-1d2c-40c7-a9c6-ee6e09628b01</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-tabs-panel-:r3:']/div/div</value>
+      <webElementGuid>7c794ed4-f42c-4c41-9bf0-4ba609cdfcf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Supplier'])[1]/following::div[5]</value>
+      <webElementGuid>f5a0852a-0183-4d95-b46c-5d0265437b17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Group Supplier'])[1]/following::div[6]</value>
+      <webElementGuid>891d852b-e78e-4d9f-beae-065e3d43a19c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Supplier Code'])[1]/preceding::div[2]</value>
+      <webElementGuid>5a52102b-cc0a-4a77-845c-449f42fe9ed0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Supplier Name'])[1]/preceding::div[2]</value>
+      <webElementGuid>e902348b-f2e9-49c7-84ab-a4b7ce4bda86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div</value>
+      <webElementGuid>d267df16-1e41-4350-a376-cfa69d65b0ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>

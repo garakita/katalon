@@ -1,0 +1,8 @@
+{"testCaseName":"Test Cases/TEST LOGIN","testCaseId":"Test Cases/TEST LOGIN","iterationVariableName":""}
+{"testCaseName":"Test Cases/Supplier/search supplier/ตรวจสอบฟังก์ชันการค้นหาเมื่อมีการค้นหาค่าว่าง","testCaseId":"Test Cases/Supplier/search supplier/ตรวจสอบฟังก์ชันการค้นหาเมื่อมีการค้นหาค่าว่าง","iterationVariableName":""}
+{"testCaseName":"Test Cases/Supplier/search supplier/ตรวจสอบการค้นหาโดยมีการป้อนข้อมูลที่ถูกต้อง","testCaseId":"Test Cases/Supplier/search supplier/ตรวจสอบการค้นหาโดยมีการป้อนข้อมูลที่ถูกต้อง","iterationVariableName":""}
+{"testCaseName":"Test Cases/Supplier/search supplier/กดเปลี่ยนหน้าไปที่ supplier","testCaseId":"Test Cases/Supplier/search supplier/กดเปลี่ยนหน้าไปที่ supplier","iterationVariableName":""}
+{"testCaseName":"Test Cases/Supplier/search supplier/ตรวจสอบฟังก์ชันการค้นหาเมื่อมีการใช้อักขระพิเศษในการค้นหา","testCaseId":"Test Cases/Supplier/search supplier/ตรวจสอบฟังก์ชันการค้นหาเมื่อมีการใช้อักขระพิเศษในการค้นหา","iterationVariableName":""}
+{"testCaseName":"Test Cases/Supplier/search supplier/ตรวจสอบว่าสามารถ copy ข้อมูลมาวางได้หรือไม่","testCaseId":"Test Cases/Supplier/search supplier/ตรวจสอบว่าสามารถ copy ข้อมูลมาวางได้หรือไม่","iterationVariableName":""}
+{"testCaseName":"Test Cases/Supplier/search supplier/ตรวจสอบการค้นหาโดยการใช้ keyword ในการค้นหาและกด enter","testCaseId":"Test Cases/Supplier/search supplier/ตรวจสอบการค้นหาโดยการใช้ keyword ในการค้นหาและกด enter","iterationVariableName":""}
+{"testCaseName":"Test Cases/Supplier/search supplier/ตรวจสอบการค้นหาเมื่อมีการค้นหาข้อมูลที่ไม่ตรงกับข้อมูลที่มี","testCaseId":"Test Cases/Supplier/search supplier/ตรวจสอบการค้นหาเมื่อมีการค้นหาข้อมูลที่ไม่ตรงกับข้อมูลที่มี","iterationVariableName":""}
