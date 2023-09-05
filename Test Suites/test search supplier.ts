@@ -26,45 +26,10 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>666543cf-e676-45e8-a216-62848e5623ac</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Supplier/search supplier/ตรวจสอบการค้นหาโดยมีการป้อนข้อมูลที่ถูกต้อง</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>e1e0a246-c06e-4cb4-9793-2469d49fdf42</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Supplier/search supplier/ตรวจสอบฟังก์ชันการค้นหาเมื่อมีการค้นหาค่าว่าง</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>773629cd-bd0d-4f4d-a819-ae44f8da750f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Supplier/search supplier/ตรวจสอบฟังก์ชันการค้นหาเมื่อมีการใช้อักขระพิเศษในการค้นหา</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>51864ff1-e6dd-4efc-a465-e0450ea14e60</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Supplier/search supplier/ตรวจสอบว่าสามารถ copy ข้อมูลมาวางได้หรือไม่</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>ef0ec636-51d0-4bd6-b69c-343428a4b2bc</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Supplier/search supplier/ตรวจสอบการค้นหาโดยการใช้ keyword ในการค้นหาและกด enter</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>9c8663db-5408-42fe-9b25-540bea366c42</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Supplier/search supplier/ตรวจสอบการค้นหาเมื่อมีการค้นหาข้อมูลที่ไม่ตรงกับข้อมูลที่มี</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
