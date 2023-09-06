@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ตรวจสอบเมื่อมีการปล่อยให้ supplier ID มีค่าว่าง</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>50241fc7-141c-4788-965c-fcf0e2d55a66</testCaseGuid>
+</TestCaseEntity>
