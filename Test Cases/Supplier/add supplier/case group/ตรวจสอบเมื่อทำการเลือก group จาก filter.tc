@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ตรวจสอบเมื่อทำการเลือก group จาก filter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>04f704ab-c45f-49e2-9511-e25e8cab7546</testCaseGuid>
+</TestCaseEntity>

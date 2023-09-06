@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ตรวจสอบโดยการใส่ค่าว่าง</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0a97a1b5-e6b4-4ccd-bf47-0d6057d25a8c</testCaseGuid>
+</TestCaseEntity>
