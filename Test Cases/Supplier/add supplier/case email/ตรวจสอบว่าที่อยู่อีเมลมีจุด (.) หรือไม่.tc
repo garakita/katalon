@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ตรวจสอบว่าที่อยู่อีเมลมีจุด (.) หรือไม่</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5ea8ff30-639b-4eef-9783-0ad792374b2f</testCaseGuid>
+</TestCaseEntity>

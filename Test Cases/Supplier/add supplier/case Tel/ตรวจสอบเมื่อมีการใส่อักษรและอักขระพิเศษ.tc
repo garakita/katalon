@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ตรวจสอบเมื่อมีการใส่อักษรและอักขระพิเศษ</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2c607d3-c0cc-4254-a352-37ac85c75355</testCaseGuid>
+</TestCaseEntity>
