@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ตรวจสอบว่าสามารถพิมพ์อักษรลงไปได้</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0016b30-aeb6-4a06-8706-5a426f76ceb2</testCaseGuid>
+</TestCaseEntity>

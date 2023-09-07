@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ตรวจสอบเมื่อมีการใส่ตัวอักษร</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2a6ffce-af04-4b9f-abf3-f491ea0890f4</testCaseGuid>
+</TestCaseEntity>
