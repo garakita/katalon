@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Sign In/button_Sign in with Credentials",
+      "brokenLocator": "//button[@type\u003d\u0027submit\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//button",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/25660908_094422/test search supplier/25660908_094422/Object Repository/Page_Sign In/button_Sign in with Credentials_position.png"
+    }
+  ]
+}

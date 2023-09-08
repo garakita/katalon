@@ -12,17 +12,10 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>296bd221-f6df-4337-acb7-4a2dbe10493c</testSuiteGuid>
    <testCaseLink>
-      <guid>3834ea1a-082f-4e35-a2c8-422db7805976</guid>
+      <guid>2bf05ced-0a1e-460b-910d-bba6f5da611c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TEST LOGIN</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>dc016f9a-5ae6-4ee7-91fe-67d8f66815da</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Category LIST/Filter category หน้า sub category/ทดสอบกรองข้อมูล 1 รายการ</testCaseId>
+      <testCaseId>Test Cases/Test login P ton</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -37,6 +30,13 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Category LIST/Filter category หน้า sub category/ตรวจสอบการใช้ filter ควบคู่กับช่อง search</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>dc016f9a-5ae6-4ee7-91fe-67d8f66815da</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Category LIST/Filter category หน้า sub category/ทดสอบกรองข้อมูล 1 รายการ</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

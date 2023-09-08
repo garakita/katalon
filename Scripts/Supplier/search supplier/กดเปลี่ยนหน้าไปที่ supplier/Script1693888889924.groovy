@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.navigateToUrl('https://pos-frontend-ton-gumbjqoyzq-as.a.run.app')
+WebUI.navigateToUrl('https://pos-frontend-toey-gumbjqoyzq-as.a.run.app/supplier')
 
 WebUI.click(findTestObject('Object Repository/Page_Sign In/button_Sign in with Credentials'))
 

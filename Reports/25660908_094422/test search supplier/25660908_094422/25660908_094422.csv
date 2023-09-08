@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+test search supplier,Chrome 116.0.0.0,,,2566-09-08 09:44:32,2566-09-08 09:45:30,57.609s,FAILED
+,,,,,,,
+Test Cases/TEST LOGIN,Chrome 116.0.0.0,"username : admin
+password : 123456",,2566-09-08 09:44:33,2566-09-08 09:44:44,11.312s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2566-09-08 09:44:33,2566-09-08 09:44:36,2.986s,PASSED
+"navigateToUrl(""https://pos-frontend-toey-gumbjqoyzq-as.a.run.app/supplier"")",Chrome 116.0.0.0,,,2566-09-08 09:44:36,2566-09-08 09:44:41,4.324s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign In/input_Username_username""), ""admin"")",Chrome 116.0.0.0,,,2566-09-08 09:44:41,2566-09-08 09:44:42,1.638s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign In/input_Password_password""), ""aeHFOx8jV/A="")",Chrome 116.0.0.0,,,2566-09-08 09:44:42,2566-09-08 09:44:43,0.816s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign In/button_Sign in with Credentials""))",Chrome 116.0.0.0,,,2566-09-08 09:44:43,2566-09-08 09:44:44,1.051s,PASSED
+,,,,,,,
+Test Cases/Supplier/search supplier/กดเปลี่ยนหน้าไปที่ supplier,Chrome 116.0.0.0,,,2566-09-08 09:44:44,2566-09-08 09:45:18,33.368s,PASSED
+"navigateToUrl(""https://pos-frontend-toey-gumbjqoyzq-as.a.run.app/supplier"")",Chrome 116.0.0.0,,,2566-09-08 09:44:45,2566-09-08 09:44:45,0.271s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign In/button_Sign in with Credentials""))",Chrome 116.0.0.0,,,2566-09-08 09:44:45,2566-09-08 09:45:17,31.708s,PASSED
+"click(findTestObject(""Object Repository/Page_Create Next App/span_Supplier""))",Chrome 116.0.0.0,,,2566-09-08 09:45:17,2566-09-08 09:45:18,0.617s,PASSED
+,,,,,,,
+Test Cases/Supplier/search supplier/ตรวจสอบฟังก์ชันการค้นหาเมื่อมีการใช้อักขระพิเศษในการค้นหา,Chrome 116.0.0.0,,,2566-09-08 09:45:30,2566-09-08 09:45:30,0.051s,FAILED
+"navigateToUrl(""https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/supplier"")",Chrome 116.0.0.0,,,2566-09-08 09:45:30,2566-09-08 09:45:30,0.034s,FAILED

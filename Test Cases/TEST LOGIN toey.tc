@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description>username : admin
 password : 123456</description>
-   <name>TEST LOGIN</name>
+   <name>TEST LOGIN toey</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>095a6757-4612-400e-8619-866d0e6dec46</testCaseGuid>

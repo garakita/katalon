@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://pos-frontend-ton-gumbjqoyzq-as.a.run.app/')
+WebUI.navigateToUrl('https://pos-frontend-toey-gumbjqoyzq-as.a.run.app')
 
 WebUI.setText(findTestObject('Object Repository/Page_Sign In/input_Username_username'), 'admin')
 
