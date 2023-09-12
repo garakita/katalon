@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>fix แค่ 2 ตำแหน่ง</description>
+   <name>ตรวจสอบว่าสามารถใส่ทศนิยมมากกว่า 2 ตำแหน่ง</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>08449f35-2004-4b87-9afd-017d415e67b9</testCaseGuid>
+</TestCaseEntity>

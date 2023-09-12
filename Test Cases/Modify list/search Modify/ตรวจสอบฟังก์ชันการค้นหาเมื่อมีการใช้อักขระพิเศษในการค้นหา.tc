@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ตรวจสอบฟังก์ชันการค้นหาเมื่อมีการใช้อักขระพิเศษในการค้นหา</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8c6246aa-1b54-463c-855f-66e7652232fa</testCaseGuid>
+</TestCaseEntity>

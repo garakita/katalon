@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ตรวจสอบว่า unit ของ sku ดึงค่าเริ่มต้นอันบนสุดมาแสดง</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6d98c756-9a58-4542-8966-39ded59095dd</testCaseGuid>
+</TestCaseEntity>

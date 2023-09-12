@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>เป็นช่องกด search เพื่อดึงสินค้ามาแสดง</description>
+   <name>ตรวจสอบว่าสามารถพิมพ์เพื่อค้นหาสินค้าได้</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f1d5f289-3db9-4bc5-8ad2-1fc426ad3388</testCaseGuid>
+</TestCaseEntity>

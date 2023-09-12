@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ตรวจสอบฟังก์ชันการค้นหาเมื่อมีการค้นหาค่าว่าง</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>77e93788-8166-4c6b-95bd-592b6ae39be8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>มากกว่า 0 น้อยกว่า 0</description>
+   <name>เพิ่มจำนวนของสินค้า</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2f9f330-13f3-4cc3-91dd-e4d74e927bb9</testCaseGuid>
+</TestCaseEntity>

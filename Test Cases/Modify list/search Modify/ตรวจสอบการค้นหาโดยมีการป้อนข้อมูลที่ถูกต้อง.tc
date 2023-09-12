@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ตรวจสอบการค้นหาโดยมีการป้อนข้อมูลที่ถูกต้อง</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d778fdf1-875c-4b19-aecd-49f56e6a5ac8</testCaseGuid>
+</TestCaseEntity>
