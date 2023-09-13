@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name> input </name>
+   <name>case branch group</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>cb96dd7e-32c5-424a-a3ec-4c56ed19aa03</testCaseGuid>
+   <testCaseGuid>e25c67ff-81fc-4ab1-bf64-30b0504f82dd</testCaseGuid>
 </TestCaseEntity>

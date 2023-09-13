@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name> input </name>
+   <name>case group name</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>e9f890fd-3125-4f5e-ad67-78b6c5a19f67</testCaseGuid>
+   <testCaseGuid>06adfb6f-c6d4-490e-988d-72d3856f55a2</testCaseGuid>
 </TestCaseEntity>
