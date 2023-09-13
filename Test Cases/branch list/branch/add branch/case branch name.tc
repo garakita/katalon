@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>ใสอักขระพิเศษได้ fix 35 อักษร</description>
-   <name>case branch name</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>ffcc9ae3-e1a2-4a5e-8fe2-8394769305e3</testCaseGuid>
-</TestCaseEntity>
