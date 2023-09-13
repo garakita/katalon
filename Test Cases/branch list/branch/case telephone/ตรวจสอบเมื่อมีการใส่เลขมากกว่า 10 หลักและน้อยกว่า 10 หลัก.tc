@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ตรวจสอบเมื่อมีการใส่เลขมากกว่า 10 หลักและน้อยกว่า 10 หลัก</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f9807c9d-a946-4b6f-870b-c42e241c308f</testCaseGuid>
+</TestCaseEntity>
