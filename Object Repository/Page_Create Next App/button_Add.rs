@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add</name>
+   <tag></tag>
+   <elementGuidId>b3ae3d94-6875-4e5d-93e8-ad03c2c742c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-dialog-panel-:ra:']/div[10]/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>25aa0180-c7ad-4980-a256-cf34cd849618</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex-grow inline-flex justify-center text-center py-2 border-cream-1000  text-sm hover:border-[#d67a60] hover:text-[##d67a60] 
+                                hover:bg-[#d67a60] bg-[#EC9476] text-white rounded-[0.75rem]</value>
+      <webElementGuid>9cf61280-c988-4aff-be32-b63e5f8da160</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add </value>
+      <webElementGuid>65303a9e-38ec-42a6-b226-252763822420</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-panel-:ra:&quot;)/div[@class=&quot;w-full flex p-4 space-x-2&quot;]/button[@class=&quot;flex-grow inline-flex justify-center text-center py-2 border-cream-1000  text-sm hover:border-[#d67a60] hover:text-[##d67a60] 
+                                hover:bg-[#d67a60] bg-[#EC9476] text-white rounded-[0.75rem]&quot;]</value>
+      <webElementGuid>0af1fb3a-e328-483d-aa0b-7fcebedbbb83</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-panel-:ra:']/div[10]/button[2]</value>
+      <webElementGuid>e0e784c5-d5ba-4ca2-9df3-97840494093c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+      <webElementGuid>0fc22a56-7eb4-43a7-8218-81dc25cea48a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Noted'])[1]/following::button[2]</value>
+      <webElementGuid>949b1b26-20c7-4dfc-b48c-1a74c6d15986</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add']/parent::*</value>
+      <webElementGuid>fac00d1d-45df-4686-b15f-f512071e314d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/button[2]</value>
+      <webElementGuid>b671a23f-57e3-44d0-8177-0f5b2bdd544e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Add ' or . = 'Add ')]</value>
+      <webElementGuid>56dd96d4-a290-4562-9ed7-71d6254fd96e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-panel-:r9:']/div[10]/button[2]</value>
+      <webElementGuid>efc4e694-b4fa-428d-8944-9f60289f6531</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-panel-:r8:']/div[10]/button[2]</value>
+      <webElementGuid>38331ee2-fb19-4b44-a0c1-a03f13fe17bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-panel-:r7:']/div[10]/button[2]</value>
+      <webElementGuid>1dd6d1dd-13ab-4c49-b1b2-51d60e436482</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

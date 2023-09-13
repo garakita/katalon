@@ -1,0 +1,34 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Create Next App/div_Tax ID",
+      "brokenLocator": "//div[@id\u003d\u0027headlessui-dialog-panel-:r7:\u0027]/div[3]/div[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027*\u0027])[1]/following::div[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/25660913_150320/test search supplier/25660913_150321/Object Repository/Page_Create Next App/div_Tax ID_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Create Next App/label_Company Name",
+      "brokenLocator": "//div[@id\u003d\u0027headlessui-dialog-panel-:r7:\u0027]/div[4]/div/label",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Tax ID\u0027])[1]/following::label[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/25660913_150320/test search supplier/25660913_150321/Object Repository/Page_Create Next App/label_Company Name_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Create Next App/select_Select Group SupplierchathaiKFC01Dar_dd1465",
+      "brokenLocator": "//div[@id\u003d\u0027headlessui-dialog-panel-:r7:\u0027]/div[5]/div/select",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Group\u0027])[1]/following::select[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/25660913_150320/test search supplier/25660913_150321/Object Repository/Page_Create Next App/select_Select Group SupplierchathaiKFC01Dar_dd1465_neighbor.png"
+    }
+  ]
+}

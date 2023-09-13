@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select Group SupplierchathaiKFC01Dar_dd1465</name>
+   <tag></tag>
+   <elementGuidId>8d125899-cfee-4f3d-be43-a51d14d5b068</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-dialog-panel-:ra:']/div[5]/div/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>123da424-44b0-4c37-9cb9-0adf5cf161e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-gray-300 text-sm rounded-xl focus:ring-cream-1000 focus:border-cream-1000 block dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500 bg-white border border-gray-300  w-full
+                                rounded-lg text-gray-700 py-1.5 px-3 transition-all duration-150</value>
+      <webElementGuid>611c2708-1a68-4a5b-bdfd-9d7648c071ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Group SupplierchathaiKFC01Daryqueen1tee noichester Uniqlo3214567898798789789</value>
+      <webElementGuid>5d1eb669-a85f-4981-9b3d-ba05c5a3bddd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-panel-:ra:&quot;)/div[@class=&quot;grid grid-cols-1 sm:grid-cols-2&quot;]/div[@class=&quot;p-4&quot;]/select[@class=&quot;border-gray-300 text-sm rounded-xl focus:ring-cream-1000 focus:border-cream-1000 block dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500 bg-white border border-gray-300  w-full
+                                rounded-lg text-gray-700 py-1.5 px-3 transition-all duration-150&quot;]</value>
+      <webElementGuid>d85ac995-c39e-49a8-a9a7-048c4b58d5f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-panel-:ra:']/div[5]/div/select</value>
+      <webElementGuid>1c4e2373-1e38-493b-a74a-5887b8d33ce3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Group'])[1]/following::select[1]</value>
+      <webElementGuid>c4095d59-ed07-47ed-8875-4f47f5455a45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exclude'])[1]/following::select[1]</value>
+      <webElementGuid>8951b112-3d72-49c5-977a-516d2c22b6f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Credit Term'])[1]/preceding::select[1]</value>
+      <webElementGuid>65e689ea-96f4-40b4-8aa1-5db815b775ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Supplier Contact'])[1]/preceding::select[1]</value>
+      <webElementGuid>6339c7cc-c516-49e5-8837-b0230c47c856</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/select</value>
+      <webElementGuid>cdda7134-6793-41d3-95a6-73b4f952ba99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'Select Group SupplierchathaiKFC01Daryqueen1tee noichester Uniqlo3214567898798789789' or . = 'Select Group SupplierchathaiKFC01Daryqueen1tee noichester Uniqlo3214567898798789789')]</value>
+      <webElementGuid>bb39d27a-e2a5-405c-a5e4-0f073c57b34a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-panel-:r9:']/div[5]/div/select</value>
+      <webElementGuid>3949854c-a5d4-4dd8-a48c-5d3f35bcdf54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-panel-:r8:']/div[5]/div/select</value>
+      <webElementGuid>7bb83672-e919-4998-bfe1-1fa0d905451d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-panel-:r7:']/div[5]/div/select</value>
+      <webElementGuid>4c7decbb-ac93-4c38-a152-035f154fab35</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

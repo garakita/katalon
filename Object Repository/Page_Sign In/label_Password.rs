@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>28d77047-ced6-4c3f-9b35-3382805be4b5</webElementGuid>
+      <webElementGuid>991ef546-3233-4f85-8fc3-873f53fa3bab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>section-header</value>
-      <webElementGuid>84b224b8-5a6d-40ae-bafb-2b1868770644</webElementGuid>
+      <webElementGuid>1002cebf-764b-495d-a38a-fd24670eb4f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>for</name>
       <type>Main</type>
       <value>input-password-for-credentials-provider</value>
-      <webElementGuid>fdda4a1d-4643-428b-bbde-01c02be524f3</webElementGuid>
+      <webElementGuid>4b57155d-998c-44fc-9b29-fcf564ec3e70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Password</value>
-      <webElementGuid>1e194d85-6679-4ed5-a4ca-9ae5aa788887</webElementGuid>
+      <webElementGuid>388f202c-bd5f-418a-8b3d-c858b0d1fd6f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;__next-auth-theme-auto&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;signin&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;provider&quot;]/form[1]/div[2]/label[@class=&quot;section-header&quot;]</value>
-      <webElementGuid>08849718-740f-4483-a1ac-395b2ad2d8fa</webElementGuid>
+      <webElementGuid>8603b1ec-f69b-42c7-94b0-35fb7748d8ba</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/following::label[1]</value>
-      <webElementGuid>73ae4b0d-a34e-4b4c-949f-f31119940c80</webElementGuid>
+      <webElementGuid>d54e9ba1-e601-4499-833b-ebebc8ff1b7b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in with Credentials'])[1]/preceding::label[1]</value>
-      <webElementGuid>99a373b5-aaed-4e20-8c5f-15e921e38c05</webElementGuid>
+      <webElementGuid>be7ba089-dff7-4e75-a26b-87fc7bbdea6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Password']/parent::*</value>
-      <webElementGuid>3ffb7fb3-0d01-4f6d-af8b-1552b8443ae6</webElementGuid>
+      <webElementGuid>593389d5-fd0a-4d55-9a22-ffa4f5b574cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/label</value>
-      <webElementGuid>a1dbb4b7-6c6e-46a9-9861-1dae9bef6a7b</webElementGuid>
+      <webElementGuid>5927f560-75bb-4446-9e81-65c7a9e01931</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'Password' or . = 'Password')]</value>
-      <webElementGuid>2361c013-fe0f-4c8b-9c5f-f56ce3aa7265</webElementGuid>
+      <webElementGuid>f88eac01-4e5f-417f-924d-da63d99d006a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>24bd642a-c7b3-4149-a51e-f887e71ae765</webElementGuid>
+      <webElementGuid>59f519a5-e59f-461b-af1f-53eb13a19798</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-sm</value>
-      <webElementGuid>2c8b741d-e954-40e6-b8f8-7d13e8276670</webElementGuid>
+      <webElementGuid>4fd61032-c036-4edf-9993-d435106f63d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,15 +38,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Supplier</value>
-      <webElementGuid>85b08c45-7fc9-4d73-88b0-2b5e7c3a22aa</webElementGuid>
+      <webElementGuid>0143f95e-1c4c-4609-b53b-4bda25ebec55</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[@class=&quot;light&quot;]/body[@class=&quot;__className_8c1529&quot;]/div[@class=&quot;w-full text-black dark:text-light&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;w-[260px] fixed md:sticky top-0 left-0 h-[100dvh] text-[#171725] bg-white dark:bg-slate-800 transition-all duration-1000 ease-in-out z-10&quot;]/aside[@class=&quot;top-0 left-0  pl-4 pr-2 pt-4 pb-4&quot;]/div[@class=&quot;flex flex-col dark:text-white&quot;]/div[@class=&quot;flex flex-col items-start mt-16&quot;]/div[@class=&quot;flex w-full items-center cursor-pointer hover:text-cream-1000 rounded overflow-hidden whitespace-nowrap&quot;]/div[1]/a[1]/div[@class=&quot;flex py-3 px-2 items-center h-full&quot;]/span[@class=&quot;text-sm&quot;]</value>
-      <webElementGuid>c4dbeac6-1ea4-47e5-ac1e-4a1917c05fe7</webElementGuid>
+      <value>/html[@class=&quot;light&quot;]/body[@class=&quot;__className_8c1529&quot;]/div[@class=&quot;w-full text-black dark:text-light&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;w-[260px] fixed md:sticky top-0 left-0 h-[100dvh] text-[#171725] bg-white dark:bg-slate-800 transition-all duration-1000 ease-in-out z-10&quot;]/aside[@class=&quot;top-0 left-0  pl-4 pr-2 pt-4 pb-4&quot;]/div[@class=&quot;flex flex-col dark:text-white&quot;]/div[@class=&quot;flex flex-col items-start mt-16&quot;]/div[@class=&quot;flex w-full items-center cursor-pointer hover:text-cream-1000 rounded overflow-hidden whitespace-nowrap text-cream-1000 md:border-l-[3px] border-cream-1000&quot;]/div[1]/a[1]/div[@class=&quot;flex py-3 px-2 items-center h-full&quot;]/span[@class=&quot;text-sm&quot;]</value>
+      <webElementGuid>03c4fee7-fe62-4c67-bf95-5a5146604ce1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Branch'])[1]/following::span[1]</value>
-      <webElementGuid>60c5d1a9-0297-40b2-a5c3-3f8f18c68471</webElementGuid>
+      <webElementGuid>7019ddee-2e2c-46e7-972b-001ecfb7e109</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Modify'])[1]/following::span[2]</value>
-      <webElementGuid>f302deff-a351-43b9-89f6-5cb050a95bf3</webElementGuid>
+      <webElementGuid>1376f9e0-3530-45d7-8ca6-28298ef2fb2d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sales Channel'])[1]/preceding::span[1]</value>
-      <webElementGuid>ae9654a8-ffc9-4360-b09b-8a7bf04b3754</webElementGuid>
+      <webElementGuid>07d0c2fe-029d-40a6-adbe-7f3af80db94c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Report'])[1]/preceding::span[2]</value>
-      <webElementGuid>5126ee72-29db-4d9a-8e73-63196a3dc5c0</webElementGuid>
+      <webElementGuid>dbed36f3-c102-4321-9f30-6a3028e08ad1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Supplier']/parent::*</value>
-      <webElementGuid>400233bd-9aa3-4331-8c20-8be86b39cefa</webElementGuid>
+      <webElementGuid>839482b7-d77a-43f2-bb7f-94b96ec9335b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/a/div/span</value>
-      <webElementGuid>e807ce76-b333-4061-8084-8206d7674630</webElementGuid>
+      <webElementGuid>4af12216-8f74-435f-9b9d-213d67b422ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Supplier' or . = 'Supplier')]</value>
-      <webElementGuid>ae778570-5e5a-41d7-bfc2-33f38de1ac99</webElementGuid>
+      <webElementGuid>3032da1c-525b-4c3d-b0ea-4d419a731f9f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+test search supplier,Chrome 116.0.0.0,,,2566-09-13 15:03:31,2566-09-13 15:06:11,2m - 40.849s,FAILED
+,,,,,,,
+Test Cases/TEST LOGIN toey,Chrome 116.0.0.0,"username : admin
+password : 123456",,2566-09-13 15:03:31,2566-09-13 15:03:38,7.045s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2566-09-13 15:03:31,2566-09-13 15:03:34,2.701s,PASSED
+"navigateToUrl(""https://pos-frontend-toey-gumbjqoyzq-as.a.run.app"")",Chrome 116.0.0.0,,,2566-09-13 15:03:34,2566-09-13 15:03:35,0.771s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign In/input_Username_username""), ""admin"")",Chrome 116.0.0.0,,,2566-09-13 15:03:35,2566-09-13 15:03:36,1.342s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign In/input_Password_password""), ""aeHFOx8jV/A="")",Chrome 116.0.0.0,,,2566-09-13 15:03:36,2566-09-13 15:03:37,0.613s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign In/button_Sign in with Credentials""))",Chrome 116.0.0.0,,,2566-09-13 15:03:37,2566-09-13 15:03:38,1.146s,PASSED
+,,,,,,,
+Test Cases/Supplier/add supplier/case address/ตรวจสอบโดยการใส่ค่าว่าง,Chrome 116.0.0.0,,,2566-09-13 15:06:11,2566-09-13 15:06:11,0.053s,FAILED
+"navigateToUrl(""https://pos-frontend-toey-gumbjqoyzq-as.a.run.app/supplier"")",Chrome 116.0.0.0,,,2566-09-13 15:06:11,2566-09-13 15:06:11,0.028s,FAILED

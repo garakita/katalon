@@ -17,3 +17,44 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://pos-frontend-toey-gumbjqoyzq-as.a.run.app/api/auth/signin?callbackUrl=%2Fsupplier')
+
+WebUI.click(findTestObject('Object Repository/Page_Sign In/input_Username_username'))
+
+WebUI.click(findTestObject('Object Repository/Page_Sign In/input_Username_username'))
+
+WebUI.click(findTestObject('Object Repository/Page_Sign In/input_Username_username'))
+
+WebUI.click(findTestObject('Object Repository/Page_Sign In/input_Username_username'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Sign In/input_Username_username'), 'admin')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign In/input_Password_password'), 'aeHFOx8jV/A=')
+
+WebUI.click(findTestObject('Object Repository/Page_Sign In/button_Sign in with Credentials'))
+
+WebUI.click(findTestObject('Object Repository/Page_Create Next App/button_Add Supplier'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Create Next App/input_CategoryName_border-gray-300 placehol_3ea089'), 
+    'bbbb')
+
+WebUI.setText(findTestObject('Object Repository/Page_Create Next App/input_CategoryName_border-gray-300 placehol_3ea089'), 
+    '1234566666')
+
+WebUI.setText(findTestObject('Object Repository/Page_Create Next App/input_CategoryName_border-gray-300 placehol_3ea089'), 
+    'dddddd')
+
+WebUI.setText(findTestObject('Object Repository/Page_Create Next App/input_CategoryName_border-gray-300 placehol_3ea089'), 
+    '7')
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Create Next App/select_Select Group SupplierchathaiKFC01Dar_dd1465'), 
+    'Select Group Supplier', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Create Next App/select_Select Group SupplierchathaiKFC01Dar_dd1465'), 
+    '4', true)
+
+WebUI.setText(findTestObject('Object Repository/Page_Create Next App/input_CategoryName_border-gray-300 placehol_3ea089'), 
+    '55555')
+

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>326e8a7c-3f70-4b2c-9b29-9bd514dba0e2</webElementGuid>
+      <webElementGuid>68952074-37b7-40c3-ac3e-e4daecf8aede</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>name</name>
       <type>Main</type>
       <value>username</value>
-      <webElementGuid>44ef331c-475d-47cc-b5b6-a111a3731fb1</webElementGuid>
+      <webElementGuid>01165b23-1b6e-427c-ba43-6c0a27a7e30f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>input-username-for-credentials-provider</value>
-      <webElementGuid>4bf9e6d5-7ae9-4c3d-92be-229d58629c39</webElementGuid>
+      <webElementGuid>f2098869-ea27-49fd-a10f-a8be63c8444b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>28a11f9b-55b8-4c01-b7d8-e1c61f6182fc</webElementGuid>
+      <webElementGuid>a7b8185d-c0a7-4fe6-877b-325ea89c2eff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>jsmith</value>
-      <webElementGuid>4eb73a7a-834a-4aef-87b8-28ac7e6ae67a</webElementGuid>
+      <webElementGuid>9d692f4d-a1a6-4e4e-b0b9-26f279d93862</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>label</name>
       <type>Main</type>
       <value>Username</value>
-      <webElementGuid>19c43241-7e0b-43a7-a6b9-92978b3e5277</webElementGuid>
+      <webElementGuid>5b552711-c815-41e6-b0c0-518e387bdadb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;input-username-for-credentials-provider&quot;)</value>
-      <webElementGuid>6257421e-f875-419d-af2e-ddc9cb4a86b1</webElementGuid>
+      <webElementGuid>ab7ac357-9109-4220-a7f7-5586b6b9a68a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='input-username-for-credentials-provider']</value>
-      <webElementGuid>c5ae6453-e436-4293-be39-64179536115c</webElementGuid>
+      <webElementGuid>233a0395-21b4-46a1-834e-88915afd1cf7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/input</value>
-      <webElementGuid>1ff92a2e-9215-4113-9b0f-3c682d3490eb</webElementGuid>
+      <webElementGuid>a0f3e8ab-177d-4ece-afc8-dddec423a5dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'username' and @id = 'input-username-for-credentials-provider' and @type = 'text' and @placeholder = 'jsmith']</value>
-      <webElementGuid>8aa2e8b9-df57-4b66-8f2b-6c6905e76928</webElementGuid>
+      <webElementGuid>08c5fe26-fde5-4bb9-b183-79ffafcbf859</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
