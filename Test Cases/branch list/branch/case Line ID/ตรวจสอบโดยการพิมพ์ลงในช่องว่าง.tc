@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>AA001,AA_0001,asdf,Eng^.^003</description>
+   <name>ตรวจสอบโดยการพิมพ์ลงในช่องว่าง</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f52c902-20ee-4bb1-9dc5-3f348b4a710e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>copy paste</description>
+   <name>ตรวจสอบว่าสามารถนำข้อความมาวางได้</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9975695-c56f-42d5-99db-f7fdec04c570</testCaseGuid>
+</TestCaseEntity>

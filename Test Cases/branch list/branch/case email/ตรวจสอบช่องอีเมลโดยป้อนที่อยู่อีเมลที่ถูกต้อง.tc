@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ตรวจสอบช่องอีเมลโดยป้อนที่อยู่อีเมลที่ถูกต้อง</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2f8e40f-0975-4520-9011-76587ab77b5c</testCaseGuid>
+</TestCaseEntity>
