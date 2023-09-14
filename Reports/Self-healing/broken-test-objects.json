@@ -89,6 +89,56 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Create Next App/select_Select Group SupplierchathaiKFC01Dar_dd1465_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/supplier/Page_Create Next App/input_Vat_border-gray-300 placeholder-gray-_922480",
+      "brokenLocator": "//input[@value\u003d\u00270\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027headlessui-dialog-panel-:ra:\u0027]/div[4]/div[2]/div[2]/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/supplier/Page_Create Next App/input_Vat_border-gray-300 placeholder-gray-_922480_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/supplier/Page_Create Next App/Page_Create Next App/input_Vat_border-gray-300 placeholder-gray-_922480",
+      "brokenLocator": "//input[@value\u003d\u00270\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027headlessui-dialog-panel-:ra:\u0027]/div[4]/div[2]/div[2]/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/supplier/Page_Create Next App/Page_Create Next App/input_Vat_border-gray-300 placeholder-gray-_922480_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Create Next App/svg_Add SubCategory_absolute top-12 transfo_2e79f2",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Upload Image\u0027])[1]/following::*[name()\u003d\u0027svg\u0027][1]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Add Category\u0027])[1]//*[name()\u003d\u0027svg\u0027][1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Create Next App/svg_Add SubCategory_absolute top-12 transfo_2e79f2_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Create Next App/input_CategoryName_border-gray-300 placehol_3ea089",
+      "brokenLocator": "(//input[@type\u003d\u0027number\u0027])[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[@value\u003d\u0027\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Create Next App/input_CategoryName_border-gray-300 placehol_3ea089_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Create Next App/button_Add Category",
+      "brokenLocator": "//div[@id\u003d\u0027headlessui-dialog-panel-:r5:\u0027]/div[5]/button[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Cancel\u0027])[1]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Create Next App/button_Add Category_neighbor.png"
     }
   ]
 }

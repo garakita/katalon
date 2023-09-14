@@ -17,3 +17,31 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://pos-frontend-toey-gumbjqoyzq-as.a.run.app/api/auth/signin?callbackUrl=%2F')
+
+WebUI.setText(findTestObject('Object Repository/sale channel/Page_Sign In/input_Username_username'), 'admin')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/sale channel/Page_Sign In/input_Password_password'), 'aeHFOx8jV/A=')
+
+WebUI.click(findTestObject('Object Repository/sale channel/Page_Sign In/button_Sign in with Credentials'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.setText(findTestObject('null'), 
+    'name')
+
+WebUI.setText(findTestObject('null'), 
+    '7')
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.closeBrowser()
+

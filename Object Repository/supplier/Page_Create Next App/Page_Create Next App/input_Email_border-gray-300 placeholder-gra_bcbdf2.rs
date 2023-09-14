@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Email_border-gray-300 placeholder-gra_bcbdf2</name>
+   <tag></tag>
+   <elementGuidId>85ce851f-c41e-4c97-9ad4-8e789439a225</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>d5b81ff1-56dd-4ffe-8529-8f890e8fcb6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-gray-300 placeholder-gray-500 text-sm rounded-xl text-gray-700 w-full  focus:ring-cream-1000 focus:border-cream-1000</value>
+      <webElementGuid>7685427b-68f5-4c71-8eab-77bdcd7dc371</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Input Email</value>
+      <webElementGuid>07a4d944-021b-427b-87f3-f27925f83282</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>0fcfcda7-4dc5-4c8a-ada4-7a307e302adc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-panel-:ra:&quot;)/div[@class=&quot;grid grid-cols-1 sm:grid-cols-2&quot;]/div[@class=&quot;p-4&quot;]/input[@class=&quot;border-gray-300 placeholder-gray-500 text-sm rounded-xl text-gray-700 w-full  focus:ring-cream-1000 focus:border-cream-1000&quot;]</value>
+      <webElementGuid>d4fb2238-9a95-4c07-a67e-6564db1fd708</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>391959de-1231-4b1b-aee6-dc88a8aabd04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-panel-:ra:']/div[8]/div[2]/input</value>
+      <webElementGuid>e9446c1f-52b0-4ed1-9451-afc3dc505ac6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div[2]/input</value>
+      <webElementGuid>a33a2e29-d196-4b5d-8b76-dd7ce800b2b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Input Email' and @type = 'text']</value>
+      <webElementGuid>8a90a454-42a4-4e54-b7e3-d9a643b21d1c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

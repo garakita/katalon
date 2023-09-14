@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Credit Term_border-gray-300 placehold_bdb423</name>
+   <tag></tag>
+   <elementGuidId>a9e3894f-8258-42b0-89cc-29be4f17f222</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='number'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>2d162eff-1ec9-4001-92be-d08ec1b05d55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-gray-300 placeholder-gray-500 text-sm rounded-xl text-gray-700 w-full  focus:ring-cream-1000 focus:border-cream-1000 [appearance:textfield] [&amp;::-webkit-outer-spin-button]:appearance-none [&amp;::-webkit-inner-spin-button]:appearance-none</value>
+      <webElementGuid>109de633-2035-4df3-a003-9a1a437cfccc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Input Credit Day</value>
+      <webElementGuid>2674988e-b2a1-4f49-ab11-33fe776e2809</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>number</value>
+      <webElementGuid>9ba46de4-bfb3-46d4-ad5c-02f562e25b74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-panel-:ra:&quot;)/div[@class=&quot;grid grid-cols-1 sm:grid-cols-2&quot;]/div[@class=&quot;p-4&quot;]/div[@class=&quot;grid grid-cols-1 items-center&quot;]/div[@class=&quot;relative&quot;]/input[@class=&quot;border-gray-300 placeholder-gray-500 text-sm rounded-xl text-gray-700 w-full  focus:ring-cream-1000 focus:border-cream-1000 [appearance:textfield] [&amp;::-webkit-outer-spin-button]:appearance-none [&amp;::-webkit-inner-spin-button]:appearance-none&quot;]</value>
+      <webElementGuid>4e164094-1434-4505-aa83-65141165e81b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='number'])[2]</value>
+      <webElementGuid>6a0bd0c2-258a-4bf2-8bab-49f9bfb022f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-panel-:ra:']/div[5]/div[2]/div[2]/div/input</value>
+      <webElementGuid>81b436a9-dc73-4411-b0c0-c5ace897b87e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div[2]/div/input</value>
+      <webElementGuid>03741a41-3b61-434c-a50c-cde2ea6cb997</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Input Credit Day' and @type = 'number']</value>
+      <webElementGuid>d7bb6cb9-bec4-46d7-9672-0974632de33c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

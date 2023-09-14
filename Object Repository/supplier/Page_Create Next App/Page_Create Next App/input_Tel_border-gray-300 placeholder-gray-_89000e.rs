@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Tel_border-gray-300 placeholder-gray-_89000e</name>
+   <tag></tag>
+   <elementGuidId>c96b3765-8e1c-4482-a66b-048c05caef7e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>1a1ba408-01da-48b6-9eb9-0625513c4f50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-gray-300 placeholder-gray-500 text-sm rounded-xl text-gray-700 w-full  focus:ring-cream-1000 focus:border-cream-1000</value>
+      <webElementGuid>8c51c69c-497d-4db5-a43d-e38236f4448e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Input Tel.</value>
+      <webElementGuid>b1842acb-c5e6-423d-ad0d-85a41732fc8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>83c33512-6775-4702-9455-5f8574ec5343</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-panel-:ra:&quot;)/div[@class=&quot;grid grid-cols-1 sm:grid-cols-2&quot;]/div[@class=&quot;p-4&quot;]/input[@class=&quot;border-gray-300 placeholder-gray-500 text-sm rounded-xl text-gray-700 w-full  focus:ring-cream-1000 focus:border-cream-1000&quot;]</value>
+      <webElementGuid>7c60d149-9570-4a7a-b789-4d3706a3dc72</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>fdd8d009-f314-4543-907c-ab36ed9af9e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-panel-:ra:']/div[8]/div/input</value>
+      <webElementGuid>274a04a2-aa69-4a43-ab7c-82fbb02433e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/input</value>
+      <webElementGuid>88a4efe3-748f-42af-9dab-ec3a5ef2f145</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Input Tel.' and @type = 'text']</value>
+      <webElementGuid>be969d7f-2a53-4d0f-afc1-698262bb9d83</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

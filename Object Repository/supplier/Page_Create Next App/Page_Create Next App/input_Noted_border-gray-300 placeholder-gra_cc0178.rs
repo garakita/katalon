@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Noted_border-gray-300 placeholder-gra_cc0178</name>
+   <tag></tag>
+   <elementGuidId>a92b7fe5-f1da-49a7-bf1f-5dc8ce55e9b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value=''])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>41556caa-ace3-46f5-9f6d-64f2bc5b3001</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-gray-300 placeholder-gray-500 text-sm rounded-xl text-gray-700 w-full  focus:ring-cream-1000 focus:border-cream-1000</value>
+      <webElementGuid>61e25c5a-f27b-43f5-ab38-f782cba23b59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Input Noted</value>
+      <webElementGuid>d008a65e-5750-4e74-997d-965c9b12f66f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>d8eb152e-f805-4314-9566-84436c35239f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-panel-:ra:&quot;)/div[@class=&quot;grid grid-cols-1 sm:grid-cols-2&quot;]/div[@class=&quot;p-4&quot;]/input[@class=&quot;border-gray-300 placeholder-gray-500 text-sm rounded-xl text-gray-700 w-full  focus:ring-cream-1000 focus:border-cream-1000&quot;]</value>
+      <webElementGuid>6afebde2-5ecd-431b-954e-bb510441769e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[2]</value>
+      <webElementGuid>7af3463a-87f1-4073-b128-97e7bbb3df28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-panel-:ra:']/div[9]/div[2]/input</value>
+      <webElementGuid>5c02ee0b-2739-4b74-ae52-d05617b4c9af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div[2]/input</value>
+      <webElementGuid>b877c748-9dc8-411b-b608-c7d2b394e88b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Input Noted' and @type = 'text']</value>
+      <webElementGuid>02a07528-6116-4282-81ff-2b70f00ac81b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

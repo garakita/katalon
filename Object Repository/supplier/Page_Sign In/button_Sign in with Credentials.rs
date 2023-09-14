@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Sign in with Credentials</name>
+   <tag></tag>
+   <elementGuidId>8aeaf26a-5b6c-4f23-82a6-f6330ab52642</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button[type=&quot;submit&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>53f2dee6-48fd-405a-8ccc-798b2d938c73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>0b10dc07-cc91-4a56-8753-35ce249878ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign in with Credentials</value>
+      <webElementGuid>5f8e9125-93ea-428d-b8b8-7b0aab22ccef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__next-auth-theme-auto&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;signin&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;provider&quot;]/form[1]/button[1]</value>
+      <webElementGuid>18deaaa4-a781-4350-afe7-043d40328ffc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>9cb9a899-4d71-4bc4-8bf4-082734b3d16d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
+      <webElementGuid>8213e064-d980-4aa5-99ed-72d7d872b07e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/following::button[1]</value>
+      <webElementGuid>5bebcdc0-149f-4360-9405-05c5de789839</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign in with Credentials']/parent::*</value>
+      <webElementGuid>a9acfdf1-c160-4afc-97b0-534f0aee646f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>85b42b25-6214-474c-8dee-5ba665dd5bd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Sign in with Credentials' or . = 'Sign in with Credentials')]</value>
+      <webElementGuid>b2d0e94d-88e1-4d95-a6ae-04a02561e28e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

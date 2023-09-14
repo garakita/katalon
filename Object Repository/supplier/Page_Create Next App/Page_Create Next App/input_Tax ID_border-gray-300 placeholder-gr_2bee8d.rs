@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Tax ID_border-gray-300 placeholder-gr_2bee8d</name>
+   <tag></tag>
+   <elementGuidId>5110a093-260a-4f97-ab3a-db4f9f74b196</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>71940b70-4bbc-436c-a2cc-94f4c35f6abf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-gray-300 placeholder-gray-500 text-sm rounded-xl text-gray-700 w-full  focus:ring-cream-1000 focus:border-cream-1000</value>
+      <webElementGuid>a6882f72-4850-4345-9f1e-728f874e4756</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Input Tax ID</value>
+      <webElementGuid>ca22adf9-6b04-4ffd-a2e8-1c4e6c15a066</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>ee5abd8b-1aaa-4bbc-8feb-6aa2686c0c4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-panel-:ra:&quot;)/div[@class=&quot;grid grid-cols-1 sm:grid-cols-2&quot;]/div[@class=&quot;p-4&quot;]/input[@class=&quot;border-gray-300 placeholder-gray-500 text-sm rounded-xl text-gray-700 w-full  focus:ring-cream-1000 focus:border-cream-1000&quot;]</value>
+      <webElementGuid>92716868-60aa-47a4-a622-7f9fd08ae066</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>ac3c2e8f-1297-43f6-84ad-5bfa98050950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-panel-:ra:']/div[3]/div[2]/input</value>
+      <webElementGuid>8cb5663a-ab9c-4aaf-b90e-3de080b36e6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/input</value>
+      <webElementGuid>439e8d95-998b-426c-b917-303b676963d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Input Tax ID' and @type = 'text']</value>
+      <webElementGuid>ecbf06e0-9030-488c-91df-a9e59eca066b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

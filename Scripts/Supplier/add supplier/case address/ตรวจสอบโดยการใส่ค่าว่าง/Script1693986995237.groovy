@@ -21,40 +21,52 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://pos-frontend-toey-gumbjqoyzq-as.a.run.app/api/auth/signin?callbackUrl=%2Fsupplier')
 
-WebUI.click(findTestObject('Object Repository/Page_Sign In/input_Username_username'))
+WebUI.setText(findTestObject('Object Repository/supplier/Page_Create Next App/Page_Sign In/input_Username_username'), 'admin')
 
-WebUI.click(findTestObject('Object Repository/Page_Sign In/input_Username_username'))
+WebUI.setEncryptedText(findTestObject('Object Repository/supplier/Page_Create Next App/Page_Sign In/input_Password_password'), 
+    'aeHFOx8jV/A=')
 
-WebUI.click(findTestObject('Object Repository/Page_Sign In/input_Username_username'))
+WebUI.click(findTestObject('Object Repository/supplier/Page_Create Next App/Page_Sign In/button_Sign in with Credentials'))
 
-WebUI.click(findTestObject('Object Repository/Page_Sign In/input_Username_username'))
+WebUI.click(findTestObject('Object Repository/supplier/Page_Create Next App/Page_Create Next App/button_Add Supplier'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Sign In/input_Username_username'), 'admin')
+WebUI.setText(findTestObject('Object Repository/supplier/Page_Create Next App/Page_Create Next App/input__border-gray-300 placeholder-gray-500_a6dfe9'), 
+    'tytyt')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign In/input_Password_password'), 'aeHFOx8jV/A=')
+WebUI.setText(findTestObject('Object Repository/supplier/Page_Create Next App/Page_Create Next App/input_Tax ID_border-gray-300 placeholder-gr_2bee8d'), 
+    '1234658795')
 
-WebUI.click(findTestObject('Object Repository/Page_Sign In/button_Sign in with Credentials'))
+WebUI.setText(findTestObject('Object Repository/supplier/Page_Create Next App/Page_Create Next App/input__border-gray-300 placeholder-gray-500_a6dfe9_1'), 
+    'NY')
 
-WebUI.click(findTestObject('Object Repository/Page_Create Next App/button_Add Supplier'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Create Next App/input_CategoryName_border-gray-300 placehol_3ea089'), 
-    'bbbb')
-
-WebUI.setText(findTestObject('Object Repository/Page_Create Next App/input_CategoryName_border-gray-300 placehol_3ea089'), 
-    '1234566666')
-
-WebUI.setText(findTestObject('Object Repository/Page_Create Next App/input_CategoryName_border-gray-300 placehol_3ea089'), 
-    'dddddd')
-
-WebUI.setText(findTestObject('Object Repository/Page_Create Next App/input_CategoryName_border-gray-300 placehol_3ea089'), 
+WebUI.setText(findTestObject('supplier/Page_Create Next App/Page_Create Next App/input_Vat_border-gray-300 placeholder-gray-_922480'), 
     '7')
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Create Next App/select_Select Group SupplierchathaiKFC01Dar_dd1465'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/supplier/Page_Create Next App/Page_Create Next App/select_Select Group SupplierchathaiKFC01Dar_dd1465'), 
     'Select Group Supplier', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Create Next App/select_Select Group SupplierchathaiKFC01Dar_dd1465'), 
-    '4', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/supplier/Page_Create Next App/Page_Create Next App/select_Select Group SupplierchathaiKFC01Dar_dd1465'), 
+    '2', true)
 
-WebUI.setText(findTestObject('Object Repository/Page_Create Next App/input_CategoryName_border-gray-300 placehol_3ea089'), 
-    '55555')
+WebUI.setText(findTestObject('Object Repository/supplier/Page_Create Next App/Page_Create Next App/input_Credit Term_border-gray-300 placehold_bdb423'), 
+    '10')
+
+WebUI.setText(findTestObject('Object Repository/supplier/Page_Create Next App/Page_Create Next App/input_Name_border-gray-300 placeholder-gray_578443'), 
+    '2222')
+
+WebUI.setText(findTestObject('Object Repository/supplier/Page_Create Next App/Page_Create Next App/input_Tel_border-gray-300 placeholder-gray-_89000e'), 
+    '0930432076')
+
+WebUI.setText(findTestObject('Object Repository/supplier/Page_Create Next App/Page_Create Next App/input_Email_border-gray-300 placeholder-gra_bcbdf2'), 
+    'ning.nattha6@gmail.com')
+
+WebUI.setText(findTestObject('Object Repository/supplier/Page_Create Next App/Page_Create Next App/input_Address_border-gray-300 placeholder-g_3bbc5a'), 
+    '')
+
+WebUI.click(findTestObject('Object Repository/supplier/Page_Create Next App/Page_Create Next App/input_Address_border-gray-300 placeholder-g_3bbc5a'))
+
+WebUI.setText(findTestObject('Object Repository/supplier/Page_Create Next App/Page_Create Next App/input_Noted_border-gray-300 placeholder-gra_cc0178'), 
+    '0000')
+
+WebUI.click(findTestObject('Object Repository/supplier/Page_Create Next App/Page_Create Next App/button_Add'))
 
