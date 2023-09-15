@@ -3,12 +3,8 @@
    <description></description>
    <name>input_Vat_border-gray-300 placeholder-gray-_922480</name>
    <tag></tag>
-   <elementGuidId>e0c1892c-f80e-406f-bb70-1b36514029f6</elementGuidId>
+   <elementGuidId>d3927c91-7000-4329-9624-8a77ee630b1b</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@placeholder = 'Input Vat' and @type = 'number']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value></value>
@@ -18,7 +14,7 @@
          <value>//input[@value='0']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -26,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>60a3a7d0-55e2-4012-b103-ad7fea90b5a8</webElementGuid>
+      <webElementGuid>928d19e8-e6db-45e2-b98f-c274bce0eb11</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>border-gray-300 placeholder-gray-500 text-sm rounded-xl text-gray-700 w-full mb-2 sm:mb-0 lg:w-full  focus:ring-cream-1000 focus:border-cream-1000 [appearance:textfield] [&amp;::-webkit-outer-spin-button]:appearance-none [&amp;::-webkit-inner-spin-button]:appearance-none</value>
-      <webElementGuid>9ac3c284-e97f-4820-a810-c10db918c1b4</webElementGuid>
+      <webElementGuid>31902110-1db6-4da9-a273-c5ef2cc37d44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +38,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Input Vat</value>
-      <webElementGuid>e88a0ad8-3773-41bf-aeb3-5ab08c3b2daf</webElementGuid>
+      <webElementGuid>09940f60-e944-4cef-9985-6e1e981163ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,23 +46,23 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>8b691338-b47e-479e-94dc-3bc6e95da81e</webElementGuid>
+      <webElementGuid>46ab6c86-e4a2-45b9-997c-7aecbeba7579</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>7</value>
-      <webElementGuid>1588891e-0942-4b3a-a9f1-8323ace9b533</webElementGuid>
+      <value>0</value>
+      <webElementGuid>8c9b18a9-e987-472e-a46b-9ee8d941468e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;headlessui-dialog-panel-:ra:&quot;)/div[@class=&quot;grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2&quot;]/div[@class=&quot;p-4&quot;]/div[@class=&quot;items-center ml-2&quot;]/div[@class=&quot;relative&quot;]/input[@class=&quot;border-gray-300 placeholder-gray-500 text-sm rounded-xl text-gray-700 w-full mb-2 sm:mb-0 lg:w-full  focus:ring-cream-1000 focus:border-cream-1000 [appearance:textfield] [&amp;::-webkit-outer-spin-button]:appearance-none [&amp;::-webkit-inner-spin-button]:appearance-none&quot;]</value>
-      <webElementGuid>d71160da-d436-4bdf-adbf-33455a79d2ae</webElementGuid>
+      <value>id(&quot;headlessui-dialog-panel-:rf:&quot;)/div[@class=&quot;grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2&quot;]/div[@class=&quot;p-4&quot;]/div[@class=&quot;items-center ml-2&quot;]/div[@class=&quot;relative&quot;]/input[@class=&quot;border-gray-300 placeholder-gray-500 text-sm rounded-xl text-gray-700 w-full mb-2 sm:mb-0 lg:w-full  focus:ring-cream-1000 focus:border-cream-1000 [appearance:textfield] [&amp;::-webkit-outer-spin-button]:appearance-none [&amp;::-webkit-inner-spin-button]:appearance-none&quot;]</value>
+      <webElementGuid>fe650373-a222-4759-bcee-80437626e1a6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -74,16 +70,15 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@value='0']</value>
-      <webElementGuid>465d0735-ad78-45ab-9cdb-9ebeba2286a7</webElementGuid>
+      <webElementGuid>2e1692e2-ef4d-4f6c-9814-43514eab1e40</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>xpath=//div[@id='headlessui-dialog-panel-:rf:']/div[4]/div[2]/div[2]/div/input
-</value>
-      <webElementGuid>8175d9bf-6bd4-4858-8396-11864e953d9f</webElementGuid>
+      <value>//div[@id='headlessui-dialog-panel-:rf:']/div[4]/div[2]/div[2]/div/input</value>
+      <webElementGuid>a6380e0c-f1b5-4525-9e2a-efb7e5eeb4b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/input</value>
-      <webElementGuid>2374f1b8-442c-43b7-b13a-d3f65d5c096d</webElementGuid>
+      <webElementGuid>942c60a9-ac75-476a-b6ad-7af45a20ce7b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@placeholder = 'Input Vat' and @type = 'number']</value>
-      <webElementGuid>327205e4-0b83-4df5-a1c3-471a4faf85e8</webElementGuid>
+      <webElementGuid>858157b4-527d-4a13-80cb-514b807f6bc3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

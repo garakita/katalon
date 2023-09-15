@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Vat_border-gray-300 placeholder-gray-_922480</name>
+   <name>input_Vat_border-gray-300 placeholder-gray-_aeb620</name>
    <tag></tag>
-   <elementGuidId>e0c1892c-f80e-406f-bb70-1b36514029f6</elementGuidId>
+   <elementGuidId>0a292b05-07f2-466a-9c7f-f03ab027af24</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@placeholder = 'Input Vat' and @type = 'number']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value></value>
@@ -18,7 +14,7 @@
          <value>//input[@value='0']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -26,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>60a3a7d0-55e2-4012-b103-ad7fea90b5a8</webElementGuid>
+      <webElementGuid>d245c69e-d248-485a-810a-089ccb2468c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>border-gray-300 placeholder-gray-500 text-sm rounded-xl text-gray-700 w-full mb-2 sm:mb-0 lg:w-full  focus:ring-cream-1000 focus:border-cream-1000 [appearance:textfield] [&amp;::-webkit-outer-spin-button]:appearance-none [&amp;::-webkit-inner-spin-button]:appearance-none</value>
-      <webElementGuid>9ac3c284-e97f-4820-a810-c10db918c1b4</webElementGuid>
+      <value>border-gray-300 placeholder-gray-500 text-sm rounded-xl text-gray-700 w-full md:w-full  mb-2 sm:mb-0  focus:ring-cream-1000 focus:border-cream-1000 [appearance:textfield] [&amp;::-webkit-outer-spin-button]:appearance-none [&amp;::-webkit-inner-spin-button]:appearance-none</value>
+      <webElementGuid>0d6e40d7-f1d9-4f85-8c29-90104a8f77cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +38,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Input Vat</value>
-      <webElementGuid>e88a0ad8-3773-41bf-aeb3-5ab08c3b2daf</webElementGuid>
+      <webElementGuid>b7467350-51b0-410e-b8df-aa11a93a8ae4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,23 +46,23 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>8b691338-b47e-479e-94dc-3bc6e95da81e</webElementGuid>
+      <webElementGuid>f6d2af5c-c482-4748-bb11-da46d35ddd61</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>7</value>
-      <webElementGuid>1588891e-0942-4b3a-a9f1-8323ace9b533</webElementGuid>
+      <value>0</value>
+      <webElementGuid>9268c419-669f-4c14-8149-b51762492072</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;headlessui-dialog-panel-:ra:&quot;)/div[@class=&quot;grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2&quot;]/div[@class=&quot;p-4&quot;]/div[@class=&quot;items-center ml-2&quot;]/div[@class=&quot;relative&quot;]/input[@class=&quot;border-gray-300 placeholder-gray-500 text-sm rounded-xl text-gray-700 w-full mb-2 sm:mb-0 lg:w-full  focus:ring-cream-1000 focus:border-cream-1000 [appearance:textfield] [&amp;::-webkit-outer-spin-button]:appearance-none [&amp;::-webkit-inner-spin-button]:appearance-none&quot;]</value>
-      <webElementGuid>d71160da-d436-4bdf-adbf-33455a79d2ae</webElementGuid>
+      <value>id(&quot;headlessui-dialog-panel-:rf:&quot;)/div[@class=&quot;grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2&quot;]/div[@class=&quot;p-4&quot;]/div[@class=&quot;flex flex-nowrap items-center ml-auto xl:justify-between&quot;]/div[@class=&quot;relative&quot;]/input[@class=&quot;border-gray-300 placeholder-gray-500 text-sm rounded-xl text-gray-700 w-full md:w-full  mb-2 sm:mb-0  focus:ring-cream-1000 focus:border-cream-1000 [appearance:textfield] [&amp;::-webkit-outer-spin-button]:appearance-none [&amp;::-webkit-inner-spin-button]:appearance-none&quot;]</value>
+      <webElementGuid>f1d0e507-10cf-4207-8456-ee70e5e31a47</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -74,24 +70,23 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@value='0']</value>
-      <webElementGuid>465d0735-ad78-45ab-9cdb-9ebeba2286a7</webElementGuid>
+      <webElementGuid>e18ea55c-8645-4d7f-98ef-1ea11cb78fd6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>xpath=//div[@id='headlessui-dialog-panel-:rf:']/div[4]/div[2]/div[2]/div/input
-</value>
-      <webElementGuid>8175d9bf-6bd4-4858-8396-11864e953d9f</webElementGuid>
+      <value>//div[@id='headlessui-dialog-panel-:rf:']/div[4]/div[2]/div[2]/div/input</value>
+      <webElementGuid>722c49b8-b87e-45ac-a9ff-3007515a768f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/input</value>
-      <webElementGuid>2374f1b8-442c-43b7-b13a-d3f65d5c096d</webElementGuid>
+      <value>//div[2]/div[2]/div/input</value>
+      <webElementGuid>ad6c00e7-75a4-47d8-babd-0bac8355f1ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@placeholder = 'Input Vat' and @type = 'number']</value>
-      <webElementGuid>327205e4-0b83-4df5-a1c3-471a4faf85e8</webElementGuid>
+      <webElementGuid>cb011367-1373-4a74-a728-c0a71424bbfe</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

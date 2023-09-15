@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Supplier</name>
+   <tag></tag>
+   <elementGuidId>8c2f4f96-633c-4ae1-b48e-d758d5974083</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Branch'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d4251414-7e2c-49ba-ba9a-3f8166a1aebc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm</value>
+      <webElementGuid>932a4b1f-e445-45c1-9f20-076d20b144f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Supplier</value>
+      <webElementGuid>4d6f0ac0-5e61-4f2c-8a4a-d10803785834</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;light&quot;]/body[@class=&quot;__className_8c1529&quot;]/div[@class=&quot;w-full text-black dark:text-light&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;w-[260px] fixed md:sticky top-0 left-0 h-[100dvh] text-[#171725] bg-white dark:bg-slate-800 transition-all duration-1000 ease-in-out z-10&quot;]/aside[@class=&quot;top-0 left-0  pl-4 pr-2 pt-4 pb-4&quot;]/div[@class=&quot;flex flex-col dark:text-white&quot;]/div[@class=&quot;flex flex-col items-start mt-16&quot;]/div[@class=&quot;flex w-full items-center cursor-pointer hover:text-cream-1000 rounded overflow-hidden whitespace-nowrap&quot;]/div[1]/a[1]/div[@class=&quot;flex py-3 px-2 items-center h-full&quot;]/span[@class=&quot;text-sm&quot;]</value>
+      <webElementGuid>a8478eba-06a5-42fb-9bc1-88a9fb9d63b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Branch'])[1]/following::span[1]</value>
+      <webElementGuid>13660212-b74c-4eac-8ba6-128f367ea2b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modify'])[1]/following::span[2]</value>
+      <webElementGuid>610bde8f-0317-4809-8b3c-57ff5579fae7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sales Channel'])[1]/preceding::span[1]</value>
+      <webElementGuid>b807c643-6aab-494f-935c-9a95a0fa35ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report'])[1]/preceding::span[2]</value>
+      <webElementGuid>4ba3b8aa-9529-4e87-a3ca-fc8aac920b90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Supplier']/parent::*</value>
+      <webElementGuid>e6cb8e16-e455-4647-9dab-67ec842cc0ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/a/div/span</value>
+      <webElementGuid>080a8ae5-e217-47eb-ab1c-18db7f2b3402</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Supplier' or . = 'Supplier')]</value>
+      <webElementGuid>a7ebe067-cdd7-4024-9703-da992d586b39</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
