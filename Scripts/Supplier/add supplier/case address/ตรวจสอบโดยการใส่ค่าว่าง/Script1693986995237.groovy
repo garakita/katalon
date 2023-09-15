@@ -42,11 +42,8 @@ WebUI.setText(findTestObject('Object Repository/supplier/Page_Create Next App/Pa
 WebUI.setText(findTestObject('supplier/Page_Create Next App/Page_Create Next App/input_Vat_border-gray-300 placeholder-gray-_922480'), 
     '7')
 
-WebUI.selectOptionByValue(findTestObject('supplier/Page_Create Next App/Page_Create Next App/select_Select Group SupplierchathaiKFC01Dar_dd1465'), 
-    'Select Group Supplier', true)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/supplier/Page_Create Next App/Page_Create Next App/select_Select Group SupplierchathaiKFC01Dar_dd1465'), 
-    '2', true)
+WebUI.selectOptionByLabel(findTestObject('supplier/Page_Create Next App/Page_Create Next App/select_Select Group SupplierchathaiKFC01Dar_dd1465'), 
+    'KFC01', true)
 
 WebUI.setText(findTestObject('Object Repository/supplier/Page_Create Next App/Page_Create Next App/input_Credit Term_border-gray-300 placehold_bdb423'), 
     '10')
