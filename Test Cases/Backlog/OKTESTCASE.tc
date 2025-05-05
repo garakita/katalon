@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>New Test Case 99</name>
+   <name>OKTESTCASE</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>70b07fcf-da17-43ec-8369-3abffc0c76ac</testCaseGuid>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5437a949-3b7f-485d-b78d-d99f920e6d94</testCaseGuid>
 </TestCaseEntity>

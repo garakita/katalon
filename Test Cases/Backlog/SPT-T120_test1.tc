@@ -4,5 +4,6 @@
    <name>SPT-T120_test1</name>
    <tag>SPT-T120,SPT-R3</tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>6146e014-742a-4ebb-aba7-a0493b1d061d</testCaseGuid>
 </TestCaseEntity>
