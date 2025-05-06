@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>54dbedec-e2da-427d-b1b6-2a506c6f5565</webElementGuid>
+      <webElementGuid>eaa1a59c-ef79-4201-a7fa-260fd7c9d58b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>id</name>
       <type>Main</type>
       <value>username</value>
-      <webElementGuid>7fb64dcf-80f1-4e72-86eb-9a95f922a4cf</webElementGuid>
+      <webElementGuid>2774583c-27f1-45d4-9736-90cdd0d375e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Email/Phone</value>
-      <webElementGuid>080b04e5-7390-434b-a2c2-cb2f837bf07c</webElementGuid>
+      <webElementGuid>f4679cae-3343-427c-aecb-b52fcf4e62c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input input-bordered input-primary border-gray-40 text-b2</value>
-      <webElementGuid>a9043c62-dcdd-4521-9e5b-3566ef1b7a1e</webElementGuid>
+      <webElementGuid>96dfe81e-ed70-446c-bd21-89aabf384c3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>type</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>94ede3cd-24c6-4db9-8bbb-bd461b952d37</webElementGuid>
+      <webElementGuid>fe154902-6f3f-4263-8570-0f52460a50ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>value</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>1d875686-32f2-4b78-896b-83cad92a2f09</webElementGuid>
+      <webElementGuid>35ef06ab-16b0-45f4-ad4e-88d0d9ba0e1b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>name</name>
       <type>Main</type>
       <value>username</value>
-      <webElementGuid>abe19aee-5201-4f38-958c-4f86accbd7db</webElementGuid>
+      <webElementGuid>6c33f878-206f-4e00-96a4-97e7574739df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;username&quot;)</value>
-      <webElementGuid>6a1192f7-eadc-465d-b908-37d9fa9d24e4</webElementGuid>
+      <webElementGuid>1d525032-50be-48fe-9e99-54184a8b7a2d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='username']</value>
-      <webElementGuid>5fff650f-ccff-4f71-ba83-70767d13ade3</webElementGuid>
+      <webElementGuid>4a5d106f-642c-4570-931a-497c6c9dc013</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>652519e0-45cd-482f-a41d-9425607ec6e2</webElementGuid>
+      <webElementGuid>92bf3728-43b2-4061-b8f6-4b8e77ba0866</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'username' and @placeholder = 'Email/Phone' and @type = 'email' and @name = 'username']</value>
-      <webElementGuid>1889f425-ae5f-44f3-9628-7cbd47264130</webElementGuid>
+      <webElementGuid>7cc808fc-08fe-43fb-ad27-db42f8922a60</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

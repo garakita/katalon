@@ -1,0 +1,19 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+BRAND_TS02,Chrome 136.0.7103.48,,,06-05-2025 14:38:24,06-05-2025 14:39:07,42.955s,FAILED
+,,,,,,,
+Test Cases/Backlog/Login,Chrome 136.0.7103.48,,,06-05-2025 14:38:24,06-05-2025 14:38:31,6.895s,PASSED
+"openBrowser("""")",Chrome 136.0.7103.48,,,06-05-2025 14:38:24,06-05-2025 14:38:26,1.760s,PASSED
+"navigateToUrl(""https://account.dev.qashup.co/login"")",Chrome 136.0.7103.48,,,06-05-2025 14:38:26,06-05-2025 14:38:27,0.433s,PASSED
+"setText(findTestObject(""Object Repository/Page_Qashup Account/input_Username_username""), ""admin@test.com"")",Chrome 136.0.7103.48,,,06-05-2025 14:38:27,06-05-2025 14:38:27,0.845s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Qashup Account/input_Password_password""), ""aeHFOx8jV/A="")",Chrome 136.0.7103.48,,,06-05-2025 14:38:27,06-05-2025 14:38:28,0.283s,PASSED
+"click(findTestObject(""Object Repository/Page_Qashup Account/button_Login""))",Chrome 136.0.7103.48,,,06-05-2025 14:38:28,06-05-2025 14:38:28,0.290s,PASSED
+"click(findTestObject(""Object Repository/Page_Qashup Account/div_Back Office""))",Chrome 136.0.7103.48,,,06-05-2025 14:38:28,06-05-2025 14:38:29,1.164s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 136.0.7103.48,,,06-05-2025 14:38:29,06-05-2025 14:38:31,2.024s,PASSED
+,,,,,,,
+Test Cases/Dev Environment/BRAND_TS02_TC01,Chrome 136.0.7103.48,User can add new brand.,,06-05-2025 14:38:31,06-05-2025 14:39:06,35.113s,FAILED
+"click(findTestObject(""Object Repository/Page_Qashup Backoffice/a_Brand  Branch""))",Chrome 136.0.7103.48,,,06-05-2025 14:38:31,06-05-2025 14:38:33,1.473s,PASSED
+"click(findTestObject(""Object Repository/Page_Qashup Backoffice/div_Brand""))",Chrome 136.0.7103.48,,,06-05-2025 14:38:33,06-05-2025 14:38:33,0.607s,PASSED
+"click(findTestObject(""Object Repository/Page_Qashup Backoffice/button_Add Brand""))",Chrome 136.0.7103.48,,,06-05-2025 14:38:33,06-05-2025 14:38:34,0.814s,PASSED
+"click(findTestObject(""Object Repository/Page_Qashup Backoffice/input_Brand Name_input input-bordered h-42p_d0de7f""))",Chrome 136.0.7103.48,,,06-05-2025 14:38:34,06-05-2025 14:38:35,0.482s,PASSED
+"setText(findTestObject(""Object Repository/Page_Qashup Backoffice/input_Brand Name_input input-bordered h-42p_d0de7f_1_2_3_4_5_6_7_8_9_10_11""), ""QA Merchant"")",Chrome 136.0.7103.48,,,06-05-2025 14:38:35,06-05-2025 14:39:06,31.375s,FAILED
+Start listener action : sampleAfterTestCase,Chrome 136.0.7103.48,,,06-05-2025 14:39:06,06-05-2025 14:39:06,0.242s,PASSED

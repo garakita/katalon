@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Brand Logo_flex aspect-video h-full w-f_28cf44</name>
+   <tag></tag>
+   <elementGuidId>7fb7fc71-a221-4ce3-be67-72e76245effd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-dialog-panel-:r1b:']/div[2]/div/label/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>779ac28b-83be-46f6-8bce-54a1871eedb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex aspect-video h-full w-full justify-center !rounded-xl</value>
+      <webElementGuid>415a3fc5-1bcd-4c30-a07c-cd71b0abacf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-panel-:r1b:&quot;)/div[@class=&quot;flex w-full flex-col px-4 pb-4&quot;]/div[@class=&quot;flex flex-row pt-4 gap-4&quot;]/label[@class=&quot;flex aspect-video h-[150px] w-[150px] cursor-pointer items-center justify-center rounded-xl border border-gray-30&quot;]/div[@class=&quot;flex aspect-video h-full w-full justify-center !rounded-xl&quot;]</value>
+      <webElementGuid>a8da6d74-19cb-495b-aba7-e3164ec7d522</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-panel-:r1b:']/div[2]/div/label/div</value>
+      <webElementGuid>cb9073ef-d12a-4733-8ee6-8420c9517d90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brand Logo'])[1]/following::div[2]</value>
+      <webElementGuid>1c77a15a-7e83-478b-87dd-1fd81158feb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brand Name'])[1]/following::div[3]</value>
+      <webElementGuid>c77ce5a8-4f04-4cd6-a9c9-3af080096ef4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload Logo'])[1]/preceding::div[3]</value>
+      <webElementGuid>5674f4a1-3d67-41f8-8b74-07e15fa69254</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::div[5]</value>
+      <webElementGuid>62721ae1-88ee-41e7-970a-8f0af46149ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/div</value>
+      <webElementGuid>6fa1a3b4-0704-4a2f-8822-3d7841de344f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

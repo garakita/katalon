@@ -1,0 +1,32 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+BRAND_TS02,Chrome 136.0.7103.48,,,06-05-2025 15:15:12,06-05-2025 15:16:01,49.315s,FAILED
+,,,,,,,
+Test Cases/Backlog/Login,Chrome 136.0.7103.48,,,06-05-2025 15:15:13,06-05-2025 15:15:20,7.035s,PASSED
+"openBrowser("""")",Chrome 136.0.7103.48,,,06-05-2025 15:15:13,06-05-2025 15:15:15,1.748s,PASSED
+"navigateToUrl(""https://account.dev.qashup.co/login"")",Chrome 136.0.7103.48,,,06-05-2025 15:15:15,06-05-2025 15:15:15,0.578s,PASSED
+"setText(findTestObject(""Object Repository/Page_Qashup Account/input_Username_username""), ""admin@test.com"")",Chrome 136.0.7103.48,,,06-05-2025 15:15:15,06-05-2025 15:15:16,0.803s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Qashup Account/input_Password_password""), ""aeHFOx8jV/A="")",Chrome 136.0.7103.48,,,06-05-2025 15:15:16,06-05-2025 15:15:16,0.284s,PASSED
+"click(findTestObject(""Object Repository/Page_Qashup Account/button_Login""))",Chrome 136.0.7103.48,,,06-05-2025 15:15:16,06-05-2025 15:15:16,0.280s,PASSED
+"click(findTestObject(""Object Repository/Page_Qashup Account/div_Back Office""))",Chrome 136.0.7103.48,,,06-05-2025 15:15:16,06-05-2025 15:15:18,1.176s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 136.0.7103.48,,,06-05-2025 15:15:18,06-05-2025 15:15:20,2.076s,PASSED
+,,,,,,,
+Test Cases/Dev Environment/BRAND_TS02_TC01,Chrome 136.0.7103.48,User can add new brand.,,06-05-2025 15:15:20,06-05-2025 15:15:24,4.504s,PASSED
+"click(findTestObject(""Object Repository/Page_Qashup Backoffice/a_Brand  Branch""))",Chrome 136.0.7103.48,,,06-05-2025 15:15:20,06-05-2025 15:15:21,0.836s,PASSED
+"click(findTestObject(""Object Repository/Page_Qashup Backoffice/div_Brand""))",Chrome 136.0.7103.48,,,06-05-2025 15:15:21,06-05-2025 15:15:21,0.686s,PASSED
+"click(findTestObject(""Object Repository/Page_Qashup Backoffice/button_Add Brand""))",Chrome 136.0.7103.48,,,06-05-2025 15:15:21,06-05-2025 15:15:22,0.932s,PASSED
+"click(findTestObject(""Object Repository/Page_Qashup Backoffice/input_Brand Name_input input-bordered h-42p_d0de7f""))",Chrome 136.0.7103.48,,,06-05-2025 15:15:22,06-05-2025 15:15:23,0.478s,PASSED
+"setText(findTestObject(""Object Repository/Page_Qashup Backoffice/input_Brand Name_input input-bordered h-42p_d0de7f""), ""QA Merchant"")",Chrome 136.0.7103.48,,,06-05-2025 15:15:23,06-05-2025 15:15:23,0.507s,PASSED
+"click(findTestObject(""Object Repository/Page_Qashup Backoffice/button_Upload Logo""))",Chrome 136.0.7103.48,,,06-05-2025 15:15:23,06-05-2025 15:15:24,0.273s,PASSED
+"click(findTestObject(""Object Repository/Page_Qashup Backoffice/button_Save""))",Chrome 136.0.7103.48,,,06-05-2025 15:15:24,06-05-2025 15:15:24,0.306s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 136.0.7103.48,,,06-05-2025 15:15:24,06-05-2025 15:15:24,0.363s,PASSED
+,,,,,,,
+Test Cases/Dev Environment/BRAND_TS02_TC02,Chrome 136.0.7103.48,User can edit brand.,,06-05-2025 15:15:24,06-05-2025 15:15:29,4.408s,FAILED
+"click(findTestObject(""Object Repository/Page_Qashup Backoffice/svg_QA Merchant_h-8 w-9""))",Chrome 136.0.7103.48,,,06-05-2025 15:15:24,06-05-2025 15:15:27,2.873s,PASSED
+"click(findTestObject(""Object Repository/Page_Qashup Backoffice/button_Edit""))",Chrome 136.0.7103.48,,,06-05-2025 15:15:27,06-05-2025 15:15:28,0.495s,PASSED
+"click(findTestObject(""Object Repository/Page_Qashup Backoffice/input_Brand Name_input input-bordered h-42p_d0de7f""))",Chrome 136.0.7103.48,,,06-05-2025 15:15:28,06-05-2025 15:15:28,0.467s,PASSED
+"setText(findTestObject(""null""), ""QA Merchan"")",Chrome 136.0.7103.48,,,06-05-2025 15:15:28,06-05-2025 15:15:28,0.138s,FAILED
+Start listener action : sampleAfterTestCase,Chrome 136.0.7103.48,,,06-05-2025 15:15:28,06-05-2025 15:15:29,0.259s,PASSED
+,,,,,,,
+Test Cases/Dev Environment/BRAND_TS02_TC03,Chrome 136.0.7103.48,User can delete brand.,,06-05-2025 15:15:29,06-05-2025 15:16:01,32.563s,FAILED
+"click(findTestObject(""Object Repository/Page_Qashup Backoffice/div_Brand""))",Chrome 136.0.7103.48,,,06-05-2025 15:15:29,06-05-2025 15:16:01,32.195s,FAILED
+Start listener action : sampleAfterTestCase,Chrome 136.0.7103.48,,,06-05-2025 15:16:01,06-05-2025 15:16:01,0.305s,PASSED

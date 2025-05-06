@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Brand Name_input input-bordered h-42p_d0de7f</name>
+   <tag></tag>
+   <elementGuidId>e4c03bb7-2674-4ff4-a97e-57419f3dd10a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@placeholder = 'Input brand name' and @type = 'text']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>020902f1-d2b7-4952-91a7-dfae27ccaffb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input input-bordered h-[42px] w-full border-gray-30 text-b2 !-outline-offset-1 border-gray-300 rounded-xl text-sm placeholder-gray-500 mt-[10px] flex-auto  focus:!border-primary focus:!outline-none focus:!ring-primary</value>
+      <webElementGuid>f2b34579-919c-4709-9f85-13d40f1a2f64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Input brand name</value>
+      <webElementGuid>9d13707e-db29-4c14-bc3d-c1371e400563</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>50</value>
+      <webElementGuid>42844b78-6d92-42c5-9f13-d8f2b98a7a9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>71315724-8c1c-4a46-9b31-aa1c29503dab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-panel-:rm:&quot;)/div[@class=&quot;flex w-full flex-col p-4 relative&quot;]/input[@class=&quot;input input-bordered h-[42px] w-full border-gray-30 text-b2 !-outline-offset-1 border-gray-300 rounded-xl text-sm placeholder-gray-500 mt-[10px] flex-auto  focus:!border-primary focus:!outline-none focus:!ring-primary&quot;]</value>
+      <webElementGuid>300bcb8c-bf66-4b0b-a324-be543c2490db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>db4dbd8d-11ca-46b0-b163-19fbce389dc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-panel-:rm:']/div/input</value>
+      <webElementGuid>b0c9993f-56a9-4e8f-82c4-2fe8a4df17fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/input</value>
+      <webElementGuid>0205d14e-3c6e-45c8-a522-32a2966427e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Input brand name' and @type = 'text']</value>
+      <webElementGuid>8d71ac04-31ba-430c-bfc3-3a93a63087ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

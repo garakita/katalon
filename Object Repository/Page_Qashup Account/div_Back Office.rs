@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>ccc18c26-28aa-49a2-ada3-462fab4326c1</webElementGuid>
+      <webElementGuid>02bc376f-75da-439a-b8d2-470bf0ef0745</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,7 +36,7 @@
                             landscape:lg:w-[300px] landscape:lg:h-[280px] 
                             lg:w-[320px] lg:h-[300px] 
                             flex flex-col rounded-lg p-6 gap-2 xl:gap-6 sm:gap-4 bg-gradient-to-br from-[#050C14] to-[#A0A0A0] shadow-lg hover:shadow-[#A0A0A0]</value>
-      <webElementGuid>7470cded-85c0-431e-822f-93eb3e2bbd85</webElementGuid>
+      <webElementGuid>9e390cc9-70e8-4527-ad24-6821905d4e3e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -44,7 +44,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Back Office</value>
-      <webElementGuid>0056c5ef-7613-40cd-a0df-e5c3f68404b8</webElementGuid>
+      <webElementGuid>e6fad3aa-888b-43cd-afe6-6e6c0cf0648c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +57,7 @@
                             landscape:lg:w-[300px] landscape:lg:h-[280px] 
                             lg:w-[320px] lg:h-[300px] 
                             flex flex-col rounded-lg p-6 gap-2 xl:gap-6 sm:gap-4 bg-gradient-to-br from-[#050C14] to-[#A0A0A0] shadow-lg hover:shadow-[#A0A0A0]&quot;]</value>
-      <webElementGuid>9dad9295-4cd2-46d1-9057-80eb50882155</webElementGuid>
+      <webElementGuid>a00741f4-8f21-4a65-bed8-ff99e3c68850</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='admin admin'])[1]/following::div[3]</value>
-      <webElementGuid>c70ebfc7-52cc-4d88-b483-4b2adec3b1ab</webElementGuid>
+      <webElementGuid>ca4177bd-3b03-4da9-973f-fb7e14b49dd4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='POS'])[1]/preceding::div[2]</value>
-      <webElementGuid>46cb806e-e6fd-43bc-9a04-39cd59da9ef1</webElementGuid>
+      <webElementGuid>3f188fbb-9de7-430f-90ca-cc75c91403f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div</value>
-      <webElementGuid>2895a222-bead-4499-849a-b98e9ee92902</webElementGuid>
+      <webElementGuid>1e4fc01a-f761-4ab0-abf0-9cc136a5d992</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,6 +89,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Back Office' or . = 'Back Office')]</value>
-      <webElementGuid>21fce758-af46-4190-9b6e-d649e8505a6d</webElementGuid>
+      <webElementGuid>77fd98f9-90af-4a3a-9666-ce6f8b04dfd9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

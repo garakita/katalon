@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Brand Name</name>
+   <tag></tag>
+   <elementGuidId>1454ad43-6ef5-4334-befd-210b59d36088</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@placeholder = 'Input brand name' and @type = 'text']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>class=&quot;input input-bordered h-[42px] w-full border-gray-30 text-b2 !-outline-offset-1 border-gray-300 rounded-xl text-sm placeholder-gray-500 mt-[10px] flex-auto  focus:!border-primary focus:!outline-none focus:!ring-primary&quot;</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='QA Merchant']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>11afffef-a6bc-4363-8260-25b10e2c1024</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input input-bordered h-[42px] w-full border-gray-30 text-b2 !-outline-offset-1 border-gray-300 rounded-xl text-sm placeholder-gray-500 mt-[10px] flex-auto  focus:!border-primary focus:!outline-none focus:!ring-primary</value>
+      <webElementGuid>557ed29f-df1f-4ed3-8c39-28015d08de82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Input brand name</value>
+      <webElementGuid>b2144e88-b4ed-48cd-a2fd-858430d35b7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>50</value>
+      <webElementGuid>efac87b7-c83e-4127-abdc-a0e277b2ffc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>e478773e-0a63-46f1-b397-8c88c10c1bbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>877ec61b-b7b1-4996-918a-87d5e21630d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-panel-:ri:&quot;)/div[@class=&quot;flex w-full flex-col p-4 relative&quot;]/input[@class=&quot;input input-bordered h-[42px] w-full border-gray-30 text-b2 !-outline-offset-1 border-gray-300 rounded-xl text-sm placeholder-gray-500 mt-[10px] flex-auto  focus:!border-primary focus:!outline-none focus:!ring-primary&quot;]</value>
+      <webElementGuid>48d86986-2be1-4c5a-a3cb-dff750cdd247</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='QA Merchant']</value>
+      <webElementGuid>b3c10b57-2aca-4f39-a9d3-09a8f182159a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-panel-:ri:']/div/input</value>
+      <webElementGuid>1a2b223a-1e7b-42ff-aabe-845e1eb1d170</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/input</value>
+      <webElementGuid>b8914a04-5948-464d-a878-4bf9f457b7e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Input brand name' and @type = 'text']</value>
+      <webElementGuid>dd3e1626-0654-429d-b74c-85d1610636bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

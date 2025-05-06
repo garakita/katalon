@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can delete brand.</description>
+   <name>BRAND_TS02_TC03</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dc463ec1-8a87-43a1-a9c5-996342c82728</testCaseGuid>
+</TestCaseEntity>

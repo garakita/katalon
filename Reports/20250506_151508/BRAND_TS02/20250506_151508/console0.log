@@ -1,0 +1,251 @@
+2025-05-06 15:15:12.551 INFO  c.k.katalon.core.main.TestSuiteExecutor  - START Test Suites/BRAND_TS02
+2025-05-06 15:15:12.669 INFO  c.k.katalon.core.main.TestSuiteExecutor  - userFullName = Parat
+2025-05-06 15:15:12.670 INFO  c.k.katalon.core.main.TestSuiteExecutor  - projectName = katalon
+2025-05-06 15:15:12.671 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostName = NUC - NUC13Anhi7
+2025-05-06 15:15:12.671 INFO  c.k.katalon.core.main.TestSuiteExecutor  - os = Windows 11 64bit
+2025-05-06 15:15:12.672 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostAddress = 192.168.1.36
+2025-05-06 15:15:12.673 INFO  c.k.katalon.core.main.TestSuiteExecutor  - katalonVersion = 10.2.0.0
+2025-05-06 15:15:13.176 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-05-06 15:15:13.176 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Backlog/Login
+2025-05-06 15:15:13.262 DEBUG testcase.Login                           - 1: openBrowser("")
+2025-05-06 15:15:13.485 INFO  c.k.k.core.webui.driver.DriverFactory    - Starting 'Chrome' driver
+2025-05-06 15:15:13.535 INFO  c.k.k.core.webui.driver.DriverFactory    - Action delay is set to 0 milliseconds
+May 06, 2025 3:15:14 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find CDP implementation matching 136
+May 06, 2025 3:15:14 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$4
+WARNING: Unable to find version of CDP to use for 136.0.7103.48. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.28.1` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+2025-05-06 15:15:14.964 INFO  c.k.k.core.webui.driver.DriverFactory    - sessionId = 0ec51906d961f3e132e631879cc44548
+2025-05-06 15:15:14.965 INFO  c.k.k.core.webui.driver.DriverFactory    - browser = Chrome 136.0.7103.48
+2025-05-06 15:15:14.965 INFO  c.k.k.core.webui.driver.DriverFactory    - platform = Windows 11
+2025-05-06 15:15:14.966 INFO  c.k.k.core.webui.driver.DriverFactory    - seleniumVersion = 4.28.1
+2025-05-06 15:15:14.971 INFO  c.k.k.core.webui.driver.DriverFactory    - proxyInformation = ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList="", isApplyToDesiredCapabilities=true }
+2025-05-06 15:15:15.009 DEBUG testcase.Login                           - 2: navigateToUrl("https://account.dev.qashup.co/login")
+2025-05-06 15:15:15.588 DEBUG testcase.Login                           - 3: setText(findTestObject("Object Repository/Page_Qashup Account/input_Username_username"), "admin@test.com")
+2025-05-06 15:15:16.392 DEBUG testcase.Login                           - 4: setEncryptedText(findTestObject("Object Repository/Page_Qashup Account/input_Password_password"), "aeHFOx8jV/A=")
+2025-05-06 15:15:16.676 DEBUG testcase.Login                           - 5: click(findTestObject("Object Repository/Page_Qashup Account/button_Login"))
+2025-05-06 15:15:16.956 DEBUG testcase.Login                           - 6: click(findTestObject("Object Repository/Page_Qashup Account/div_Back Office"))
+2025-05-06 15:15:20.115 INFO  c.k.k.core.webservice.common.HarLogger   - HAR: C:\Users\NUC\git\katalon\Reports\20250506_151508\BRAND_TS02\20250506_151508\requests\main\Create-Execution_0.har
+2025-05-06 15:15:20.211 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Backlog/Login
+2025-05-06 15:15:20.220 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-05-06 15:15:20.220 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Dev Environment/BRAND_TS02_TC01
+2025-05-06 15:15:20.337 DEBUG testcase.BRAND_TS02_TC01                 - 1: click(findTestObject("Object Repository/Page_Qashup Backoffice/a_Brand  Branch"))
+2025-05-06 15:15:21.173 DEBUG testcase.BRAND_TS02_TC01                 - 2: click(findTestObject("Object Repository/Page_Qashup Backoffice/div_Brand"))
+2025-05-06 15:15:21.860 DEBUG testcase.BRAND_TS02_TC01                 - 3: click(findTestObject("Object Repository/Page_Qashup Backoffice/button_Add Brand"))
+2025-05-06 15:15:22.793 DEBUG testcase.BRAND_TS02_TC01                 - 4: click(findTestObject("Object Repository/Page_Qashup Backoffice/input_Brand Name_input input-bordered h-42p_d0de7f"))
+2025-05-06 15:15:23.271 DEBUG testcase.BRAND_TS02_TC01                 - 5: setText(findTestObject("Object Repository/Page_Qashup Backoffice/input_Brand Name_input input-bordered h-42p_d0de7f"), "QA Merchant")
+2025-05-06 15:15:23.779 DEBUG testcase.BRAND_TS02_TC01                 - 6: click(findTestObject("Object Repository/Page_Qashup Backoffice/button_Upload Logo"))
+2025-05-06 15:15:24.052 DEBUG testcase.BRAND_TS02_TC01                 - 7: click(findTestObject("Object Repository/Page_Qashup Backoffice/button_Save"))
+2025-05-06 15:15:24.711 INFO  c.k.k.core.webservice.common.HarLogger   - HAR: C:\Users\NUC\git\katalon\Reports\20250506_151508\BRAND_TS02\20250506_151508\requests\main\Create-Execution_1.har
+2025-05-06 15:15:24.724 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Dev Environment/BRAND_TS02_TC01
+2025-05-06 15:15:24.730 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-05-06 15:15:24.731 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Dev Environment/BRAND_TS02_TC02
+2025-05-06 15:15:24.901 DEBUG testcase.BRAND_TS02_TC02                 - 1: click(findTestObject("Object Repository/Page_Qashup Backoffice/svg_QA Merchant_h-8 w-9"))
+2025-05-06 15:15:27.774 DEBUG testcase.BRAND_TS02_TC02                 - 2: click(findTestObject("Object Repository/Page_Qashup Backoffice/button_Edit"))
+2025-05-06 15:15:28.270 DEBUG testcase.BRAND_TS02_TC02                 - 3: click(findTestObject("Object Repository/Page_Qashup Backoffice/input_Brand Name_input input-bordered h-42p_d0de7f"))
+2025-05-06 15:15:28.737 DEBUG testcase.BRAND_TS02_TC02                 - 4: setText(findTestObject("null"), "QA Merchan")
+2025-05-06 15:15:28.740 WARN  c.k.k.core.testobject.ObjectRepository   - Test object with id 'Object Repository/null' does not exist
+2025-05-06 15:15:28.751 WARN  c.k.k.core.testobject.ObjectRepository   - Test object with id 'Object Repository/' does not exist
+2025-05-06 15:15:28.874 ERROR c.k.k.core.keyword.internal.KeywordMain  - ❌ Unable to set text (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to set text
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:39)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:1056)
+	at BRAND_TS02_TC02.run(BRAND_TS02_TC02:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:486)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:477)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:456)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:322)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:186)
+	at TempTestSuite1746519308345.run(TempTestSuite1746519308345.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: java.lang.IllegalArgumentException: Object is null
+	at com.kms.katalon.core.helper.KeywordHelper.checkTestObjectParameter(KeywordHelper.java:33)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:47)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:39)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:1056)
+	at Script1746517580273.run(Script1746517580273.groovy:26)
+	... 15 more
+)
+2025-05-06 15:15:28.877 ERROR c.k.katalon.core.main.TestCaseExecutor   - ❌ Test Cases/Dev Environment/BRAND_TS02_TC02 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to set text
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:86)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:39)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:1056)
+	at BRAND_TS02_TC02.run(BRAND_TS02_TC02:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:486)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:477)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:456)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:322)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:186)
+	at TempTestSuite1746519308345.run(TempTestSuite1746519308345.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: java.lang.IllegalArgumentException: Object is null
+	at com.kms.katalon.core.helper.KeywordHelper.checkTestObjectParameter(KeywordHelper.java:33)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:47)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 20 more
+
+2025-05-06 15:15:29.136 INFO  c.k.k.core.webservice.common.HarLogger   - HAR: C:\Users\NUC\git\katalon\Reports\20250506_151508\BRAND_TS02\20250506_151508\requests\main\Create-Execution_2.har
+2025-05-06 15:15:29.139 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Dev Environment/BRAND_TS02_TC02
+2025-05-06 15:15:29.141 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-05-06 15:15:29.141 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Dev Environment/BRAND_TS02_TC03
+2025-05-06 15:15:29.200 DEBUG testcase.BRAND_TS02_TC03                 - 1: click(findTestObject("Object Repository/Page_Qashup Backoffice/div_Brand"))
+2025-05-06 15:16:01.394 ERROR c.k.k.core.keyword.internal.KeywordMain  - ❌ Unable to click on object 'Object Repository/Page_Qashup Backoffice/div_Brand' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Qashup Backoffice/div_Brand'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at BRAND_TS02_TC03.run(BRAND_TS02_TC03:20)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:486)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:477)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:456)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:322)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:186)
+	at TempTestSuite1746519308345.run(TempTestSuite1746519308345.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <div class="text-primary">...</div> is not clickable at point (140, 328). Other element would receive the click: <div class="flex min-h-screen items-start justify-center p-4">...</div>
+  (Session info: chrome=136.0.7103.48)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.14'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [0ec51906d961f3e132e631879cc44548, clickElement {id=f.D2A786246C714C72CABCE11805404ED3.d.8BF21266B5875261B38C68A7324037B1.e.67}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.48, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:\Users\NUC\AppData\Local\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64311}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64311/devtoo..., se:cdpVersion: 136.0.7103.48, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:14353/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[CChromeDriver: chrome on windows (0ec51906d961f3e132e631879cc44548)] -> xpath: (.//*[normalize-space(text()) and normalize-space(.)='Brand & Branch'])[1]/following::div[3]]
+Session ID: 0ec51906d961f3e132e631879cc44548
+	at jdk.internal.reflect.GeneratedConstructorAccessor35.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+	at jdk.internal.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.call(WebDriverDecorator.java:315)
+	at org.openqa.selenium.support.decorators.DefaultDecorated.call(DefaultDecorated.java:48)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.lambda$createProxyFactory$3(WebDriverDecorator.java:405)
+	at net.bytebuddy.renamed.java.lang.Object$ByteBuddy$kGQeS440.click(Unknown Source)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:82)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:68)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at Script1746517910424.run(Script1746517910424.groovy:20)
+	... 15 more
+)
+2025-05-06 15:16:01.396 ERROR c.k.katalon.core.main.TestCaseExecutor   - ❌ Test Cases/Dev Environment/BRAND_TS02_TC03 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Qashup Backoffice/div_Brand'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at BRAND_TS02_TC03.run(BRAND_TS02_TC03:20)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:486)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:477)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:456)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:322)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:186)
+	at TempTestSuite1746519308345.run(TempTestSuite1746519308345.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <div class="text-primary">...</div> is not clickable at point (140, 328). Other element would receive the click: <div class="flex min-h-screen items-start justify-center p-4">...</div>
+  (Session info: chrome=136.0.7103.48)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.14'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Command: [0ec51906d961f3e132e631879cc44548, clickElement {id=f.D2A786246C714C72CABCE11805404ED3.d.8BF21266B5875261B38C68A7324037B1.e.67}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 136.0.7103.48, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:\Users\NUC\AppData\Local\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64311}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64311/devtoo..., se:cdpVersion: 136.0.7103.48, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: ws://localhost:14353/sessio..., webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[CChromeDriver: chrome on windows (0ec51906d961f3e132e631879cc44548)] -> xpath: (.//*[normalize-space(text()) and normalize-space(.)='Brand & Branch'])[1]/following::div[3]]
+Session ID: 0ec51906d961f3e132e631879cc44548
+	at jdk.internal.reflect.GeneratedConstructorAccessor35.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+	at jdk.internal.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.call(WebDriverDecorator.java:315)
+	at org.openqa.selenium.support.decorators.DefaultDecorated.call(DefaultDecorated.java:48)
+	at org.openqa.selenium.support.decorators.WebDriverDecorator.lambda$createProxyFactory$3(WebDriverDecorator.java:405)
+	at net.bytebuddy.renamed.java.lang.Object$ByteBuddy$kGQeS440.click(Unknown Source)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:82)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:68)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 20 more
+
+2025-05-06 15:16:01.703 INFO  c.k.k.core.webservice.common.HarLogger   - HAR: C:\Users\NUC\git\katalon\Reports\20250506_151508\BRAND_TS02\20250506_151508\requests\main\Create-Execution_3.har
+2025-05-06 15:16:01.704 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Dev Environment/BRAND_TS02_TC03
+2025-05-06 15:16:01.929 INFO  c.k.katalon.core.main.TestSuiteExecutor  - --------------------
+2025-05-06 15:16:01.929 INFO  c.k.katalon.core.main.TestSuiteExecutor  - END Test Suites/BRAND_TS02
+2025-05-06 15:16:01.929 INFO  c.k.katalon.core.main.TestSuiteExecutor  - ====================

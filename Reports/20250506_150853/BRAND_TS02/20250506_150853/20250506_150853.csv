@@ -1,0 +1,31 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+BRAND_TS02,Chrome 136.0.7103.48,,,06-05-2025 15:08:57,06-05-2025 15:09:50,52.590s,FAILED
+,,,,,,,
+Test Cases/Backlog/Login,Chrome 136.0.7103.48,,,06-05-2025 15:08:58,06-05-2025 15:09:06,7.429s,PASSED
+"openBrowser("""")",Chrome 136.0.7103.48,,,06-05-2025 15:08:58,06-05-2025 15:09:00,1.794s,PASSED
+"navigateToUrl(""https://account.dev.qashup.co/login"")",Chrome 136.0.7103.48,,,06-05-2025 15:09:00,06-05-2025 15:09:00,0.509s,PASSED
+"setText(findTestObject(""Object Repository/Page_Qashup Account/input_Username_username""), ""admin@test.com"")",Chrome 136.0.7103.48,,,06-05-2025 15:09:00,06-05-2025 15:09:01,0.819s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Qashup Account/input_Password_password""), ""aeHFOx8jV/A="")",Chrome 136.0.7103.48,,,06-05-2025 15:09:01,06-05-2025 15:09:02,0.282s,PASSED
+"click(findTestObject(""Object Repository/Page_Qashup Account/button_Login""))",Chrome 136.0.7103.48,,,06-05-2025 15:09:02,06-05-2025 15:09:02,0.270s,PASSED
+"click(findTestObject(""Object Repository/Page_Qashup Account/div_Back Office""))",Chrome 136.0.7103.48,,,06-05-2025 15:09:02,06-05-2025 15:09:03,1.485s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 136.0.7103.48,,,06-05-2025 15:09:03,06-05-2025 15:09:06,2.172s,PASSED
+,,,,,,,
+Test Cases/Dev Environment/BRAND_TS02_TC01,Chrome 136.0.7103.48,User can add new brand.,,06-05-2025 15:09:06,06-05-2025 15:09:10,4.388s,PASSED
+"click(findTestObject(""Object Repository/Page_Qashup Backoffice/a_Brand  Branch""))",Chrome 136.0.7103.48,,,06-05-2025 15:09:06,06-05-2025 15:09:06,0.841s,PASSED
+"click(findTestObject(""Object Repository/Page_Qashup Backoffice/div_Brand""))",Chrome 136.0.7103.48,,,06-05-2025 15:09:06,06-05-2025 15:09:07,0.702s,PASSED
+"click(findTestObject(""Object Repository/Page_Qashup Backoffice/button_Add Brand""))",Chrome 136.0.7103.48,,,06-05-2025 15:09:07,06-05-2025 15:09:08,0.805s,PASSED
+"click(findTestObject(""Object Repository/Page_Qashup Backoffice/input_Brand Name_input input-bordered h-42p_d0de7f""))",Chrome 136.0.7103.48,,,06-05-2025 15:09:08,06-05-2025 15:09:08,0.477s,PASSED
+"setText(findTestObject(""Object Repository/Page_Qashup Backoffice/input_Brand Name_input input-bordered h-42p_d0de7f""), ""QA Merchant"")",Chrome 136.0.7103.48,,,06-05-2025 15:09:08,06-05-2025 15:09:09,0.501s,PASSED
+"click(findTestObject(""Object Repository/Page_Qashup Backoffice/button_Upload Logo""))",Chrome 136.0.7103.48,,,06-05-2025 15:09:09,06-05-2025 15:09:09,0.288s,PASSED
+"click(findTestObject(""Object Repository/Page_Qashup Backoffice/button_Save""))",Chrome 136.0.7103.48,,,06-05-2025 15:09:09,06-05-2025 15:09:10,0.290s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 136.0.7103.48,,,06-05-2025 15:09:10,06-05-2025 15:09:10,0.364s,PASSED
+,,,,,,,
+Test Cases/Dev Environment/BRAND_TS02_TC02,Chrome 136.0.7103.48,User can edit brand.,,06-05-2025 15:09:10,06-05-2025 15:09:45,34.676s,FAILED
+"click(findTestObject(""Object Repository/Page_Qashup Backoffice/svg_QA Merchant_h-8 w-9""))",Chrome 136.0.7103.48,,,06-05-2025 15:09:10,06-05-2025 15:09:13,3.009s,PASSED
+"click(findTestObject(""Object Repository/Page_Qashup Backoffice/button_Edit""))",Chrome 136.0.7103.48,,,06-05-2025 15:09:13,06-05-2025 15:09:44,31.278s,FAILED
+Start listener action : sampleAfterTestCase,Chrome 136.0.7103.48,,,06-05-2025 15:09:44,06-05-2025 15:09:45,0.265s,PASSED
+,,,,,,,
+Test Cases/Dev Environment/BRAND_TS02_TC03,Chrome 136.0.7103.48,User can delete brand.,,06-05-2025 15:09:45,06-05-2025 15:09:50,5.403s,FAILED
+"click(findTestObject(""Object Repository/Page_Qashup Backoffice/div_Brand""))",Chrome 136.0.7103.48,,,06-05-2025 15:09:45,06-05-2025 15:09:45,0.270s,PASSED
+"click(findTestObject(""Object Repository/Page_Qashup Backoffice/svg_QA 1_h-8 w-9""))",Chrome 136.0.7103.48,,,06-05-2025 15:09:45,06-05-2025 15:09:50,4.787s,FAILED
+Start listener action : sampleAfterTestCase,Chrome 136.0.7103.48,,,06-05-2025 15:09:50,06-05-2025 15:09:50,0.293s,PASSED

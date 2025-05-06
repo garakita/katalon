@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_QA 1_h-8 w-9</name>
+   <tag></tag>
+   <elementGuidId>a5f37665-ad89-49d7-8b58-c3a32a22cc21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[1]/body[@class=&quot;__className_8033ae&quot;]/div[@class=&quot;w-full text-black dark:text-light&quot;]/div[@class=&quot;flex min-h-[100vh]&quot;]/div[@class=&quot;w-full max-w-[calc(100%-48px)] sm:max-w-auto flex flex-col bg-gray-10&quot;]/main[@class=&quot;flex flex-col flex-1 flex-grow bg-gray-10 dark:bg-slate-400  min-h-[89.5dvh]&quot;]/div[@class=&quot;px-10 py-[30px]&quot;]/div[@class=&quot;overflow-x-auto lg:overflow-x-hidden bg-white text-gray-700 w-auto h-auto mt-4 shadow-lg overflow-hidden dark:bg-slate-700 rounded-xl&quot;]/div[@class=&quot;bg-white text-gray-700 w-auto h-auto mt-4 shadow-lg overflow-hidden dark:bg-slate-700 rounded-xl&quot;]/div[@class=&quot;px-6 w-full&quot;]/div[@class=&quot;rounded-xl space-x-8 border-collapse border overflow-x-auto w-full&quot;]/table[@class=&quot;table-auto w-full text-xs text-gray-500 dark:text-gray-400 mr-10 md:mr-0 !mr-0&quot;]/tbody[1]/tr[@class=&quot;text-new-gray-300 bg-white dark:bg-gray-600 !text-b8&quot;]/td[@class=&quot;!w-[50px] !h-[50px]&quot;]/div[@class=&quot;relative inline-block text-left&quot;]/button[@class=&quot;inline-flex w-full justify-center px-4 text-sm font-bold text-back dark:text-white focus:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75&quot;]/svg[@class=&quot;h-8 w-9&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.h-8.w-9</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='QA 1'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>487d8804-1509-4fb2-be1b-7b5de6f38fd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>2432e436-d997-4729-83dd-70345020262a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>8441d547-7143-4df1-b4a7-1a46987c8362</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>f3b79cd4-b75d-4d05-a498-a265e78022fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>fa03b4b3-9e38-424b-9933-ee43276f7c6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slot</name>
+      <type>Main</type>
+      <value>icon</value>
+      <webElementGuid>8779a9a7-74e5-4084-be1f-955a9f498149</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-8 w-9</value>
+      <webElementGuid>29f092c5-f54f-481b-bfab-bea6b227fe8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_8033ae&quot;]/div[@class=&quot;w-full text-black dark:text-light&quot;]/div[@class=&quot;flex min-h-[100vh]&quot;]/div[@class=&quot;w-full max-w-[calc(100%-48px)] sm:max-w-auto flex flex-col bg-gray-10&quot;]/main[@class=&quot;flex flex-col flex-1 flex-grow bg-gray-10 dark:bg-slate-400  min-h-[89.5dvh]&quot;]/div[@class=&quot;px-10 py-[30px]&quot;]/div[@class=&quot;overflow-x-auto lg:overflow-x-hidden bg-white text-gray-700 w-auto h-auto mt-4 shadow-lg overflow-hidden dark:bg-slate-700 rounded-xl&quot;]/div[@class=&quot;bg-white text-gray-700 w-auto h-auto mt-4 shadow-lg overflow-hidden dark:bg-slate-700 rounded-xl&quot;]/div[@class=&quot;px-6 w-full&quot;]/div[@class=&quot;rounded-xl space-x-8 border-collapse border overflow-x-auto w-full&quot;]/table[@class=&quot;table-auto w-full text-xs text-gray-500 dark:text-gray-400 mr-10 md:mr-0 !mr-0&quot;]/tbody[1]/tr[@class=&quot;text-new-gray-300 bg-white dark:bg-gray-600 !text-b8&quot;]/td[@class=&quot;!w-[50px] !h-[50px]&quot;]/div[@class=&quot;relative inline-block text-left&quot;]/button[@class=&quot;inline-flex w-full justify-center px-4 text-sm font-bold text-back dark:text-white focus:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75&quot;]/svg[@class=&quot;h-8 w-9&quot;]</value>
+      <webElementGuid>305d0c50-6f7a-4052-87c6-469391414f82</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QA 1'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>bb96c3c8-da6f-42c9-bf0e-e14a5329dd3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Available'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>4bcceb92-069c-4c26-998b-056b6e6b99e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nosetea'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>bc9a2b67-5f3c-4493-afea-8c5b7b7c1dd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QA Merchant'])[1]/preceding::*[name()='svg'][4]</value>
+      <webElementGuid>9d59dce2-bbda-4331-b846-3c0e5674c8bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

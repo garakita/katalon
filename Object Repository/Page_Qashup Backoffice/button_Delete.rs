@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Delete</name>
+   <tag></tag>
+   <elementGuidId>fcfef934-0224-4f72-9966-01af961f8158</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Delete' or . = 'Delete')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9ed4df6f-c640-4995-9d23-bbb6d2f22d68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>group flex w-full items-center px-2 py-2 text-sm hover:bg-primary hover:text-white text-gray-900</value>
+      <webElementGuid>42f2a4e8-6f77-4722-a60d-938ceb7b40a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete</value>
+      <webElementGuid>65992848-bce6-4944-9efe-278c71c6b8a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_8033ae&quot;]/div[@class=&quot;w-full text-black dark:text-light&quot;]/div[@class=&quot;flex min-h-[100vh]&quot;]/div[@class=&quot;w-full max-w-[calc(100%-48px)] sm:max-w-auto flex flex-col bg-gray-10&quot;]/main[@class=&quot;flex flex-col flex-1 flex-grow bg-gray-10 dark:bg-slate-400  min-h-[89.5dvh]&quot;]/div[@class=&quot;px-10 py-[30px]&quot;]/div[@class=&quot;overflow-x-auto lg:overflow-x-hidden bg-white text-gray-700 w-auto h-auto mt-4 shadow-lg overflow-hidden dark:bg-slate-700 rounded-xl&quot;]/div[@class=&quot;bg-white text-gray-700 w-auto h-auto mt-4 shadow-lg overflow-hidden dark:bg-slate-700 rounded-xl&quot;]/div[@class=&quot;px-6 w-full&quot;]/div[@class=&quot;rounded-xl space-x-8 border-collapse border overflow-x-auto w-full&quot;]/table[@class=&quot;table-auto w-full text-xs text-gray-500 dark:text-gray-400 mr-10 md:mr-0 !mr-0&quot;]/tbody[1]/tr[@class=&quot;text-new-gray-300 bg-white dark:bg-gray-600 !text-b8&quot;]/td[@class=&quot;!w-[50px] !h-[50px]&quot;]/div[@class=&quot;relative inline-block text-left&quot;]/div[@class=&quot;fixed z-10 w-56 origin-top-right divide-y divide-gray-100 rounded-md bg-white shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none&quot;]/div[@class=&quot;py-1&quot;]/button[@class=&quot;group flex w-full items-center px-2 py-2 text-sm hover:bg-primary hover:text-white text-gray-900&quot;]</value>
+      <webElementGuid>008cfc7d-6f18-4ed8-aafa-f23753245578</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::button[1]</value>
+      <webElementGuid>8c79d32f-aa27-4994-8a99-d03f98fbaeec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QA 1'])[1]/following::button[4]</value>
+      <webElementGuid>9b201b73-4361-4d92-abc0-7812229cdb06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nosetea'])[1]/preceding::button[1]</value>
+      <webElementGuid>7cf8bac8-8562-4a72-96de-6db25a7560b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QA Merchant'])[1]/preceding::button[3]</value>
+      <webElementGuid>c76d5017-8511-474d-9e7a-2f5e56bd9bcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Delete']/parent::*</value>
+      <webElementGuid>a1a3089c-e9da-4058-8425-f4d2b9b68a9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>ef9c0c5a-9eb8-4e00-824f-447eb57a58bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Delete' or . = 'Delete')]</value>
+      <webElementGuid>9df16d08-0489-4875-8b8d-aad35ebbb407</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

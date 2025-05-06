@@ -1,0 +1,42 @@
+2025-05-06 14:44:52.578 INFO  c.k.katalon.core.main.TestSuiteExecutor  - START Test Suites/BRAND_TS02
+2025-05-06 14:44:52.707 INFO  c.k.katalon.core.main.TestSuiteExecutor  - userFullName = Parat
+2025-05-06 14:44:52.708 INFO  c.k.katalon.core.main.TestSuiteExecutor  - projectName = katalon
+2025-05-06 14:44:52.708 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostName = NUC - NUC13Anhi7
+2025-05-06 14:44:52.709 INFO  c.k.katalon.core.main.TestSuiteExecutor  - os = Windows 11 64bit
+2025-05-06 14:44:52.709 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostAddress = 192.168.1.36
+2025-05-06 14:44:52.711 INFO  c.k.katalon.core.main.TestSuiteExecutor  - katalonVersion = 10.2.0.0
+2025-05-06 14:44:53.277 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-05-06 14:44:53.277 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Backlog/Login
+2025-05-06 14:44:53.365 DEBUG testcase.Login                           - 1: openBrowser("")
+2025-05-06 14:44:53.603 INFO  c.k.k.core.webui.driver.DriverFactory    - Starting 'Chrome' driver
+2025-05-06 14:44:53.657 INFO  c.k.k.core.webui.driver.DriverFactory    - Action delay is set to 0 milliseconds
+May 06, 2025 2:44:54 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find CDP implementation matching 136
+May 06, 2025 2:44:54 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$4
+WARNING: Unable to find version of CDP to use for 136.0.7103.48. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.28.1` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+2025-05-06 14:44:55.089 INFO  c.k.k.core.webui.driver.DriverFactory    - sessionId = 71706af2617f3b2444de29fdf2257348
+2025-05-06 14:44:55.090 INFO  c.k.k.core.webui.driver.DriverFactory    - browser = Chrome 136.0.7103.48
+2025-05-06 14:44:55.091 INFO  c.k.k.core.webui.driver.DriverFactory    - platform = Windows 11
+2025-05-06 14:44:55.091 INFO  c.k.k.core.webui.driver.DriverFactory    - seleniumVersion = 4.28.1
+2025-05-06 14:44:55.100 INFO  c.k.k.core.webui.driver.DriverFactory    - proxyInformation = ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList="", isApplyToDesiredCapabilities=true }
+2025-05-06 14:44:55.151 DEBUG testcase.Login                           - 2: navigateToUrl("https://account.dev.qashup.co/login")
+2025-05-06 14:44:55.643 DEBUG testcase.Login                           - 3: setText(findTestObject("Object Repository/Page_Qashup Account/input_Username_username"), "admin@test.com")
+2025-05-06 14:44:56.440 DEBUG testcase.Login                           - 4: setEncryptedText(findTestObject("Object Repository/Page_Qashup Account/input_Password_password"), "aeHFOx8jV/A=")
+2025-05-06 14:44:56.723 DEBUG testcase.Login                           - 5: click(findTestObject("Object Repository/Page_Qashup Account/button_Login"))
+2025-05-06 14:44:57.014 DEBUG testcase.Login                           - 6: click(findTestObject("Object Repository/Page_Qashup Account/div_Back Office"))
+2025-05-06 14:45:00.125 INFO  c.k.k.core.webservice.common.HarLogger   - HAR: C:\Users\NUC\git\katalon\Reports\20250506_144446\BRAND_TS02\20250506_144447\requests\main\Create-Execution_0.har
+2025-05-06 14:45:00.206 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Backlog/Login
+2025-05-06 14:45:00.211 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-05-06 14:45:00.212 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Dev Environment/BRAND_TS02_TC01
+2025-05-06 14:45:00.328 DEBUG testcase.BRAND_TS02_TC01                 - 1: click(findTestObject("Object Repository/Page_Qashup Backoffice/a_Brand  Branch"))
+2025-05-06 14:45:01.270 DEBUG testcase.BRAND_TS02_TC01                 - 2: click(findTestObject("Object Repository/Page_Qashup Backoffice/div_Brand"))
+2025-05-06 14:45:01.971 DEBUG testcase.BRAND_TS02_TC01                 - 3: click(findTestObject("Object Repository/Page_Qashup Backoffice/button_Add Brand"))
+2025-05-06 14:45:02.901 DEBUG testcase.BRAND_TS02_TC01                 - 4: click(findTestObject("Object Repository/Page_Qashup Backoffice/input_Brand Name_input input-bordered h-42p_d0de7f"))
+2025-05-06 14:45:03.374 DEBUG testcase.BRAND_TS02_TC01                 - 5: setText(findTestObject("Object Repository/Page_Qashup Backoffice/input_Brand Name_input input-bordered h-42p_d0de7f"), "QA Merchant")
+2025-05-06 14:45:03.886 DEBUG testcase.BRAND_TS02_TC01                 - 6: click(findTestObject("Object Repository/Page_Qashup Backoffice/button_Upload Logo"))
+2025-05-06 14:45:04.160 DEBUG testcase.BRAND_TS02_TC01                 - 7: click(findTestObject("Object Repository/Page_Qashup Backoffice/button_Save"))
+2025-05-06 14:45:04.768 INFO  c.k.k.core.webservice.common.HarLogger   - HAR: C:\Users\NUC\git\katalon\Reports\20250506_144446\BRAND_TS02\20250506_144447\requests\main\Create-Execution_1.har
+2025-05-06 14:45:04.776 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Dev Environment/BRAND_TS02_TC01
+2025-05-06 14:45:05.081 INFO  c.k.katalon.core.main.TestSuiteExecutor  - --------------------
+2025-05-06 14:45:05.082 INFO  c.k.katalon.core.main.TestSuiteExecutor  - END Test Suites/BRAND_TS02
+2025-05-06 14:45:05.082 INFO  c.k.katalon.core.main.TestSuiteExecutor  - ====================

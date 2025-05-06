@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Add Brand_w-5 h-5</name>
+   <tag></tag>
+   <elementGuidId>ed83dd11-9258-4a3b-8808-ed0a856f4ada</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Brand'])[1]//*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>a3220c01-6c61-4a8d-a2b5-576eec50e3e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>930d4e20-8c92-4edc-9633-f1e23f7d5ebe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 20 20</value>
+      <webElementGuid>1caafdbe-a110-4577-80d2-15c24d8ec1b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>0d3a0184-b2a2-4687-b67b-614cb1860e17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>00518ed9-ac4b-4408-bd0f-f7cc68937cf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slot</name>
+      <type>Main</type>
+      <value>icon</value>
+      <webElementGuid>fbc90a1b-a79f-4b0b-9d8b-77eb630b91b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-5 h-5</value>
+      <webElementGuid>c0484109-dabb-43d4-8826-4ab556f13db2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_8033ae&quot;]/div[@class=&quot;w-full text-black dark:text-light&quot;]/div[@class=&quot;flex min-h-[100vh]&quot;]/div[@class=&quot;w-full max-w-[calc(100%-48px)] sm:max-w-auto flex flex-col bg-gray-10&quot;]/main[@class=&quot;flex flex-col flex-1 flex-grow bg-gray-10 dark:bg-slate-400  min-h-[89.5dvh]&quot;]/div[@class=&quot;px-10 py-[30px]&quot;]/div[@class=&quot;overflow-x-auto lg:overflow-x-hidden bg-white text-gray-700 w-auto h-auto mt-4 shadow-lg overflow-hidden dark:bg-slate-700 rounded-xl&quot;]/div[@class=&quot;bg-white text-gray-700 w-auto h-auto mt-4 shadow-lg overflow-hidden dark:bg-slate-700 rounded-xl&quot;]/div[@class=&quot;flex sm:flex-row flex-col p-5 justify-between&quot;]/div[@class=&quot;flex flex-initial sm:mr-0 mr-1 justify-end mt-4 sm:mt-0 space-x-4 text-sm&quot;]/button[@class=&quot;btn h-12 text-[16px] font-semibold btn-primary sm:!max-h-[42px] !max-h-[36px] min-h-max&quot;]/svg[@class=&quot;w-5 h-5&quot;]</value>
+      <webElementGuid>7f96eacd-739e-4de1-8da7-627d1c6561ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Brand'])[1]//*[name()='svg'][1]</value>
+      <webElementGuid>6c5eb0bf-727b-4efa-9d39-5bc2c7d7dda4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brand'])[2]/following::*[name()='svg'][2]</value>
+      <webElementGuid>91360a08-24b9-474d-81a0-7a1b4efee5d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brand'])[3]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>5a6fcc21-a88c-4bed-9be2-1ed1656856f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Number of Branch'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>e1bfdd9e-9528-4f5f-a554-88bf83d09a74</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

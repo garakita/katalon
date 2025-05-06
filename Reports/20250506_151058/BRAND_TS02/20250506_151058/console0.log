@@ -1,0 +1,111 @@
+2025-05-06 15:11:02.907 INFO  c.k.katalon.core.main.TestSuiteExecutor  - START Test Suites/BRAND_TS02
+2025-05-06 15:11:03.038 INFO  c.k.katalon.core.main.TestSuiteExecutor  - userFullName = Parat
+2025-05-06 15:11:03.039 INFO  c.k.katalon.core.main.TestSuiteExecutor  - projectName = katalon
+2025-05-06 15:11:03.039 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostName = NUC - NUC13Anhi7
+2025-05-06 15:11:03.040 INFO  c.k.katalon.core.main.TestSuiteExecutor  - os = Windows 11 64bit
+2025-05-06 15:11:03.040 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostAddress = 192.168.1.36
+2025-05-06 15:11:03.041 INFO  c.k.katalon.core.main.TestSuiteExecutor  - katalonVersion = 10.2.0.0
+2025-05-06 15:11:03.694 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-05-06 15:11:03.695 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Backlog/Login
+2025-05-06 15:11:03.783 DEBUG testcase.Login                           - 1: openBrowser("")
+2025-05-06 15:11:04.024 INFO  c.k.k.core.webui.driver.DriverFactory    - Starting 'Chrome' driver
+2025-05-06 15:11:04.068 INFO  c.k.k.core.webui.driver.DriverFactory    - Action delay is set to 0 milliseconds
+May 06, 2025 3:11:05 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find CDP implementation matching 136
+May 06, 2025 3:11:05 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$4
+WARNING: Unable to find version of CDP to use for 136.0.7103.48. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.28.1` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+2025-05-06 15:11:05.549 INFO  c.k.k.core.webui.driver.DriverFactory    - sessionId = 586fb9b52e63be6b0eda35a2b2b17166
+2025-05-06 15:11:05.550 INFO  c.k.k.core.webui.driver.DriverFactory    - browser = Chrome 136.0.7103.48
+2025-05-06 15:11:05.550 INFO  c.k.k.core.webui.driver.DriverFactory    - platform = Windows 11
+2025-05-06 15:11:05.551 INFO  c.k.k.core.webui.driver.DriverFactory    - seleniumVersion = 4.28.1
+2025-05-06 15:11:05.555 INFO  c.k.k.core.webui.driver.DriverFactory    - proxyInformation = ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList="", isApplyToDesiredCapabilities=true }
+2025-05-06 15:11:05.590 DEBUG testcase.Login                           - 2: navigateToUrl("https://account.dev.qashup.co/login")
+2025-05-06 15:11:06.005 DEBUG testcase.Login                           - 3: setText(findTestObject("Object Repository/Page_Qashup Account/input_Username_username"), "admin@test.com")
+2025-05-06 15:11:06.811 DEBUG testcase.Login                           - 4: setEncryptedText(findTestObject("Object Repository/Page_Qashup Account/input_Password_password"), "aeHFOx8jV/A=")
+2025-05-06 15:11:07.107 DEBUG testcase.Login                           - 5: click(findTestObject("Object Repository/Page_Qashup Account/button_Login"))
+2025-05-06 15:11:07.384 DEBUG testcase.Login                           - 6: click(findTestObject("Object Repository/Page_Qashup Account/div_Back Office"))
+2025-05-06 15:11:10.764 INFO  c.k.k.core.webservice.common.HarLogger   - HAR: C:\Users\NUC\git\katalon\Reports\20250506_151058\BRAND_TS02\20250506_151058\requests\main\Create-Execution_0.har
+2025-05-06 15:11:10.838 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Backlog/Login
+2025-05-06 15:11:10.847 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-05-06 15:11:10.847 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Dev Environment/BRAND_TS02_TC01
+2025-05-06 15:11:10.961 DEBUG testcase.BRAND_TS02_TC01                 - 1: click(findTestObject("Object Repository/Page_Qashup Backoffice/a_Brand  Branch"))
+2025-05-06 15:11:12.286 DEBUG testcase.BRAND_TS02_TC01                 - 2: click(findTestObject("Object Repository/Page_Qashup Backoffice/div_Brand"))
+2025-05-06 15:11:12.976 DEBUG testcase.BRAND_TS02_TC01                 - 3: click(findTestObject("Object Repository/Page_Qashup Backoffice/button_Add Brand"))
+2025-05-06 15:11:14.114 DEBUG testcase.BRAND_TS02_TC01                 - 4: click(findTestObject("Object Repository/Page_Qashup Backoffice/input_Brand Name_input input-bordered h-42p_d0de7f"))
+2025-05-06 15:11:14.598 DEBUG testcase.BRAND_TS02_TC01                 - 5: setText(findTestObject("Object Repository/Page_Qashup Backoffice/input_Brand Name_input input-bordered h-42p_d0de7f"), "QA Merchant")
+2025-05-06 15:11:15.095 DEBUG testcase.BRAND_TS02_TC01                 - 6: click(findTestObject("Object Repository/Page_Qashup Backoffice/button_Upload Logo"))
+2025-05-06 15:11:46.289 INFO  c.k.k.c.webui.common.WebUiCommonHelper   - Unable to find the element located by 'By.xpath: //div[@id='headlessui-dialog-panel-:rf:']/div[2]/div/div/button'. Please recheck the objects properties to make sure the desired element is located. 
+2025-05-06 15:11:46.437 ERROR c.k.k.core.keyword.internal.KeywordMain  - ❌ Unable to click on object 'Object Repository/Page_Qashup Backoffice/button_Upload Logo' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Qashup Backoffice/button_Upload Logo'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at BRAND_TS02_TC01.run(BRAND_TS02_TC01:31)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:486)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:477)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:456)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:322)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:186)
+	at TempTestSuite1746519058099.run(TempTestSuite1746519058099.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Qashup Backoffice/button_Upload Logo' located by '//div[@id='headlessui-dialog-panel-:rf:']/div[2]/div/div/button' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1457)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at Script1746516577781.run(Script1746516577781.groovy:31)
+	... 15 more
+)
+2025-05-06 15:11:46.440 ERROR c.k.katalon.core.main.TestCaseExecutor   - ❌ Test Cases/Dev Environment/BRAND_TS02_TC01 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Qashup Backoffice/button_Upload Logo'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at BRAND_TS02_TC01.run(BRAND_TS02_TC01:31)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:486)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:477)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:456)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:322)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:186)
+	at TempTestSuite1746519058099.run(TempTestSuite1746519058099.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Qashup Backoffice/button_Upload Logo' located by '//div[@id='headlessui-dialog-panel-:rf:']/div[2]/div/div/button' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1457)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 20 more
+
+2025-05-06 15:11:46.698 INFO  c.k.k.core.webservice.common.HarLogger   - HAR: C:\Users\NUC\git\katalon\Reports\20250506_151058\BRAND_TS02\20250506_151058\requests\main\Create-Execution_1.har
+2025-05-06 15:11:46.701 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Dev Environment/BRAND_TS02_TC01
+2025-05-06 15:11:46.706 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2025-05-06 15:11:46.706 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Dev Environment/BRAND_TS02_TC02
+2025-05-06 15:11:46.781 DEBUG testcase.BRAND_TS02_TC02                 - 1: click(findTestObject("Object Repository/Page_Qashup Backoffice/svg_QA Merchant_h-8 w-9"))
